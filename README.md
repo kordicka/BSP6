@@ -4,9 +4,9 @@ This repository contains code and data files related to a comprehensive gene exp
 
 ## Repository Structure
 
-- **CODE/**  
+- **CODE**  
   Contains scripts and outputs used for various stages of the analysis.  
-  - **Network_Analysis/**  
+  - **Network_Analysis**  
     Includes Java programs (JAR files) and R scripts that perform network generation, differential network analysis, perturbation analysis, and post-processing steps.  
     This folder also holds network data files, gene expression matrices, adjacency lists, perturbation results, and images visualizing network phenotypes.  
   - R scripts and datasets for statistical analysis such as pathway enrichment, differential expression, and Fisher exact tests are present at the top level of the CODE directory.
