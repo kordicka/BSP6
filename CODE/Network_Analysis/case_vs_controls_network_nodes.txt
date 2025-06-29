@@ -1,0 +1,5032 @@
+100043468	Zfp955b
+1110006G06Rik	Fam98c
+1110033F04Rik	Krtap4-2
+1110038B12Rik	1110038B12Rik
+1110059G10Rik	1110059G10Rik
+1300002K09Rik	Stra6l
+1300003B13Rik	Zfp946
+14-3-3 epsilon	Ywhae
+14-3-3 sigma	Sfn
+14-3-3 theta	Ywhaq
+14-3-3 zeta/delta	Ywhaz
+1500011B03Rik	1500011B03Rik
+1700012B15Rik	Rab10os
+1700019G17Rik	Nat8f4
+1700066C05Rik	1700066C05Rik
+1700123K08Rik	1700123K08Rik
+2'-PDE	Pde12
+2010315B03Rik	2010315B03Rik
+2200002D01Rik	2200002D01Rik
+2310022A10Rik	2310022A10Rik
+2310042E22Rik	Teddm3
+2310046A06Rik	Mlip
+2410002F23Rik	2410002F23Rik
+2410066E13Rik	Mturn
+2410124H12Rik	2410124H12Rik
+2610005L07Rik	2610005L07Rik
+2610029I01Rik	Tstd3
+2610524H06Rik	2610524H06Rik
+2700097O09Rik	2700097O09Rik
+2900073G15Rik	Myl12a
+3-OST1	Hs3st1
+3-OST4	Hs3st4
+3110039M20Rik	3110039M20Rik
+3200002M19Rik	Anapc15
+3222401L13Rik	3222401L13Rik
+4.1N	Epb41l1
+4930407I10Rik	4930407I10Rik
+4930443G12Rik	Slc25a54
+4930542N06Rik	4930542N06Rik
+4930591A17Rik	4930591A17Rik
+4932411G14Rik	Spata31d1d
+4932415G12Rik	Cep83os
+4933402D24Rik	4933402D24Rik
+4933403G14Rik	Map10
+4933404O12Rik	4933404O12Rik
+4ET	Eif4enif1
+5'-NT1B	Nt5c1b
+5'-NTC	Nt5c2
+5430417L22Rik	Inafm2
+5730403M16Rik	Zfp954
+5T4	Tpbg
+6330403K07Rik	6330403K07Rik
+6330514A18Rik	Plk5
+6430590A07Rik	6430590A07Rik
+6820431F20Rik	6820431F20Rik
+6PGL	Pgls
+8030475D13Rik	4930539J05Rik
+8430429K09Rik	8430429K09Rik
+9430002A10Rik	9430002A10Rik
+A-Myb	Mybl1
+A130022J15Rik	Eogt
+A630023A22Rik	A630023A22Rik
+A730089K16Rik	A730089K16Rik
+A930035D04Rik	A930035D04Rik
+AARD	Aard
+AASDHPPT	Aasdhppt
+AATF (Che-1)	Aatf
+AB041806	AB041806
+ABBP1	Hnrnpab
+ABCA1	Abca1
+ABCA2	Abca2
+ABCA5	Abca5
+ABCA8	Abca8b
+ABCC1	Abcc1
+ABCC5	Abcc5
+ABCG1	Abcg1
+ABCG4	Abcg4
+ABHD10	Abhd10
+ABHD12	Abhd12
+ABHD13	Abhd13
+ABHD14B	Abhd14b
+ABHD15	Abhd15
+ABHD8	Abhd8
+ABIN-2	Tnip2
+ABL2	Abl2
+ABLIM2	Ablim2
+ABT1	Abt1
+ABTAP	Esf1
+ABTB1	Abtb1
+ACAD-9	Acad9
+ACADM	Acadm
+ACADVL	Acadvl
+ACAT1	Acat1
+ACAT2	Acat2
+ACBD7	Acbd7
+ACCN5	Asic5
+ACDSB	Acadsb
+ACK1	Tnk2
+ACLY	Acly
+ACM1	Chrm1
+ACOT6	Acot6
+ACOX1	Acox1
+ACP33	Spg21
+ACSA	Acss2
+ACSL3	Acsl3
+ACSL4	Acsl4
+ACTB	Actb
+ACY2	Aspa
+ACYP1	Acyp1
+ADA	Ada
+ADA2B	Tada2b
+ADAL	Adal
+ADAM-TS2	Adamts2
+ADAM-TS7	Adamts7
+ADAM-TS8	Adamts8
+ADAM12	Adam12
+ADAM15	Adam15
+ADAM17	Adam17
+ADAM22	Adam22
+ADAM9	Adam9
+ADCK2	Adck2
+ADHFE1	Adhfe1
+ADO	Ado
+ADPGK	Adpgk
+AF-10	Mllt10
+AF-17	Mllt6
+AF-4	Aff1
+AFAP	Afap1
+AFG3L1	Afg3l1
+AFG3L2	Afg3l2
+AGAL	Gla
+AGBL5	Agbl5
+AGP2 (ORM2)	Orm2
+AGTPBP1	Agtpbp1
+AHDC1	Ahdc1
+AHNAK	Ahnak
+AHSA2	Ahsa2
+AI593442	AI593442
+AI854703	AI854703
+AI987944	AI987944
+AIDA	Aida
+AIFM3	Aifm3
+AIM2	Aim2
+AIP	Aip
+AIP1 (DAB2ip)	Dab2ip
+AK2	Ak2
+AKAP1	Akap1
+AKAP10	Akap10
+AKAP11	Akap11
+AKAP12	Akap12
+AKAP3	Akap3
+AKAP350	Akap9
+AKAP5	Akap5
+AKAP6	Akap6
+AKAP7 alpha/beta	Akap7
+AKAP7 gamma	Akap7
+AKIRIN2	Akirin2
+AKR1C3	Akr1c18
+AKR1CL2	Akr1e1
+AKT3	Akt3
+AL1B1	Aldh1b1
+AL3A2	Aldh3a2
+AL3B2	Aldh3b2
+ALD2	Akr1b8
+ALD9A1	Aldh9a1
+ALDH2	Aldh2
+ALDOA	Aldoa
+ALG11	Alg11
+ALG2	Alg2
+ALG3	Alg3
+ALG9	Alg9
+ALK-4	Acvr1b
+ALKBH1	Alkbh1
+ALKBH5	Alkbh5
+ALPL	Alpl
+ALS2	Als2
+ALS2CR13	Fam117b
+ALS2CR8	Carf
+ALY	Alyref
+AMBRA1	Ambra1
+AMD1	Amd1
+AMD3	Ampd3
+AMDHD2	Amdhd2
+AMH type II receptor	Amhr2
+AMIGO	Amigo1
+AMIGO2	Amigo2
+AML1 (RUNX1)	Runx1
+AMMECR1	Ammecr1
+AMMECR1L	Ammecr1l
+AMOTL1 (Jeap)	Amotl1
+AMPK alpha 1 subunit	Prkaa1
+AMPK beta1	Prkab1
+AMPL	Lap3
+AMSH	Stambp
+AMWAP	Wfdc17
+AMYP	Amy1
+ANAPC1	Anapc1
+ANAPC4	Anapc4
+ANAPC7	Anapc7
+ANCO-1	Ankrd11
+ANCO-2	Ankrd12
+ANGPTL6	Angptl6
+ANKDD1B	Ankdd1b
+ANKFY1	Ankfy1
+ANKMY2	Ankmy2
+ANKRD13A	Ankrd13a
+ANKRD13C	Ankrd13c
+ANKRD2	Ankrd2
+ANKRD25	Kank2
+ANKRD27(Varp)	Ankrd27
+ANKRD28	Ankrd28
+ANKRD29	Ankrd29
+ANKRD32	Slf1
+ANKRD33B	Ankrd33b
+ANKRD34	Ankrd34a
+ANKRD37	Ankrd37
+ANKRD43	Sowaha
+ANKRD44	Ankrd44
+ANKRD46	Ankrd46
+ANKRD55	Ankrd55
+ANKRD6	Ankrd6
+ANKS1	Anks1
+ANKS1B	Anks1b
+ANO3	Ano3
+ANO6	Ano6
+ANP32E	Anp32e
+AOF1	Kdm1b
+AP complex 2 small (sigma) chain	Ap2s1
+AP-1 beta subunit	Ap1b1
+AP-4	Tfap4
+AP180	Snap91
+AP1GBP1	Synrg
+AP1M2	Ap1m2
+AP1S2	Ap1s2
+AP1S3	Ap1s3
+AP2A2	Ap2a2
+AP3M2	Ap3m2
+AP3S1	Ap3s1
+AP3S2	Ap3s2
+AP4A	Nudt2
+AP4B1	Ap4b1
+AP4S1	Ap4s1
+APBA2BP	Necab3
+APCL	Apc2
+APEG1	Speg
+APEX2	Apex2
+APG10	Atg10
+APG12	Atg12
+APG16L1	Atg16l1
+APG3	Atg3
+APH-1B	Aph1b
+API5	Api5
+APIP	Apip
+APLP2 active fragment	Aplp2
+APLP2 precursor	Aplp2
+APOA2	Apoa2
+APOBEC-2	Apobec2
+APOD	Apod
+APOE	Apoe
+APOL2	Apol8
+APOLD1	Apold1
+APOO	Apoo
+APP	App
+APP-C31	App
+APP-C59 (AICD)	App
+APP-C83 (CTF)	App
+APP-C99	App
+APP-CTF delta-long	App
+APP-CTF delta-short	App
+APP-CTF eta	App
+APP-CTF theta	App
+APP-Jcasp	App
+APP-NCas	App
+APP-P3	App
+APPL1	Appl1
+APPL2	Appl2
+ARAP2	Arap2
+ARC	Arc
+ARF1	Arf1
+ARF3	Arf3
+ARF4	Arf4
+ARF5	Arf5
+ARF6	Arf6
+ARFGAP1	Arfgap1
+ARG2	Arg2
+ARHGAP11A	Arhgap11a
+ARHGAP18	Arhgap18
+ARHGAP20	Arhgap20
+ARHGAP21	Arhgap21
+ARHGAP23	Arhgap23
+ARHGEF10	Arhgef10
+ARHGEF2	Arhgef2
+ARHGEF3	Arhgef3
+ARHGEF4	Arhgef4
+ARID4A	Arid4a
+ARIH2 (TRIAD1)	Arih2
+ARL1	Arl1
+ARL14EP	Arl14ep
+ARL15	Arl15
+ARL4	Arl4a
+ARL4C	Arl4c
+ARL5B	Arl5b
+ARL6IP2	Atl2
+ARL6IP4	Arl6ip4
+ARL8A	Arl8a
+ARMC1	Armc1
+ARMCX3	Armcx3
+ARMET	Manf
+ARP2	Actr2
+ARPC2	Arpc2
+ARPC3	Arpc3
+ARPC4	Arpc4
+ARPC5	Arpc5
+ARPC5L	Arpc5l
+ARPP- 21	Arpp21
+ARPP-19	Arpp19
+ARRDC3	Arrdc3
+ARRDC4	Arrdc4
+ARVCF	Arvcf
+ARX	Arx
+AS250	Ralgapa2
+ASAHL	Naaa
+ASAP	Map9
+ASB13	Asb13
+ASB3	Asb3
+ASB6	Asb6
+ASCT1 (SLC1A4)	Slc1a4
+ASF1A	Asf1a
+ASGR2	Asgr2
+ASK1 (MAP3K5)	Map3k5
+ASM3A	Smpdl3a
+ASPDH	Aspdh
+ASPHD2	Asphd2
+ASPP2	Trp53bp2
+ASXL1	Asxl1
+ASXL3	Asxl3
+ATAD2	Atad2
+ATAD5	Atad5
+ATE1	Ate1
+ATF-3	Atf3
+ATF-4	Atf4
+ATF-7	Atf7
+ATF7IP	Atf7ip
+ATG13	Atg13
+ATG4C	Atg4c
+ATG9A	Atg9a
+ATG9B	Atg9b
+ATIC	Atic
+ATIP1	Mtus1
+ATL3	Atl3
+ATM	Atm
+ATOH8	Atoh8
+ATOX1	Atox1
+ATP-dependent RNA helicase DDX3Y	Ddx3y
+ATP1A1	Atp1a1
+ATP1A2	Atp1a2
+ATP1B2	Atp1b2
+ATP1B3	Atp1b3
+ATP6AP2	Atp6ap2
+ATP7A	Atp7a
+ATP8A1	Atp8a1
+ATPAF1	Atpaf1
+ATPAF1-AS1	Tex38
+ATPBD1C	Gpn3
+ATPBD4	Dph6
+ATR	Atr
+ATXN7L1	Atxn7l1
+ATXN7L3B	Atxn7l3b
+AU041133	AU041133
+AUMH	Auh
+AUTS2	Auts2
+AXUD1	Csrnp1
+AY702103	AY702103
+Ac-SDKP	Tmsb4x
+Acot12	Acot12
+ActRIIA	Acvr2a
+ActRIIB	Acvr2b
+Actin cytoplasmic 2	Actg1
+Activin beta A	Inhba
+Adenylate cyclase type II	Adcy2
+Adenylate cyclase type IX	Adcy9
+Adenylate cyclase type V	Adcy5
+AdipoR1	Adipor1
+AdipoR2	Adipor2
+Ag2	Gm13889
+Aggrecanase-1	Adamts4
+Akirin 1	Akirin1
+Aldoal1	Aldoart1
+Aldoart2	Aldoart2
+Alg13	Alg13
+AlkB	Alkbh6
+Alpha adducin	Add1
+Alpha crystallin A	Cryaa
+Alpha dystroglycan	Dag1
+Alpha-1 catenin	Ctnna1
+Alpha-2B adrenergic receptor	Adra2b
+Alpha-2C-1 adrenergic receptor	Adra2c
+Alpha-N-catenin	Ctnna2
+Alpha-centractin	Actr1a
+Alpha-fodrin	Sptan1
+Alpha-internexin	Ina
+Aminoacylase-1	Acy1
+Amphiregulin	Areg
+Amyloid beta 38	App
+Amyloid beta 40	App
+Amyloid beta 42	App
+Androgen receptor	Ar
+Ankrd34b	Ankrd34b
+Ankrd56	Sowahb
+Ankyrin-B	Ank2
+Ankyrin-G	Ank3
+Annexin III	Anxa3
+Annexin V	Anxa5
+Annexin VII	Anxa7
+Anoctamin-3	Ano3
+Aquaporin 1	Aqp1
+Aralar1 (SLC25A12)	Slc25a12
+Arl16	Arl16
+Ash1	Ash1l
+Ashwin	AI597479
+Asprosin	Fbn1
+Asrgl1	Asrgl1
+Astrotactin-1	Astn1
+Atad2b	Atad2b
+Ataxin-1	Atxn1
+Ataxin-7	Atxn7
+Atg101	Atg101
+Atrophin-1	Atn1
+Attractin	Atrn
+Aurora-C	Aurkc
+Azi1	Cep131
+B-FABP	Fabp7
+B-Myc	Bmyc
+B-TAF	Btaf1
+B-ind1	Hacd3
+B230217C12Rik	B230217C12Rik
+B3GA1	B3gat1
+B3GALTL	B3glct
+B3GN1	B3gnt2
+B3GN6	B4gat1
+B3GT2	B3galt2
+B3GT3	B3galnt1
+B3GT5	B3galt5
+B4GALNT4	B4galnt4
+B4GT5	B4galt5
+B4GT7	B4galt7
+B56G	Ppp2r5c
+B930041F14Rik	Fndc10
+B930041F14Rik	Fndc10l
+B9D1	B9d1
+BAALC	Baalc
+BACE1	Bace1
+BACH1	Bach1
+BACH2	Bach2
+BAD	Bad
+BAF155	Smarcc1
+BAF170	Smarcc2
+BAF180	Pbrm1
+BAF200	Arid2
+BAF250A	Arid1a
+BAF250B	Arid1b
+BAF47	Smarcb1
+BAF57	Smarce1
+BAFF-R	Tnfrsf13c
+BAHD1	Bahd1
+BAI3	Adgrb3
+BAIAP2	Baiap2
+BAIAP3	Baiap3
+BAIP3	Lrif1
+BAMBI	Bambi
+BARHL2	Barhl2
+BASP1	Basp1
+BAT2	Prrc2a
+BAT4	Gpank1
+BAZ1A	Baz1a
+BAZ1B	Baz1b
+BAZ2B	Baz2b
+BAZF	Bcl6b
+BBIP1	Bbip1
+BBS10	Bbs10
+BBS12	Bbs12
+BBS4	Bbs4
+BBS7	Bbs7
+BBS9	Bbs9
+BBX	Bbx
+BC002059	BC002059
+BC011426	Zfp959
+BC023055	Morn4
+BC029684	Lactbl1
+BC030500	BC030500
+BC031441	Zfp119b
+BC049807	Zfp948
+BC050254	5031425E22Rik
+BC066028	Zfp941
+BCAM	Bcam
+BCAP29	Bcap29
+BCAR3	Bcar3
+BCAS1	Bcas1
+BCAT1	Bcat1
+BCCIP	Bccip
+BCDIN3	Mepce
+BCL7A	Bcl7a
+BCR	Bcr
+BChE	Bche
+BDH	Bdh1
+BDH2	Bdh2
+BET1	Bet1
+BETA-IG-H3	Tgfbi
+BETA-PIX	Arhgef7
+BHC80	Phf21a
+BHLHB9	Bhlhb9
+BI-1	Tmbim6
+BICC1	Bicc1
+BICD1	Bicd1
+BIG1	Arfgef1
+BIG2	Arfgef2
+BIKe	Bmp2k
+BIVM	Bivm
+BLOS3	Bloc1s3
+BMI-1	Bmi1
+BMP15	Bmp15
+BMPER	Bmper
+BMPR1A	Bmpr1a
+BMPR1B	Bmpr1b
+BNaC2 (ASIC1a)	Asic1
+BOAT	Atxn1l
+BOK	Bok
+BOLA2	Bola2
+BPAG1	Dst
+BPHL	Bphl
+BRD1	Brd1
+BRD2	Brd2
+BRD3	Brd3
+BRD8	Brd8
+BRF2	Brf2
+BRG1	Smarca4
+BRI3BP	Bri3bp
+BRK	Ptk6
+BRM	Smarca2
+BRSK2	Brsk2
+BRUNOL4	Celf4
+BRUNOL5	Celf5
+BST2	Bst2
+BTBD14A	Nacc2
+BTBD3	Btbd3
+BTBD5	Klhl28
+BTF	Bclaf1
+BTF3	Btf3
+BTF3L4	Btf3l4
+BTG1	Btg1
+BTG2	Btg2
+BUB3	Bub3
+BXDC1	Rpf2
+BXDC2	Brix1
+BZW1	Bzw1
+Bassoon	Bsn
+Bat2l	Prrc2b
+Bcl-10	Bcl10
+Bcl-6	Bcl6
+Bcl-9	Bcl9
+Bcl-G	Bcl2l14
+Bcl-W	Bcl2l2
+Bcl-XL	Bcl2l1
+Bestrophin-1	Best1
+Beta adducin	Add2
+Beta dystroglycan	Dag1
+Beta-arrestin1	Arrb1
+Beta-arrestin2	Arrb2
+Beta-fodrin	Sptbn1
+Beta-parvin	Parvb
+Beta-sarcoglycan	Sgcb
+Beta-synuclein	Sncb
+Beta-tryptase 1	Tpsab1
+Bim	Bcl2l11
+BinCARD	Card19
+Birc6	Birc6
+Bles03	AI837181
+Bombesin receptor	Brs3
+Brca2	Brca2
+Bystin	Bysl
+C/EBP zeta	Ddit3
+C/EBPalpha	Cebpa
+C/EBPbeta	Cebpb
+C/EBPdelta	Cebpd
+C030046I01Rik	R3hdm4
+C10orf118	Ccdc186
+C10orf4	Fra10ac1
+C10orf46	Cacul1
+C10orf84	Fam204a
+C10orf88	2310057M21Rik
+C10orf90	D7Ertd443e
+C11orf24	1810055G02Rik
+C11orf41	D430041D05Rik
+C11orf54	4931406C07Rik
+C11orf61	Msantd2
+C11orf75	Smco4
+C11orf9	Myrf
+C12orf23	Tmem263
+C12orf26	Mettl25
+C12orf4	D6Wsu163e
+C12orf43	2210016L21Rik
+C12orf48	Parpbp
+C12orf53	Pianp
+C13orf33	Medag
+C13orf37	Mzt1
+C14orf102	Nrde2
+C14orf119	1700123O20Rik
+C14orf135	Pcnx4
+C14orf138	Vcpkmt
+C14orf147	Sptssa
+C14orf179	Ift43
+C14orf21	Nop9
+C14orf28	Gm527
+C14orf61	Cep128
+C15orf17	Fam219b
+C15orf27	Tmem266
+C15orf38	Arpin
+C15orf60	Rec114
+C16orf46	1700030J22Rik
+C16orf54	AI467606
+C16orf55	Spata33
+C16orf61	Cmc2
+C16orf87	4921524J17Rik
+C17orf108	Lyrm9
+C17orf39	Gid4
+C17orf61	Tmem256
+C17orf75	5730455P16Rik
+C17orf85	Ncbp3
+C17orf90	Oxld1
+C18orf1	Ldlrad4
+C18orf10	Tpgs2
+C18orf22	Rbfa
+C18orf32	BC031181
+C18orf42	Akain1
+C18orf55	Timm21
+C19orf12	1600014C10Rik
+C19orf42	Smim7
+C19orf53	D8Ertd738e
+C19orf59	Mcemp1
+C1orf114	Ccdc181
+C1orf125	Axdnd1
+C1orf128	Pithd1
+C1orf156	Mettl18
+C1orf161	Mab21l3
+C1orf163	Coa7
+C1orf173	Erich3
+C1orf174	A430005L14Rik
+C1orf21	1700025G04Rik
+C1orf26	Swt1
+C1orf31	Coa6
+C1orf35	2310033P09Rik
+C1orf52	2410004B18Rik
+C1orf55	Sde2
+C1orf77	Chtop
+C1orf83	Tceanc2
+C1orf86	Faap20
+C1orf9	Suco
+C1orf96	Ccsap
+C1qa	C1qa
+C1ql2	C1ql2
+C20orf152	Cnbd2
+C20orf177	Fam217b
+C20orf185	Bpifb3
+C20orf3	Apmap
+C20orf4	Aar2
+C20orf43	Rtf2
+C20orf72	Mgme1
+C20orf96	6820408C15Rik
+C22orf25	Tango2
+C22orf32	Smdt1
+C22orf39	2510002D24Rik
+C22orf9	5031439G07Rik
+C2CD3	C2cd3
+C2orf34	Camkmt
+C2orf56	Ndufaf7
+C2orf72	2810459M11Rik
+C2orf79	Ptrhd1
+C3G	Rapgef1
+C3orf1	Timmdc1
+C3orf33	E130311K13Rik
+C3orf34	Cep19
+C3orf37	Hmces
+C3orf38	4930453N24Rik
+C3orf39	Pomgnt2
+C3orf57	Sptssb
+C3orf59	Mb21d2
+C3orf62	1700102P08Rik
+C4orf31	Ndnf
+C4orf34	Smim14
+C4orf41	Trappc11
+C4orf46	4930579G24Rik
+C530005A16Rik	C530005A16Rik
+C5orf24	B230219D22Rik
+C5orf32	Cystm1
+C5orf34	4833420G17Rik
+C5orf40	Fndc9
+C5orf41	Crebrf
+C630035N08Rik	Fam163b
+C6Ma1	Col6a1
+C6orf130	Oard1
+C6orf145	Pxdc1
+C6orf165	Cfap206
+C6orf186	Mettl24
+C6orf225	Fam229b
+C6orf57	Sdhaf4
+C7orf10	Sugct
+C7orf20	Get4
+C7orf25	AW209491
+C7orf36	Yae1d1
+C7orf50	3110082I17Rik
+C7orf51	Nyap1
+C8FW (GIG2)	Trib1
+C8orf40	Smim19
+C8orf82	C030006K11Rik
+C9orf100	Arhgef39
+C9orf103	Idnk
+C9orf117	Cfap157
+C9orf150	Lurap1l
+C9orf41	Carnmt1
+C9orf5	Tmem245
+C9orf50	1700001O22Rik
+C9orf75	Tprn
+C9orf82	Caap1
+CABC1	Coq8a
+CABIN1	Cabin1
+CAC	Slc25a20
+CACL	Slc25a29
+CACNA1C	Cacna1c
+CACNA1E	Cacna1e
+CACNA1H	Cacna1h
+CACNB3	Cacnb3
+CADM2	Cadm2
+CALB1	Calb1
+CALCOCO1	Calcoco1
+CALDAG-GEFI	Rasgrp2
+CALHM2	Calhm2
+CALP	Kcnip4
+CAMGAP1	Arhgap27
+CAMK1D	Camk1d
+CAMK2N2	Camk2n2
+CAMKV	Camkv
+CAMSAP1L1	Camsap2
+CAMTA1	Camta1
+CAP-1A	Sclt1
+CAP-C	Smc4
+CAP-G	Ncapg
+CAP1	Cap1
+CAP2	Cap2
+CAP350	Cep350
+CAPZA1	Capza1
+CARS2	Cars2
+CART	Cartpt
+CAS-L	Nedd9
+CAT-1 (SLC7A1)	Slc7a1
+CBLN4	Cbln4
+CBP	Crebbp
+CBR1	Cbr1
+CBR4	Cbr4
+CBX4	Cbx4
+CC175	Ccdc175
+CC2D1B	Cc2d1b
+CCBL2	Kyat3
+CCBP2 (CCR9)	Ackr2
+CCDC100	Cep120
+CCDC102A	Ccdc102a
+CCDC103	Ccdc103
+CCDC107	Ccdc107
+CCDC112	Ccdc112
+CCDC113	Ccdc113
+CCDC115	Ccdc115
+CCDC124	Ccdc124
+CCDC126	Ccdc126
+CCDC128	Ppp1r21
+CCDC14	Ccdc14
+CCDC141	Ccdc141
+CCDC146	Ccdc146
+CCDC19	Cfap45
+CCDC21	Cep85
+CCDC28B	Ccdc28b
+CCDC33	Ccdc33
+CCDC34	Ccdc34
+CCDC4	Bend4
+CCDC46	Cep112
+CCDC47	Ccdc47
+CCDC5	Haus1
+CCDC52	Spice1
+CCDC55	Nsrp1
+CCDC6	Ccdc6
+CCDC73	Ccdc73
+CCDC80	Ccdc80
+CCDC82	Ccdc82
+CCDC92	Ccdc92
+CCDC95	Ino80e
+CCG5	Cacng5
+CCG8	Cacng8
+CCK8	Cck
+CCK8-Gly	Cck
+CCK8-GlyArgArg	Cck
+CCKBR	Cckbr
+CCL25	Ccl25
+CCL27	Ccl27a
+CCL27	Ccl27al
+CCL27	Ccl27b
+CCNL2	Ccnl2
+CCNYL1	Ccnyl1
+CCX CKR	Ackr4
+CD151	Cd151
+CD163	Cd163
+CD164	Cd164
+CD164L2	Cd164l2
+CD166	Alcam
+CD200 (OX-2)	Cd200
+CD27(TNFRSF7)	Cd27
+CD276	Cd276
+CD2AP	Cd2ap
+CD3 zeta	Cd247
+CD300LF	Cd300lf
+CD30L (TNFSF8)	Tnfsf8
+CD36L2	Scarb2
+CD4	Cd4
+CD47	Cd47
+CD53	Cd53
+CD68	Cd68
+CD81	Cd81
+CD83	Cd83
+CDC14a	Cdc14a
+CDC14b	Cdc14b
+CDC18L (CDC6)	Cdc6
+CDC25B	Cdc25b
+CDC25C	Cdc25c
+CDC26	Cdc26
+CDC2L2	Cdk11b
+CDC2L5	Cdk13
+CDC40	Cdc40
+CDCA1	Nuf2
+CDD	Cda
+CDH20	Cdh20
+CDIP	Cdip1
+CDK10	Cdk10
+CDK11	Cdk19
+CDK14	Cdk14
+CDK5	Cdk5
+CDK5R1 (p25)	Cdk5r1
+CDK5R1 (p35)	Cdk5r1
+CDK5RAP1	Cdk5rap1
+CDK7	Cdk7
+CDKAL1	Cdkal1
+CDKL4	Cdkl4
+CDO1	Cdo1
+CDR2	Cdr2
+CDS1	Cds1
+CDS2	Cds2
+CDYL	Cdyl
+CDYL2	Cdyl2
+CEBPG	Cebpg
+CECR2	Cecr2
+CELSR1	Celsr1
+CELSR2	Celsr2
+CENP-A	Cenpa
+CENP-B	Cenpb
+CENPP	Cenpp
+CENTB2	Acap2
+CENTG2	Agap1
+CENTG3	Agap3
+CEP4	Cdc42ep4
+CEP68	Cep68
+CEP76	Cep76
+CEPT1	Cept1
+CFTR	Cftr
+CG4853	Rasgef1a
+CGGBP1	Cggbp1
+CGI-121	Tprkb
+CGI-15	Slc35c2
+CGI-30	Dph5
+CGI-55	Serbp1
+CHAC1	Chac1
+CHCHD4	Chchd4
+CHCHD7	Chchd7
+CHD1	Chd1
+CHD5	Chd5
+CHD6	Chd6
+CHD7	Chd7
+CHD8	Chd8
+CHFR	Chfr
+CHIC1	Chic1
+CHIC2	Chic2
+CHIP	Stub1
+CHL1	Chl1
+CHMP1B	Chmp1b
+CHMP4B	Chmp4b
+CHMP5	Chmp5
+CHMP6	Chmp6
+CHP1	Chordc1
+CHSS2	Chpf
+CHSS3	Chsy3
+CHST1	Chst1
+CHSTC	Chst12
+CIAPIN1	Ciapin1
+CIDE-B	Cideb
+CIITA	Ciita
+CINAP	Tspyl2
+CINP	Cinp
+CIP150	Ric1
+CIR	Cir1
+CIRBP	Cirbp
+CISH	Cish
+CITED4	Cited4
+CIZ1	Ciz1
+CLCN3	Clcn3
+CLCN5	Clcn5
+CLDND1	Cldnd1
+CLF-1	Crlf1
+CLIC6	Clic6
+CLIM1	Pdlim1
+CLIP3	Clip3
+CLIP4	Clip4
+CLN6	Cln6
+CLUAP1	Cluap1
+CLVS1	Clvs1
+CLYBL	Clybl
+CMAS	Cmas
+CMC1	Cmc1
+CMIP	Cmip
+CMKLR1	Cmklr1
+CMPK2	Cmpk2
+CMTM4	Cmtm4
+CMTM5	Cmtm5
+CMTM6	Cmtm6
+CNIH2	Cnih2
+CNIH3	Cnih3
+CNNM3	Cnnm3
+CNOT3	Cnot3
+CNOT6	Cnot6
+CNP	Nppc
+CNP1	Cnp
+CNRIP1	Cnrip1
+CNTFR alpha	Cntfr
+CNTLN	Cntln
+CNTN1 (F3)	Cntn1
+CNTN5	Cntn5
+CNTN6	Cntn6
+CNTNAP5	Cntnap5a
+COBL	Cobl
+COBRA1	Nelfb
+COG5	Cog5
+COG7	Cog7
+COL6A1	Col6a1
+COMMD10	Commd10
+COMMD5	Commd5
+COMMD8	Commd8
+COMP	Comp
+COMT	Comt
+COMTD1	Comtd1
+COPB	Copb1
+COPB2	Copb2
+COPE	Cope
+COPG1	Copg1
+COPS3	Cops3
+COPS6	Cops6
+COPS7B	Cops7b
+COPZ1	Copz1
+COQ10A	Coq10a
+COQ10B	Coq10b
+COQ6	Coq6
+COQ7	Coq7
+CORO1A(CLABP, TACO)	Coro1a
+CORO1C	Coro1c
+CORO6	Coro6
+CORTBP2	Cttnbp2
+COX IV-1	Cox4i1
+COX IV-2	Cox4i2
+COX VIII-2	Cox8a
+COX VIIa-1	Cox7a1
+COX VIIa-2	Cox7a2
+COX VIIa-2L	Cox7a2l
+COX VIb-1	Cox6b1
+COX Va	Cox5a
+COX-2 (PTGS2)	Ptgs2
+COX11	Cox11
+COX16	Cox16
+COX19	Cox19
+CPA2	Cpa2
+CPB1	Cpb1
+CPEB1	Cpeb1
+CPEB4	Cpeb4
+CPNE2	Cpne2
+CPSF1	Cpsf1
+CPSF2	Cpsf2
+CPSF3	Cpsf3
+CPSF7	Cpsf7
+CPXM2	Cpxm2
+CR1L	Cr1l
+CREAM1	Gtf2ird1
+CREB3L2	Creb3l2
+CREB5	Creb5
+CREBL2	Crebl2
+CREG2	Creg2
+CRELD1	Creld1
+CREM (activators)	Crem
+CREM (repressors)	Crem
+CRIPT	Cript
+CRLF2	Crlf2
+CRLS1	Crls1
+CRMP1	Crmp1
+CRMP2	Dpysl2
+CRMP4	Dpysl3
+CRMP5	Dpysl5
+CRP1	Csrp1
+CRP2	Csrp2
+CRTL1	Hapln1
+CRY2	Cry2
+CRYZL1	Cryzl1
+CSAD	Csad
+CSDC2	Csdc2
+CSEN4	Kcnip3
+CSL4	Exosc1
+CSMD3	Csmd3
+CSRNP2	Csrnp2
+CST11	Cst11
+CST9L	Cst9
+CSTF2T	Cstf2t
+CTA-221G9.4	2900026A02Rik
+CTC1	Ctc1
+CTCF	Ctcf
+CTDP1	Ctdp1
+CTDSP2 (SCP2)	Ctdsp2
+CTDSPL	Ctdspl
+CTDSPL2	Ctdspl2
+CTE2	Acot7
+CTIP2	Bcl11b
+CTL2	Slc44a2
+CTNNAL1	Ctnnal1
+CTNNBL1	Ctnnbl1
+CTSW	Ctsw
+CUGBP1	Celf1
+CUTA	Cuta
+CUTC	Cutc
+CVAK104	Scyl2
+CWF19L2	Cwf19l2
+CXCL14	Cxcl14
+CXXC1	Cxxc1
+CXXC4	Cxxc4
+CXXC6	Tet1
+CXorf38	1810030O07Rik
+CYB5-M	Cyb5b
+CYB5R4	Cyb5r4
+CYBASC3	Cyb561a3
+CYC1	Cyc1
+CYFIP2	Cyfip2
+CYLD	Cyld
+CYP2C8	Cyp2c65
+CYP2S1	Cyp2s1
+CYP46	Cyp46a1
+CYP51A1	Cyp51
+CaBP1	Cabp1
+CaMK I	Camk1
+CaMK II alpha	Camk2a
+CaMK II gamma	Camk2g
+CaMK IV	Camk4
+CaMKK1	Camkk1
+CaMKK2	Camkk2
+Cacng6	Cacng6
+CacyBP(SIP)	Cacybp
+Cadherin 10	Cdh10
+Cadherin 11	Cdh11
+Cadherin 7	Cdh7
+Cadherin 8	Cdh8
+Cadherin 9	Cdh9
+CalDAG-GEFIII	Rasgrp3
+Calcineurin A (alpha)	Ppp3ca
+Calcineurin A (beta)	Ppp3cb
+Calcineurin B1	Ppp3r1
+Calcipressin 2	Rcan2
+Calcipressin-3	Rcan3
+Calmyrin	Cib1
+Calpain 1(mu)	Capn1
+Calpain 7	Capn7
+Calponin-2	Cnn2
+Calsequestrin 2 (cardiac muscle)	Casq2
+Calsyntenin-1	Clstn1
+Calsyntenin-3	Clstn3
+CapG	Capg
+Carbonic anhydrase II	Car2
+Carbonic anhydrase XI	Car11
+Carboxypeptidase H	Cpe
+Carboxypeptidase M	Cpm
+Carom	Fchsd2
+Casein kinase I alpha	Csnk1a1
+Casein kinase I delta	Csnk1d
+Casein kinase I epsilon	Csnk1e
+Casein kinase I gamma 2	Csnk1g2
+Casein kinase I gamma-3	Csnk1g3
+Casein kinase II, beta chain (Phosvitin)	Csnk2b
+Caspase-7	Casp7
+Caspase-9	Casp9
+Caspr2	Cntnap2
+Cathepsin O	Ctso
+Cathepsin S	Ctss
+Cathepsin V	Ctsl
+Ccdc12	Ccdc12
+Ccdc123	Cep89
+Cdt6 (angiopoietin-like)	Angptl7
+Centrin 3	Cetn3
+Centrin 4	Cetn4
+Centrin-2	Cetn2
+Cep63	Cep63
+Cep97	Cep97
+Cerebellin 1	Cbln1
+Cereblon	Crbn
+Chapsyn-110	Dlg2
+Chitotriosidase	Chit1
+Chromogranin A	Chga
+Citron	Cit
+Clathrin heavy chain	Cltc
+Clathrin light chain B	Cltb
+Claudin-10	Cldn10
+Claudin-11	Cldn11
+Claudin-12	Cldn12
+Claudin-16	Cldn16
+Clmn	Clmn
+ClpP	Clpp
+Cml1	Nat8f1
+CoREST	Rcor1
+CoactosinLP	Cotl1
+Cofilin, muscle	Cfl2
+Collagen VII	Col7a1
+Connexin 30.2/ 31.3	Gjc3
+Connexin 43	Gja1
+Connexin 46	Gja3
+Contactin 2	Cntn2
+Copine-5	Cpne5
+Cortexin 1	Ctxn1
+Cortexin 2	Ctxn2
+Cosmc	C1galt1c1
+Creatine transporter 1 (SLC6A8)	Slc6a8
+Cryptdin4	Defa4
+Csk	Csk
+Csmd1	Csmd1
+CtBP2	Ctbp2
+Ctsll3_70202	Ctsll3
+Cullin 1	Cul1
+Cullin 4A	Cul4a
+Cullin 4B	Cul4b
+Cyclin D1	Ccnd1
+Cyclin D2	Ccnd2
+Cyclin D3	Ccnd3
+Cyclin E2	Ccne2
+Cyclin F	Ccnf
+Cyclin K	Ccnk
+Cyclin L1	Ccnl1
+Cyclin M1	Cnnm1
+Cyclin T1	Ccnt1
+Cyclin T2	Ccnt2
+Cyclin-O	Ccno
+Cyclon	Ccdc86
+Cys1	Cys1
+CysLT1 receptor	Cysltr1
+Cystatin A	Csta1
+Cystatin B	Cstb
+Cystatin E/M	Cst6
+Cytochrome c	Cycs
+Cytoglobin	Cygb
+Cytohesin1	Cyth1
+Cytohesin3	Cyth3
+D130052B06Rik	D130052B06Rik
+D230010M03Rik	Harbi1
+D2HGDH	D2hgdh
+D52	Tpd52
+D830036C21Rik	D830036C21Rik
+DACT1	Dact1
+DACT2	Dact2
+DAD-1	Dad1
+DAK	Tkfc
+DAL1	Epb41l3
+DALRD3	Dalrd3
+DAN	Nbl1
+DAND5	Dand5
+DAPK1	Dapk1
+DARPP-32	Ppp1r1b
+DARS2	Dars2
+DAT1	Lmo3
+DBC1	Ccar2
+DBCCR1	Brinp1
+DBP	Dbp
+DBS	Mcf2l
+DCAF15	Dcaf15
+DCAMKL1	Dclk1
+DCAMKL2	Dclk2
+DCAMKL3	Dclk3
+DCDC2	Dcdc2a
+DCN1	Dcun1d3
+DCOR	Odc1
+DCP2	Dcp2
+DCTN3	Dctn3
+DCTN6	Dctn6
+DCUN1D4	Dcun1d4
+DCUN1D5	Dcun1d5
+DCXR	Dcxr
+DDB2	Ddb2
+DDC	Ddc
+DDEF1	Asap1
+DDEF2(PAG3)	Asap2
+DDHD1	Ddhd1
+DDHD2	Ddhd2
+DDIT4L	Ddit4l
+DDT	Ddt
+DDX10	Ddx10
+DDX17	Ddx17
+DDX28	Ddx28
+DDX30	Dhx30
+DDX3X	Ddx3x
+DDX3Y	D1Pas1
+DDX46	Ddx46
+DDX47	Ddx47
+DDX5	Ddx5
+DDX50	Ddx50
+DDX6	Ddx6
+DDX9	Dhx9
+DECR	Decr1
+DEDD	Dedd
+DEFM	Pdf
+DEK	Dek
+DEM1	Exo5
+DENND1A	Dennd1a
+DENND1B	Dennd1b
+DENND2C	Dennd2c
+DENND4B	Dennd4b
+DENND5B	Dennd5b
+DENR	Denr
+DEPDC1B	Depdc1b
+DERA	Dera
+DERP6	Elp5
+DES1	Degs1
+DEXI	Dexi
+DGAT2	Dgat2
+DGCR2	Dgcr2
+DGCR8	Dgcr8
+DGK-beta	Dgkb
+DGK-epsilon	Dgke
+DHB4	Hsd17b4
+DHE3	Glud1
+DHFR	Dhfr
+DHPR	Qdpr
+DHRS1	Dhrs1
+DHRS10	Hsd17b14
+DHRS3	Dhrs3
+DHRS4	Dhrs4
+DHSO	Sord
+DHX15	Dhx15
+DHX16	Dhx16
+DHX32	Dhx32
+DHX33	Dhx33
+DHX34	Dhx34
+DHX57	Dhx57
+DIA1	Diaph1
+DIAC	Ctbs
+DIP2A	Dip2a
+DIP2B	Dip2b
+DIP2C	Dip2c
+DIPA	Ccdc85b
+DIS3L2	Dis3l2
+DISP1	Disp1
+DISP2	Disp2
+DKFZP434B0335	Tecpr1
+DKFZP686E2158	Smim15
+DKFZp667G2110	Crybg3
+DKFZp761B107	Ccdc149
+DLDH	Dld
+DLGAP1 (GKAP)	Dlgap1
+DLGAP2	Dlgap2
+DLGAP3 (SAPAP3)	Dlgap3
+DLK	Dlk1
+DLL1	Dll1
+DLL1 (IC)	Dll1
+DLL1 (TMIC)	Dll1
+DLX5	Dlx5
+DLX6	Dlx6
+DMAP1	Dmap1
+DMKN	Dmkn
+DMP4	Fam20c
+DMTF1	Dmtf1
+DMXL1	Dmxl1
+DNA polymerase beta	Polb
+DNA polymerase kappa	Polk
+DNA polymerase mu	Polm
+DNA polymerase zeta	Rev3l
+DNA2	Dna2
+DNAH17	Dnah17
+DNAJB11	Dnajb11
+DNAJB12	Dnajb12
+DNAJB14	Dnajb14
+DNAJB2	Dnajb2
+DNAJB5	Dnajb5
+DNAJB6 (Hdj-1)	Dnajb6
+DNAJC11	Dnajc11
+DNAJC13	Dnajc13
+DNAJC17	Dnajc17
+DNAJC18	Dnajc18
+DNAJC21	Dnajc21
+DNAJC27	Dnajc27
+DNAJC28	Dnajc28
+DNAJC6	Dnajc6
+DNAL1	Dnal1
+DNAPTP6	Spats2l
+DNER	Dner
+DNJC1	Dnajc1
+DNLZ	Dnlz
+DNase1L2	Dnase1l2
+DOC2A	Doc2a
+DOCK10	Dock10
+DOCK11	Dock11
+DOCK3	Dock3
+DOCK4	Dock4
+DOHH	Dohh
+DOM3Z	Dxo
+DOS	Cbarp
+DOT1	Dot1l
+DP2	Tfdp2
+DPF2	Dpf2
+DPH4	Dnajc24
+DPM3 (reg)	Dpm3
+DPP4	Dpp4
+DPP6	Dpp6
+DPP8	Dpp8
+DPY19L1	Dpy19l1
+DPY19L3	Dpy19l3
+DPY19L4	Dpy19l4
+DR1	Dr1
+DR6(TNFRSF21)	Tnfrsf21
+DRAP1	Drap1
+DRD1IP	Caly
+DREAM	Kcnip3
+DREV1	Mettl9
+DRG1	Drg1
+DRIP130	Med23
+DROSHA	Drosha
+DRP2	Drp2
+DSCAM	Dscam
+DSCAML1	Dscaml1
+DT3UO	Ddit3
+DTL (hCdt2)	Dtl
+DTWD2	Dtwd2
+DTX4	Dtx4
+DUE-B	Dtd1
+DUS4L	Dus4l
+DUSP11	Dusp11
+DUSP18	Dusp18
+DUSP19	Dusp19
+DUSP5	Dusp5
+DUSP8	Dusp8
+DVWA (DIVA)	Col6a4
+DYLX2	D130043K22Rik
+DYN-A(1-17)	Pdyn
+DYNC1I1	Dync1i1
+DYRK1a	Dyrk1a
+DYRK3	Dyrk3
+DZIP	Dzip1
+DZIP3	Dzip3
+Dbpht2	Dbpht2
+Dcc	Dcc
+Ddx3y (rodent)	Ddx3y
+Ddx59	Ddx59
+Defb6	Defb6
+Defcr-rs2	Defa-rs2
+Delta-catenin	Ctnnd2
+Dematin	Dmtn
+Derlin-3	Derl3
+Derlin1	Derl1
+Desmoglein 1-beta	Dsg1b
+Destrin	Dstn
+Dexras1	Rasd1
+Dhrsx	Dhrsx
+Dlx6os1	Dlx6os1
+DnaJB9	Dnajb9
+DnaJC9	Dnajc9
+Dnaja4	Dnaja4
+Dnajc16	Dnajc16
+Doc2g	Doc2g
+Doublecortin	Dcx
+Dph1	Dph1
+Drebrin	Dbn1
+Dusp28	Dusp28
+Dynamin-2	Dnm2
+Dynein 1, cytoplasmic, heavy chain	Dync1h1
+Dynorphin A(1-13)	Pdyn
+Dysferlin	Dysf
+Dyskerin (NAP57)	Dkc1
+Dystroglycan	Dag1
+Dystrophin	Dmd
+E-FABP	Fabp5
+E230016K23Rik	E230016K23Rik
+E2F4	E2f4
+E2F5	E2f5
+E3b1(ABI-1)	Abi1
+E430018J23Rik	Zfp764l1
+E4BP4	Nfil3
+E4F1	E4f1
+EAF1	Eaf1
+EAF2	Eaf2
+EBAG9	Ebag9
+ECE1	Ece1
+ECE2	Ece2
+ECE2	Eef1akmt4
+ECE2	Eef1ece2
+ECHDC2	Echdc2
+ECHP	Ehhadh
+EDEM3	Edem3
+EDIL3	Edil3
+EDR1	Phc1
+EDR2	Phc2
+EED	Eed
+EEF1E1	Eef1e1
+EEPD1	Eepd1
+EF-hand domain-containing family member A2	Micu3
+EFCAB7	Efcab7
+EFCE2	Ece2
+EFCE2	Eef1akmt4
+EFCE2	Eef1ece2
+EFEMP2	Efemp2
+EFHA1	Micu2
+EFHA2	Micu3
+EFHD1	Efhd1
+EFMT4	Ece2
+EFMT4	Eef1akmt4
+EFMT4	Eef1ece2
+EFR3B	Efr3b
+EG331392	Gm5124
+EG381438	Gm5148
+EG626854	Gm38396
+EG666609	Gm8186
+EGFL5	Megf9
+EGFL7	Egfl7
+EGLN2	Egln2
+EGR1	Egr1
+EGR2 (Krox20)	Egr2
+EGR3	Egr3
+EGR4	Egr4
+EIF1AX	Eif1ax
+EIF1B	Eif1b
+EIF2A	Eif2a
+EIF2C3	Ago3
+EIF2C4 (Argonaute-4)	Ago4
+EIF4E3	Eif4e3
+EIF5A2	Eif5a2
+EKI1	Etnk1
+EKLF1	Klf1
+ELAC1	Elac1
+ELKS	Erc1
+ELL2	Ell2
+ELMO1	Elmo1
+ELMOD1	Elmod1
+ELOVL4	Elovl4
+ELOVL5	Elovl5
+ELOVL6	Elovl6
+ELP3	Elp3
+ELP70	Eml2
+ELYS	Ahctf1
+EME2	Eme2
+EML4	Eml4
+EMP3	Emp3
+ENC1	Enc1
+ENDOGL1	Exog
+ENH	Pdlim5
+ENIGMA	Pdlim7
+ENO2	Eno2
+ENO3	Eno3
+ENOPH1	Enoph1
+ENP1	Entpd1
+ENP3	Entpd3
+ENPP5	Enpp5
+ENSMUSG00000042857	Gm9776
+ENT1	Slc29a1
+ENTPD7	Entpd7
+EP400	Ep400
+EPAS1	Epas1
+EPC2	Epc2
+EPDR1	Epdr1
+EPHX2	Ephx2
+EPI64	Tbc1d10a
+EPN2	Epn2
+ERC2/CAST	Erc2
+ERF	Erf
+ERGIC2	Ergic2
+ERK4	Mapk4
+ERMN	Ermn
+ERP5	Pdia6
+ERdj5	Dnajc10
+ERp44	Erp44
+ESE3	Ehf
+ESM-1	Esm1
+ETFA	Etfa
+ETO	Runx1t1
+ETR3	Celf2
+ETV3	Etv3
+ETV6(TEL1)	Etv6
+EVI2A	Evi2a
+EVL	Evl
+EWI2	Igsf8
+EWS	Ewsr1
+EXTL1	Extl1
+EXTL3	Extl3
+EZH1	Ezh1
+Ebp1	Pa2g4
+EfaPK	Pomk
+Efs/Sin	Efs
+Eftud1	Efl1
+Eif2s3y	Eif2s3y
+Elfn2	Elfn2
+Elk-1	Elk1
+Elk-4	Elk4
+Emerin	Emd
+Emi1	Fbxo5
+En2	En2
+Endophilin A2	Sh3gl1
+Endophilin B1	Sh3glb1
+Endophilin B2	Sh3glb2
+Ep-CAM	Epcam
+Ephexin	Ngef
+Ephrin-A receptor 1	Epha1
+Ephrin-A receptor 2	Epha2
+Ephrin-A receptor 4	Epha4
+Ephrin-A receptor 7	Epha7
+Ephrin-A1	Efna1
+Ephrin-B receptor 1	Ephb1
+Ephrin-B1	Efnb1
+Ephrin-B2	Efnb2
+Ephrin-B2 (CTF2)	Efnb2
+Ephrin-B3	Efnb3
+Epimorphin	Stx2
+Epo receptor	Epor
+Epsilon-sarcoglycan	Sgce
+Epsin 1	Epn1
+ErbB4	Erbb4
+ErbB4(CTF)	Erbb4
+ErbB4(ICD)	Erbb4
+Esrra	Esrra
+Esrrg	Esrrg
+Exo84	Exoc8
+Exostosin-like 2	Extl2
+F263	Pfkfb3
+F264	Pfkfb4
+FA2H	Fa2h
+FAAH	Faah
+FABD	Mcat
+FADD	Fadd
+FADS1	Fads1
+FADS6	Fads6
+FAIM	Faim
+FAIM2	Faim2
+FAK1	Ptk2
+FALZ	Bptf
+FAM108A1	Abhd17a
+FAM108B1	Abhd17b
+FAM110B	Fam110b
+FAM113B	Pced1b
+FAM116B	Dennd6b
+FAM117A	Fam117a
+FAM123A	Amer2
+FAM125B	Mvb12b
+FAM130A2	Csrnp3
+FAM131A	Fam131a
+FAM135A	Fam135a
+FAM13B1	Fam13b
+FAM13C1	Fam13c
+FAM149A	Fam149a
+FAM14A	Ifi27l2b
+FAM167A	Fam167a
+FAM168B	Fam168b
+FAM169A	Fam169a
+FAM171A1	Fam171a1
+FAM171A2	Fam171a2
+FAM174B	Fam174b
+FAM176B	Eva1b
+FAM193A	Fam193a
+FAM199X	Fam199x
+FAM32A	Fam32a
+FAM3A	Fam3a
+FAM40A	Strip1
+FAM40B	Strip2
+FAM43A	Fam43a
+FAM44B	Bod1
+FAM55B	Nxpe2
+FAM55C	Nxpe3
+FAM55D	Nxpe4
+FAM5B	Brinp2
+FAM70A	Tmem255a
+FAM76B	Fam76b
+FAM81A	Fam81a
+FAM90A1	Fam90a1b
+FAM98A	Fam98a
+FAM98B	Fam98b
+FANCA	Fanca
+FANCB	Fancb
+FANCC	Fancc
+FANCE	Fance
+FANCF	Fancf
+FANCG	Fancg
+FAP48	Glmn
+FAR2	Far2
+FARSB	Farsb
+FASTKD1	Fastkd1
+FAT3	Fat3
+FATP1	Slc27a1
+FBF1	Fbf1
+FBP30	Fnbp4
+FBX22	Fbxo22
+FBX29	Fbxw8
+FBX33	Fbxo33
+FBXL12	Fbxl12
+FBXL16	Fbxl16
+FBXL17	Fbxl17
+FBXL3	Fbxl3
+FBXL4	Fbxl4
+FBXO10	Fbxo10
+FBXO11	Fbxo11
+FBXO17	Fbxo17
+FBXO21	Fbxo21
+FBXO24	Fbxo24
+FBXO30	Fbxo30
+FBXO36	Fbxo36
+FBXO41	Fbxo41
+FBXO44	Fbxo44
+FBXO7	Fbxo7
+FBXW11	Fbxw11
+FBXW2	Fbxw2
+FBXW5	Fbxw5
+FBXW7	Fbxw7
+FCHO2	Fcho2
+FCoR	Fcor
+FDFT1	Fdft1
+FDX1	Fdx1
+FEM1A	Fem1a
+FEN1	Fen1
+FGD1	Fgd1
+FGF11	Fgf11
+FGF12	Fgf12
+FGF3	Fgf3
+FGFR1OP2	Fgfr1op2
+FGFR2	Fgfr2
+FGFRL1	Fgfrl1
+FGL2	Fgl2
+FHIT	Fhit
+FIBIN	Fibin
+FILIP	Filip1
+FIP1L1	Fip1l1
+FIP200	Rb1cc1
+FKBP11	Fkbp11
+FKBP15	Fkbp15
+FKBP1B	Fkbp1b
+FKBP2	Fkbp2
+FKBP7	Fkbp7
+FKHR	Foxo1
+FKRP	Fkrp
+FKSG14	Cenpk
+FLII	Flii
+FLJ10094	Enox1
+FLJ10350	Map7d1
+FLJ10707	Setd5
+FLJ10986	Fggy
+FLJ11021	Rsrc2
+FLJ11151	Cpped1
+FLJ12671	Isg20l2
+FLJ13149	Fastkd5
+FLJ14803	Tmem209
+FLJ20125	Gin1
+FLJ20259	Qrich1
+FLJ20291	Cwc25
+FLJ20422	Tmem161a
+FLJ20534	Hpf1
+FLJ20558	C87436
+FLJ20625	Lamtor1
+FLJ20718	Heatr3
+FLJ21511	Cwh43
+FLJ21742	1700030K09Rik
+FLJ21820	Ldah
+FLJ22184	Prr36
+FLJ22318	Rmnd5b
+FLJ22349	Ccdc134
+FLJ30707	Fam124a
+FLJ31818	Bmt2
+FLJ35773	Mfsd6l
+FLJ36031	Ccdc71l
+FLJ36070	Mamstr
+FLJ38984	5730409E04Rik
+FLJ45032	Tmppe
+FLJ45455	Shisa6
+FLRE	Blvrb
+FLRT1	Flrt1
+FLYWCH1	Flywch1
+FMNL1	Fmnl1
+FN14(TNFRSF12A)	Tnfrsf12a
+FNBP1	Fnbp1
+FNBP1L	Fnbp1l
+FNDC3B	Fndc3b
+FNDC4	Fndc4
+FNDC5	Fndc5
+FNDC8	Fndc8
+FOXJ3	Foxj3
+FOXK1	Foxk1
+FOXN3	Foxn3
+FOXO3A	Foxo3
+FOXO4	Foxo4
+FOXP1	Foxp1
+FOXRED2	Foxred2
+FPGT	Fpgt
+FPRL1	Fpr2
+FRAT2	Frat2
+FRMD3	Frmd3
+FRMD4B	Frmd4b
+FRMD5	Frmd5
+FRMD8	Frmd8
+FRS2	Frs2
+FRY	Fry
+FSRP	Fstl3
+FSTL1	Fstl1
+FTHC	Mthfs
+FTO	Fto
+FTS	Aktip
+FTase-alpha	Fnta
+FUCO	Fuca1
+FUNDC1	Fundc1
+FUS	Fus
+FUSIP1	Srsf10
+FUT8	Fut8
+FXYD2	Fxyd2
+FXYD6	Fxyd6
+FXYD7	Fxyd7
+FYCO1	Fyco1
+FZD9	Fzd9
+Fam78b	Fam78b
+Fank1	Fank1
+Fbm1	Gpatch8
+Ferroportin 1	Slc40a1
+Fhl4	Fhl4
+Fibcd1	Fibcd1
+Fibrillarin	Fbl
+Fibrillin 1	Fbn1
+Fibrinogen beta	Fgb
+Fibulin-5	Fbln5
+Fidgetin	Fign
+Filamin B (TABP)	Flnb
+Fjx1	Fjx1
+Flotillin-2	Flot2
+Flywch2	Flywch2
+Fndc3a	Fndc3a
+Follistatin	Fst
+Formin 2	Fmn2
+FosB	Fosb
+Fra-1	Fosl1
+Fra-2	Fosl2
+Frataxin	Fxn
+Frem2	Frem2
+Furin	Furin
+G-protein alpha-11	Gna11
+G-protein alpha-12	Gna12
+G-protein alpha-i1	Gnai1
+G-protein alpha-i2	Gnai2
+G-protein alpha-i3	Gnai3
+G-protein alpha-o	Gnao1
+G-protein alpha-q	Gnaq
+G-protein alpha-z	Gnaz
+G-protein beta-1	Gnb1
+G-protein gamma 10	Gng10
+G-protein gamma 11	Gng11
+G-protein gamma 12	Gng12
+G-protein gamma 4	Gng4
+G20	6430571L13Rik
+G3P2	Gapdh
+G6PC3	G6pc3
+G6PD2	G6pd2
+G6PE	H6pd
+G9a	Ehmt2
+GA17	Eif3m
+GAA	Gaa
+GAB2	Gab2
+GABA-A receptor alpha-1 subunit	Gabra1
+GABA-A receptor alpha-2 subunit	Gabra2
+GABA-A receptor alpha-5 subunit	Gabra5
+GABA-A receptor alpha-6 subunit	Gabra6
+GABA-A receptor beta-2 subunit	Gabrb2
+GABA-A receptor beta-3 subunit	Gabrb3
+GABA-A receptor delta subunit	Gabrd
+GABA-A receptor gamma-3 subunit	Gabrg3
+GABARAP	Gabarap
+GABARAPL1	Gabarapl1
+GABP alpha	Gabpa
+GABPB2	Gabpb2
+GAD1	Gad1
+GAD2	Gad2
+GADD45 alpha	Gadd45a
+GADD45 beta	Gadd45b
+GADD45 gamma	Gadd45g
+GALGT	B4galnt1
+GALNT1	Galnt1
+GALNT11	Galnt11
+GALNTL1	Galnt16
+GALNTL2	Galnt15
+GALR2	Galr2
+GANC	Ganc
+GANP	Mcm3ap
+GAPCENA	Rabgap1
+GAR17	Gas2l2
+GARNL4	Rap1gap2
+GART	Gart
+GAS2	Gas2
+GAS7	Gas7
+GASC1	Kdm4c
+GAT1	Slc6a1
+GATE-16	Gabarapl2
+GATM	Gatm
+GBR1	Gabbr1
+GBX1	Gbx1
+GCC1	Gcc1
+GCC2	Gcc2
+GCFC2	Gcfc2
+GCKR(MAP4K5)	Map4k5
+GCL cat	Gclc
+GCN5	Kat2a
+GCNT2	Gcnt2
+GCP16	Golga7
+GCR	Nr3c1
+GCSH	Gcsh
+GDAP1L1	Gdap1l1
+GDAP2	Gdap2
+GDE1	Gde1
+GEFT	Arhgef25
+GEM	Gem
+GFM2	Gfm2
+GFOD1	Gfod1
+GFPT2	Gfpt2
+GFRP	Gchfr
+GGA3	Gga3
+GGNBP1	Ggnbp1
+GGTA1	Sbk1
+GGTF-II-alpha	Rabggta
+GGTF-II-beta	Rabggtb
+GIGYF1	Gigyf1
+GIMAP6	Gimap6
+GINS2	Gins2
+GIT1	Git1
+GLAST1/EAAT1	Slc1a3
+GLG1	Glg1
+GLGB	Gbe1
+GLI-2	Gli2
+GLI-3	Gli3
+GLI-3R	Gli3
+GLOD4	Glod4
+GLP-1 (7-36) amide	Gcg
+GLP-1 (7-37)	Gcg
+GLP-2	Gcg
+GLPK	Gk
+GLRX2	Glrx2
+GLRX5	Glrx5
+GLSK	Gls
+GLSL	Gls2
+GLT8D4	Gxylt2
+GLTPD1	Cptp
+GLUT1	Slc2a1
+GM2A	Gm2a
+GM3 synthase	St3gal5
+GMP2	Gmpr2
+GMPPB	Gmppb
+GMPS	Gmps
+GNA1	Gnpnat1
+GNIP (TRIM7)	Trim7
+GNL1	Gnl1
+GNL2	Gnl2
+GNL3L	Gnl3l
+GNPAT	Gnpat
+GNPDA2	Gnpda2
+GNPI	Gnpda1
+GNT-III	Mgat3
+GNT-V	Mgat5
+GOLGB1	Golgb1
+GOLPH2	Golm1
+GOLPH3	Golph3
+GOLPH3L	Golph3l
+GON4L	Gon4l
+GOS-28	Gosr1
+GP-1	Gtpbp1
+GP-IB beta	Gp1bb
+GPAM	Gpam
+GPATC2	Gpatch2
+GPATCH4	Gpatch4
+GPI	Gpi1
+GPM6A	Gpm6a
+GPR133	Adgrd1
+GPR137B	Gpr137b
+GPR137C	Gpr137c
+GPR153	Gpr153
+GPR158	Gpr158
+GPR161	Gpr161
+GPR172B	Slc52a2
+GPR173	Gpr173
+GPR178	Tmem181a
+GPR180	Gpr180
+GPR19	Gpr19
+GPR22	Gpr22
+GPR25	Gpr25
+GPR3	Gpr3
+GPR30	Gper1
+GPR37	Gpr37
+GPR39	Gpr39
+GPR56	Adgrg1
+GPR62	Gpr62
+GPR64	Adgrg2
+GPR75	Gpr75
+GPR85	Gpr85
+GPR88	Gpr88
+GPRASP2	Gprasp2
+GPRC5B	Gprc5b
+GPRIN3	Gprin3
+GPS2	Gps2
+GPSM1	Gpsm1
+GPT	Dpagt1
+GPT2	Gpt2
+GPX6	Gpx6
+GRB2	Grb2
+GREM2	Grem2
+GRID1	Grid1
+GRID2	Grid2
+GRP75	Hspa9
+GRP78	Hspa5
+GRPE2	Grpel2
+GRPP	Gcg
+GSG1L	Gsg1l
+GSHR	Gsr
+GSK3 beta	Gsk3b
+GSPT1	Gspt1
+GSTCD	Gstcd
+GSTM3	Gstm5
+GSTM5	Gstm6
+GSTO1	Gsto1
+GSTO2	Gsto2
+GSTP1	Gstp1
+GSTT2	Gstt2
+GTF3C6	Gtf3c6
+GTPBP2	Gtpbp2
+GTPBP6	Gtpbp6
+GUAC	Gmpr
+GUF1	Guf1
+GZF1	Gzf1
+GZMH	Gzmf
+Gadl1	Gadl1
+Galectin-1	Lgals1
+Galectin-4	Lgals4
+Galectin-8	Lgals8
+Gamma adducin	Add3
+Gas6	Gas6
+Gastrotropin	Fabp6
+Gelsolin	Gsn
+Gemin8	Gemin8
+Gephyrin	Gphn
+Girdin	Ccdc88a
+Glicentin	Gcg
+Glis2	Glis2
+GluR1	Gria1
+GluR2	Gria2
+GluR3	Gria3
+GluR4	Gria4
+GluR7	Grik3
+Glucagon	Gcg
+Glutaminyl-peptide cyclotransferase	Qpct
+Glyoxalase I	Glo1
+Glyoxalase II	Hagh
+Gm10501	Gm10501
+Gm10710	Gm10710
+Gm10883	Igkv8-30
+Gm4787	Gm4787
+Gm4876	Gm4876
+Gm5141	Gm5141
+Gm784	Fndc3c1
+Gm9725	Gm9725
+Golgin-245 (p230)	Golga4
+Golgin-84	Golga5
+Golgin-95	Golga2
+Golgin-97	Golga1
+Gpr123	Adgra1
+Gpr83	Gpr83
+Gprin1	Gprin1
+Gsta4	Gsta4
+Guanine deaminase	Gda
+Guanylate cyclase 2G	Gucy2g
+H-FABP	Fabp3
+HADHB	Hadhb
+HAGHL	Haghl
+HAP40	F8a
+HARI	Arih1
+HAUS5	Haus5
+HAUS6	Haus6
+HAX1	Hax1
+HB-EGF	Hbegf
+HBB2 (mouse)	Hbb-b2
+HBG1	Hbb-bh1
+HBP1	Hbp1
+HBS1L	Hbs1l
+HBXAP	Rsf1
+HBXIP	Lamtor5
+HCCR-2	Letmd1
+HCCS	Hccs
+HCD2	Hsd17b10
+HCDH	Hadh
+HCFC1R1	Hcfc1r1
+HCLP-1	Klhdc2
+HDAC11	Hdac11
+HDAC2	Hdac2
+HDAC5	Hdac5
+HDDC3	Hddc3
+HDGF	Hdgf
+HEATR4	Heatr4
+HECA	Heca
+HECTD1	Hectd1
+HECTD2	Hectd2
+HEM4	Uros
+HEMK2	N6amt1
+HEPACAM	Hepacam
+HEPHL1	Hephl1
+HERC1	Herc1
+HERC4	Herc4
+HERP	Herpud1
+HERPUD2	Herpud2
+HEXA	Hexa
+HEXB	Hexb
+HEXIM2	Hexim2
+HEY1	Hey1
+HGK(MAP4K4)	Map4k4
+HGTD-P	Fam162a
+HHIPL1	Hhipl1
+HIAT1	Mfsd14a
+HIATL1	Mfsd14b
+HIC1	Hic1
+HIC5	Tgfb1i1
+HIG1	Higd1a
+HINT2	Hint2
+HIP12	Hip1r
+HIPK1	Hipk1
+HIPK2	Hipk2
+HIST1H2BL	H2bc21
+HMBOX1	Hmbox1
+HMBS	Hmbs
+HMDH	Hmgcr
+HMG20A	Hmg20a
+HMGE	Grpel1
+HMP19	Nsg2
+HOJ-1	Rassf8
+HOXA2	Hoxa2
+HP1-BP74 protein	Hp1bp3
+HPCA	Hpca
+HPCAL4	Hpcal4
+HPD	Hpd
+HPK1(MAP4K1)	Map4k1
+HPK38	Melk
+HPS3	Hps3
+HRC	Hrc
+HRK	Hrk
+HS6ST1	Hs6st1
+HS6ST2	Hs6st2
+HSCO	Ethe1
+HSD11B1	Hsd11b1
+HSDL1	Hsdl1
+HSF2	Hsf2
+HSF2BP	Hsf2bp
+HSF4	Hsf4
+HSP10 (mitochondrial)	Hspe1
+HSP12A	Hspa12a
+HSP40	Dnajb1
+HSP60	Hspd1
+HSP70L1	Hspa14
+HSP90 beta	Hsp90ab1
+HSPA12B	Hspa12b
+HSPA1A	Hspa1a
+HSPA1B	Hspa1b
+HSPA1L	Hspa1l
+HSPA4	Hspa4
+HSPC117	Rtcb
+HSPC125	Ndufaf4
+HSPC152	Trmt112
+HSPC171	Tmem208
+HSPC176	Trappc2l
+HSST1	Ndst1
+HSST2	Ndst2
+HTR1B	Htr1b
+HTR1D	Htr1d
+HTR1F	Htr1f
+HTR2C (HTR1C)	Htr2c
+HTR3B	Htr3b
+HTR5A	Htr5a
+HUNK	Hunk
+HUS1	Hus1
+HYEP	Ephx1
+HYPB	Setd2
+Hamartin	Tsc1
+Hap-1	Hap1
+Hdj-2	Dnaja1
+Heme oxygenase 2	Hmox2
+Hemopexin	Hpx
+Hice-1	Haus8
+Histamine H1 receptor	Hrh1
+Histone H1.0	H1f0
+Homer 1	Homer1
+Huntingtin	Htt
+IAH1	Iah1
+IBP4	Igfbp4
+IBP5	Igfbp5
+IBRDC3	Rnf19b
+IBTK	Ibtk
+ICA1L	Ica1l
+ICA69	Ica1
+ICAD	Dffa
+ICAM5	Icam5
+ICAP-1	Itgb1bp1
+ICF45	Thg1l
+ICRF	Reg1
+ID1	Id1
+ID2	Id2
+ID3	Id3
+ID4	Id4
+IDH1	Idh1
+IDH3A	Idh3a
+IDH3G	Idh3g
+IDI1	Idi1
+IDO1	Ido1
+IER5	Ier5
+IEX1	Ier3
+IFG15	Tor1aip2
+IFI27	Ifi27
+IFNA1	Ifna1
+IFNGR2	Ifngr2
+IFRD1	Ifrd1
+IFRD2	Ifrd2
+IFT122	Ift122
+IFT140	Ift140
+IFT20	Ift20
+IFT74	Ift74
+IGF-1 receptor	Igf1r
+IGF-1 receptor alpha	Igf1r
+IGF-2 receptor	Igf2r
+IGF1 receptor beta	Igf1r
+IGF2BP3	Igf2bp3
+IGSF1	Igsf1
+IGSF21	Igsf21
+IHPK1	Ip6k1
+IKK-alpha	Chuk
+IKK-epsilon	Ikbke
+IKK-gamma	Ikbkg
+IKZF4	Ikzf4
+IL-1 alpha	Il1a
+IL-17 receptor	Il17ra
+IL-21	Il21
+IL-2R gamma chain	Il2rg
+IL-34	Il34
+IL10RA	Il10ra
+IL10RB	Il10rb
+IL13RA1	Il13ra1
+IL18RAP	Il18rap
+IL1RAPL2	Il1rapl2
+IL20RA	Il20ra
+IL28RA	Ifnlr1
+ILVBL	Ilvbl
+IMD1	Impdh1
+IMP2	Igf2bp2
+IMP3	Imp3
+INAFM1	Inafm1
+INF2	Inf2
+ING1	Ing1
+ING2	Ing2
+ING3	Ing3
+ING5	Ing5
+INO80	Ino80
+INO80C	Ino80c
+INPP4A	Inpp4a
+INPP5	Inpp5j
+INSIG2	Insig2
+INSL6	Insl6
+INSM2	Insm2
+INSR alpha	Insr
+INSR beta	Insr
+INTS2	Ints2
+INTS4	Ints4
+INTS7	Ints7
+IP3KA	Itpka
+IP3KB	Itpkb
+IP3R1	Itpr1
+IP3R2	Itpr2
+IPMK	Ipmk
+IPO11	Ipo11
+IPO4	Ipo4
+IPP	Ipp
+IPPK	Ippk
+IQCC	Iqcc
+IQGAP2	Iqgap2
+IQGAP3	Iqgap3
+IQSEC1	Iqsec1
+IQSEC2	Iqsec2
+IRAK1BP1	Irak1bp1
+IRAKM	Irak3
+IRAP	Lnpep
+IRAS	Nisch
+IRF2BP1	Irf2bp1
+IRF2BP2	Irf2bp2
+IRF6	Irf6
+IRF8	Irf8
+IRP1	Aco1
+IRS-1	Irs1
+IRS-2	Irs2
+ISG20L1	Aen
+ISLR2	Islr2
+ISM1	Ism1
+ISOC1	Isoc1
+IST1	Ist1
+ISY1	Isy1
+ITF2	Tcf4
+ITGA7	Itga7
+ITGA9	Itga9
+ITGAX	Itgax
+ITGB8	Itgb8
+ITGBL1	Itgbl1
+ITM2C	Itm2c
+IWS1	Iws1
+Ifi202a	Ifi202b
+Ifi27l2a	Ifi27l2a
+Ifitm6	Ifitm6
+Ifitm7	Ifitm7
+Ikaros	Ikzf1
+Impact	Impact
+Impas 1	H13
+Importin 9	Ipo9
+Inhibin alpha subunit	Inha
+Insulin receptor	Insr
+Intersectin 2	Itsn2
+Inversin	Invs
+Iporin	Rusc2
+Iqce	Iqce
+Irisin	Fndc5
+Itch	Itch
+JAK2	Jak2
+JAKMIP3	Jakmip3
+JARID2	Jarid2
+JHDM1D	Kdm7a
+JIK	Taok3
+JIP-2	Mapk8ip2
+JMJD1A	Kdm3a
+JMJD1B	Kdm3b
+JMJD2A	Kdm4a
+JMJD3	Kdm6b
+JMJD6	Jmjd6
+JMY	Jmy
+JNK2(MAPK9)	Mapk9
+JPH1	Jph1
+JSAP1	Mapk8ip3
+JWA	Arl6ip5
+Jade-1	Jade1
+Jagged2	Jag2
+Jagged2 (CTF1)	Jag2
+Jagged2 (CTF2)	Jag2
+Jouberin	Ahi1
+Jph4	Jph4
+JunB	Junb
+JunD	Jund
+Junctophilin 3	Jph3
+K-RAS	Kras
+KAB	Cep170
+KAD7	Ak7
+KBP (Serpina3c)	Serpina3c
+KBTBD3	Kbtbd3
+KBTBD5	Klhl40
+KCC2	Slc12a5
+KCNAB1	Kcnab1
+KCNAB3	Kcnab3
+KCNC2	Kcnc2
+KCNH5	Kcnh5
+KCNK1	Kcnk1
+KCNK10	Kcnk10
+KCNK12	Kcnk12
+KCNK15	Kcnk15
+KCNK2	Kcnk2
+KCNQ1	Kcnq1
+KCNQ2	Kcnq2
+KCNQ5	Kcnq5
+KCRU	Ckmt1
+KCTD10	Kctd10
+KCTD15	Kctd15
+KCTD18	Kctd18
+KCTD9	Kctd9
+KDELR1	Kdelr1
+KDELR2	Kdelr2
+KDELR3	Kdelr3
+KDM2A	Kdm2a
+KDM2B	Kdm2b
+KEAP1	Keap1
+KIAA0090	Emc1
+KIAA0103	Emc2
+KIAA0195	Tmem94
+KIAA0232	D5Ertd579e
+KIAA0247	Susd6
+KIAA0256	Secisbp2l
+KIAA0258	Rgp1
+KIAA0376	Specc1l
+KIAA0408	9330159F19Rik
+KIAA0409	Rrp8
+KIAA0460	Rprd2
+KIAA0494	Efcab14
+KIAA0513	6430548M08Rik
+KIAA0528	C2cd5
+KIAA0555	Jakmip2
+KIAA0649	Ppp1r26
+KIAA0754	Macf1
+KIAA0774	Mtus2
+KIAA0802	Mtcl1
+KIAA0892	Mau2
+KIAA0960	Thsd7a
+KIAA1128	Ccser2
+KIAA1217	Etl4
+KIAA1267	Kansl1
+KIAA1276	Fam184b
+KIAA1333	G2e3
+KIAA1447	Bahcc1
+KIAA1467	Fam234b
+KIAA1545	Fbrsl1
+KIAA1549	D630045J12Rik
+KIAA1604	Cwc22
+KIAA1632	Epg5
+KIAA1712	Cep44
+KIAA1737	Cipc
+KIAA1797	Focad
+KIAA1838	Fam120b
+KIAA2018	Usf3
+KIDINS220	Kidins220
+KIF13A	Kif13a
+KIF13B	Kif13b
+KIF16B (SNX23/C20orf23)	Kif16b
+KIF1C	Kif1c
+KIF21A	Kif21a
+KIF26B	Kif26b
+KIF3A	Kif3a
+KIF4A	Kif4
+KIF5A	Kif5a
+KLD10	Klhdc10
+KLEIP	Klhl20
+KLF11 (TIEG2)	Klf11
+KLF12	Klf12
+KLF13	Klf13
+KLF14	Klf14
+KLF4	Klf4
+KLF5	Klf5
+KLF6	Klf6
+KLF7	Klf7
+KLHDC1	Klhdc1
+KLHDC8B	Klhdc8b
+KLHL1	Klhl1
+KLHL13	Klhl13
+KLHL22	Klhl22
+KLHL23	Klhl23
+KLHL24	Klhl24
+KLHL29	Klhl29
+KLHL30	Klhl30
+KLHL5	Klhl5
+KLHL8	Klhl8
+KNDC1	Kndc1
+KPC1	Rnf123
+KRT222	Krt222
+KRT26	Krt26
+KRTAP7-1	Krtap7-1
+KRTCAP2	Krtcap2
+KTELC1	Poglut1
+KTI12	Kti12
+KTN1	Ktn1
+KY protein	Ky
+Kaiso	Zbtb33
+Kalirin	Kalrn
+Kappa-type opioid receptor	Oprk1
+Karyopherin alpha 2	Kpna2
+Karyopherin alpha 4	Kpna4
+Karyopherin alpha 6	Kpna6
+Karyopherin beta 1	Kpnb1
+Kazrin	Kazn
+Kendrin	Pcnt
+Keratin 1	Krt1
+Keratin 12	Krt12
+Keratin 16	Krt16
+Keratin 17	Krt17
+Keratin 36	Krt36
+Keratin 5	Krt5
+Keratin 6L	Krt79
+Keratin 75	Krt75
+Keratin HA4	Krt34
+Keratin-associated protein 7-1	Krtap7-1
+Kif21b	Kif21b
+Kir3.1	Kcnj3
+Kir3.3	Kcnj9
+Kizuna (C20orf19)	Kiz
+Klhl15	Klhl15
+Klhl33	Klhl33
+Klra19	Klra19
+Kv1.1	Kcna1
+Kv1.2	Kcna2
+Kv1.3	Kcna3
+Kv1.4	Kcna4
+Kv2.1	Kcnb1
+Kv3.1	Kcnc1
+Kv4.2 channel	Kcnd2
+Kv4.3 channel	Kcnd3
+Kv6.1	Kcng1
+Kv6.2	Kcng2
+L-Myc	Mycl
+L-selectin	Sell
+L1CAM	L1cam
+L1CAM (CTF1)	L1cam
+L1CAM (CTF2)	L1cam
+L2HGDH	L2hgdh
+L3MBTL2	L3mbtl2
+LAGE3	Lage3
+LAMA4	Lama4
+LAMB1	Lamb1
+LAMR1	Rpsa
+LANCL1	Lancl1
+LAP1	Tor1aip1
+LAPTM4B	Laptm4b
+LARP1	Larp1
+LARP2	Larp1b
+LARP5	Larp4b
+LASS2	Cers2
+LASS4	Cers4
+LAT	Lat
+LATS1	Lats1
+LBH	Lbh
+LCMR1	Med19
+LCMT1	Lcmt1
+LCRG1	Ggnbp2
+LDB2	Ldb2
+LDHB	Ldhb
+LDLR	Ldlr
+LDLRAD3	Ldlrad3
+LEC1	Adgrl2
+LEC2	Adgrl1
+LENG1	Leng1
+LEO1	Leo1
+LETM1	Letm1
+LETM2	Letm2
+LGI1	Lgi1
+LGI2	Lgi2
+LGI3	Lgi3
+LGN	Gpsm2
+LGR4	Lgr4
+LHFPL4	Lhfpl4
+LHX6	Lhx6
+LIAS	Lias
+LIG-1	Lrig1
+LIMCH1	Limch1
+LIMD1	Limd1
+LIN-37	Lin37
+LIN-41	Trim71
+LIN-52	Lin52
+LINGO3	Lingo3
+LIPE	Lipg
+LIPH	Liph
+LIPIN1	Lpin1
+LIPM	Lipm
+LIPP	Pnlip
+LIX1L	Lix1l
+LKB1	Stk11
+LL5alpha	Phldb1
+LLGL1	Llgl1
+LMAN1	Lman1
+LMF1	Lmf1
+LMLN	Lmln
+LMO2	Lmo2
+LNEBL	Nebl
+LOC102633679	A230006K03Rik
+LOC147670	Smim17
+LOC213332	Mfsd4b4
+LOC240038	Zfp994
+LOC245174	Zfp937
+LOC320550	5930405F01Rik
+LOC606495	Cyb5rl
+LOC627872	Dnah7a
+LOC681241	4921504E06Rik
+LOC688786	Pet100
+LOC691170	2610008E11Rik
+LOC730130	Tmem229a
+LOH12CR1	Borcs5
+LONP	Lonp1
+LONRF1	Lonrf1
+LONRF2	Lonrf2
+LONRF3	Lonrf3
+LOXE3	Aloxe3
+LPAR1	Lpar1
+LPAR2	Lpar2
+LPCAT1	Lpcat1
+LPGAT1	Lpgat1
+LPIN2	Lpin2
+LPP2	Plpp2
+LPP3	Plpp3
+LPPR3 (PRG2)	Plppr3
+LRCH2	Lrch2
+LRCH3	Lrch3
+LRCH4	Lrch4
+LRFN1	Lrfn1
+LRP1	Lrp1
+LRP1 (ICD)	Lrp1
+LRP12	Lrp12
+LRP16	Macrod1
+LRP1B	Lrp1b
+LRP1B (CTF)	Lrp1b
+LRP1B (ICD)	Lrp1b
+LRP3	Lrp3
+LRP4	Lrp4
+LRRC20	Lrrc20
+LRRC26	Lrrc26
+LRRC28	Lrrc28
+LRRC3B	Lrrc3b
+LRRC40	Lrrc40
+LRRC61	Lrrc61
+LRRC8D	Lrrc8d
+LRRCC1	Lrrcc1
+LRRFIP2	Lrrfip2
+LRRK2	Lrrk2
+LRRN1	Lrrn1
+LRRN2	Lrrn2
+LRRN3	Lrrn3
+LRRTM2	Lrrtm2
+LRRTM3	Lrrtm3
+LRSAM1	Lrsam1
+LRWD1	Lrwd1
+LSAMP	Lsamp
+LSG1	Lsg1
+LSM1	Lsm1
+LSM10	Lsm10
+LSM11	Lsm11
+LSM12	Lsm12
+LSM14A	Lsm14a
+LSM3	Lsm3
+LSM6	Lsm6
+LSS	Lss
+LSm7	Lsm7
+LTA4H	Lta4h
+LTBP2	Ltbp2
+LTV1	Ltv1
+LUC7A	Luc7l3
+LUC7B1	Luc7l
+LULL1	Tor1aip2
+LUZP1	Luzp1
+LXR-beta	Nr1h2
+LYAR	Lyar
+LYPD1	Lypd1
+LYPD6B	Lypd6b
+LYPLAL1	Lyplal1
+LYRM1	Lyrm1
+LYRM2	Lyrm2
+LYRM4	Lyrm4
+LYST	Lyst
+LYZL1	Lyzl1
+LYZL4	Lyzl4
+LZTS1	Lzts1
+Laeverin	Lvrn
+Laforin	Epm2a
+Lambda crystallin	Cryl1
+Lamin A/C	Lmna
+Lancl3	Lancl3
+LargeNN	Nts
+LargeNT	Nts
+Lba1	Trank1
+LeuRS	Lars2
+Limkain b1	Marf1
+Lingo1	Lingo1
+Liprin-alpha3	Ppfia3
+Liprin-beta 2	Ppfibp2
+Lrrfip1 (mouse)	Lrrfip1
+Lysmd3	Lysmd3
+M18BP1	Mis18bp1
+M33	Cbx2
+M9	Eif3k
+MA1A1	Man1a
+MA1C1	Man1c1
+MA2A2	Man2a2
+MACF1	Macf1
+MAD2b	Mad2l2
+MAD3	Mxd3
+MAD4	Mxd4
+MADD	Madd
+MAF1	Maf1
+MAFbx	Fbxo32
+MAG	Mag
+MAGEF1	Magef1
+MAGEL2	Magel2
+MAGI-3	Magi3
+MAGMAS	Pam16
+MAL	Mal
+MALS-2	Lin7b
+MALS-3	Lin7c
+MAML2	Maml2
+MAMLD1	Mamld1
+MAN1	Lemd3
+MANA	Mpi
+MANBAL	Manbal
+MANEA	Manea
+MANEAL	Maneal
+MANSC1	Mansc1
+MAP-1A	Map1a
+MAP-1B	Map1b
+MAP1LC3A	Map1lc3a
+MAP1LC3B	Map1lc3b
+MAP6D1	Map6d1
+MAP7(EMAP115)	Map7
+MAPK1IP1L	Mapk1ip1l
+MAPKAPK3	Mapkapk3
+MAPKBP1	Mapkbp1
+MAPRPE1(EB1)	Mapre1
+MARK1	Mark1
+MARK2	Mark2
+MARK3	Mark3
+MARLIN1	Jakmip1
+MASK	Ankhd1
+MASP1	Masp1
+MAST1	Mast1
+MAST205	Mast2
+MAST3	Mast3
+MAT1	Mnat1
+MAT2A	Mat2a
+MAT2B	Mat2b
+MATK	Matk
+MAWBP	Pbld1
+MAZ	Maz
+MAZR	Patz1
+MBD5	Mbd5
+MBD6	Mbd6
+MBIP	Mbip
+MBLAC2	Mblac2
+MBNL3	Mbnl3
+MBT domain-containing protein 1	Mbtd1
+MBTD1	Mbtd1
+MC-CPA	Cpa3
+MCART1	Slc25a51
+MCART6	Slc25a53
+MCCC2	Mccc2
+MCEE	Mcee
+MCFD2	Mcfd2
+MCM2	Mcm2
+MCM5	Mcm5
+MCM7	Mcm7
+MCM8	Mcm8
+MCM9	Mcm9
+MCP	Cd46
+MCT-1	Mcts1
+MDH2	Mdh2
+MDM2	Mdm2
+MDS025	Ccdc90b
+MDS028	Itfg2
+MED1	Med1
+MED12L	Med12l
+MED15	Med15
+MED29	Med29
+MED8	Med8
+MED9	Med9
+MEF2A	Mef2a
+MEF2B	Mef2b
+MEF2B	Mef2bl
+MEF2C	Mef2c
+MEGF10	Megf10
+MEGF8	Megf8
+MEI4	Mei4
+MEIG1	Meig1
+MEIS2	Meis2
+MEK3(MAP2K3)	Map2k3
+MEK6(MAP2K6)	Map2k6
+MEL1	Prdm16
+MEST	Mest
+METT10D	Mettl16
+METTL14	Mettl14
+METTL4	Mettl4
+METTL6	Mettl6
+MEX3A	Mex3a
+MEX3C	Mex3c
+MFAP3	Mfap3
+MFAP3L	Mfap3l
+MFHAS1	Mfhas1
+MFSD1	Mfsd1
+MFSD8	Mfsd8
+MGA	Mga
+MGAT1	Mgat1
+MGAT4A	Mgat4a
+MGC13057	1700019D03Rik
+MGC16169	Tbck
+MGF	Kitl
+MGST	Mgst1
+MGST3	Mgst3
+MIA	Mia
+MICAL3	Mical3
+MID1	Mid1
+MID1IP1	Mid1ip1
+MIF	Mif
+MIF4GD	Mif4gd
+MIG6	Errfi1
+MINK1	Mink1
+MINP1	Minpp1
+MIP-T3	Traf3ip1
+MIPOL1	Mipol1
+MIR (Idol)	Mylip
+MIRK	Dyrk1b
+MITF	Mitf
+MJD (ataxin-3)	Atxn3
+MKI67IP	Nifk
+MKK7 (MAP2K7)	Map2k7
+MKP-1	Dusp1
+MKP-2	Dusp4
+MKP6	Dusp14
+MKS1	Mks1
+MLC1F	Myl1
+MLH3	Mlh3
+MLK1(MAP3K9)	Map3k9
+MLL1 (HRX)	Kmt2a
+MLL1C	Kmt2a
+MLL1N	Kmt2a
+MLL2	Kmt2d
+MLL3	Kmt2c
+MLL5	Kmt2e
+MLLT11	Mllt11
+MLN64	Stard3
+MLSTD2	Far1
+MLX	Mlx
+MM-1	Pfdn5
+MMADHC	Mmadhc
+MMD	Mmd
+MMP-15	Mmp15
+MMP-16	Mmp16
+MMP-17	Mmp17
+MMP-2	Mmp2
+MMP23B	Mmp23
+MMR2	Mfsd6
+MMS19L	Mms19
+MMSA	Aldh6a1
+MNK2(GPRK7)	Mknk2
+MOBKL2B	Mob3b
+MOBP	Mobp
+MOC2B	Mocs2
+MOCS1	Mocs1
+MOCS2(small)	Mocs2
+MOCS3	Mocs3
+MOG1	Rangrf
+MON1B	Mon1b
+MORC2	Morc2a
+MORN2	Morn2
+MOSPD1	Mospd1
+MOSPD2	Mospd2
+MOZ	Kat6a
+MPC1	Mpc1
+MPC2	Mpc2
+MPGF	Gcg
+MPP alpha	Pmpca
+MPP1	Mpp1
+MPP11	Dnajc2
+MPP3 (DLG3)	Mpp3
+MPP7	Mpp7
+MPP8	Mphosph8
+MPPED1	Mpped1
+MPPED2	Mpped2
+MPV17L	Mpv17l
+MR-GEF	Rapgef5
+MRCKalpha	Cdc42bpa
+MRF-1	Arid5a
+MRFAP1	Gm5814
+MRFAP1L1	Mrfap1
+MRGX	Morf4l2
+MRM1	Mrm1
+MRPL11	Mrpl11
+MRPL13	Mrpl13
+MRPL16	Mrpl16
+MRPL17	Mrpl17
+MRPL18	Mrpl18
+MRPL20	Mrpl20
+MRPL21	Mrpl21
+MRPL28	Mrpl28
+MRPL32	Mrpl32
+MRPL33	Mrpl33
+MRPL35	Mrpl35
+MRPL36	Mrpl36
+MRPL37	Mrpl37
+MRPL41	Mrpl41
+MRPL43	Mrpl43
+MRPS12	Mrps12
+MRPS14	Mrps14
+MRPS16	Mrps16
+MRPS17	Mrps17
+MRPS25	Mrps25
+MRPS27	Mrps27
+MRPS30	Mrps30
+MRPS36	Mrps36
+MRPS5	Mrps5
+MRPS6	Mrps6
+MRPS9	Mrps9
+MRRF	Mrrf
+MRS2L	Mrs2
+MS4A8B	Ms4a8a
+MSG1	Cited1
+MSH3	Msh3
+MSH5	Msh5
+MSK1	Rps6ka5
+MSL3L2	Msl3l2
+MSR1	Msr1
+MSTO1	Msto1
+MSX-2	Msx2
+MT-ND5	ND5
+MTCBP-1	Adi1
+MTCH1	Mtch1
+MTERFD3	Mterf2
+MTF-2	Mtf2
+MTGR1	Cbfa2t2
+MTHFD2	Mthfd2
+MTIF2	Mtif2
+MTM1	Mtm1
+MTMR10	Mtmr10
+MTMR13	Sbf2
+MTMR3	Mtmr3
+MTMR4	Mtmr4
+MTMR6	Mtmr6
+MTMR7	Mtmr7
+MTRF1L	Mtrf1l
+MUC1	Muc1
+MUC1-CT	Muc1
+MUC1-NT	Muc1
+MUL	Trim37
+MUL1	Mul1
+MUS81	Mus81
+MUSK	Musk
+MVD	Mvd
+MYADML2	Myadml2
+MYBPC1	Mybpc1
+MYBPC3	Mybpc3
+MYBPH	Mybph
+MYCBP2	Mycbp2
+MYH10	Myh10
+MYH14	Myh14
+MYH9	Myh9
+MYLPF	Mylpf
+MYO1H	Myo1h
+MYO3B	Myo3b
+MYO5C	Myo5c
+MYO9A	Myo9a
+MYR8	Myo16
+MYRIP	Myrip
+MYSM1	Mysm1
+MYT1	Myt1
+MafF	Maff
+MafK	Mafk
+Mago nashi	Magoh
+Makorin-1	Mkrn1
+Malin	Nhlrc1
+Mapk1ip1	Mapk1ip1
+Marveld1	Marveld1
+Matrin-3	Matr3
+Mcl-1	Mcl1
+Mcpt4 (rodent)	Mcpt4
+Mcpt8	Mcpt8
+Mdga2	Mdga2
+MeCP2	Mecp2
+Med7	Med7
+Menin	Men1
+MetAP-2	Metap2
+Metallothionein-III	Mt3
+Metallothionein-IV	Mt4
+MgDP1	Mdp1
+Mi-2 alpha	Chd3
+Mi-2 beta	Chd4
+Mia3	Mia3
+Microcephalin	Mcph1
+Midn	Midn
+Migfilin	Fblim1
+MinK	Kcne1
+Miro-2	Rhot2
+Mitofusin 2	Mfn2
+Ms4a4c	Ms4a4c
+Mszf37	Zfp961
+Mu-type opioid receptor	Oprm1
+Musculin	Msc
+Muted	Bloc1s5
+Mycs	Mycs
+Myelin basic protein	Mbp
+Myeloblastin	Prtn3
+Myosin VI	Myo6
+Myosin Vb	Myo5b
+Myospryn	Cmya5
+Myt1L	Myt1l
+N-CoR	Ncor1
+N-Ras	Nras
+N-cadherin	Cdh2
+N-cadherin (CTF1)	Cdh2
+N-cadherin (CTF2)	Cdh2
+N-chimaerin	Chn1
+N-glycanase 1	Ngly1
+N-type Ca(II) channel alpha1B	Cacna1b
+N28178	Phf24
+N4BP1	N4bp1
+N4BP2L1	N4bp2l1
+N4BP3	N4bp3
+N6amt2	Eef1akmt1
+NAA25	Naa25
+NAA50	Naa50
+NAALADL2	Naaladl2
+NAB1	Nab1
+NAB2	Nab2
+NAF1	Naf1
+NAG	Nbas
+NAG14	Lrrc4
+NAG6	Ccdc136
+NAGLU	Naglu
+NAGPA	Nagpa
+NAIF1	Naif1
+NALCN	Nalcn
+NANOG	Nanog
+NAP5	Nckap5
+NAPB	Napb
+NARF	Rnf138
+NARS2	Nars2
+NASP	Nasp
+NAT-1	Nat2
+NAT-2	Nat1
+NAV1	Nav1
+NAV3	Nav3
+NBEAL1	Nbeal1
+NBEAL2	Nbeal2
+NBR1	Nbr1
+NCAG1	Dsel
+NCAM1	Ncam1
+NCAM2	Ncam2
+NCCRP1	Nccrp1
+NCK1	Nck1
+NCK2	Nck2
+NCKX3	Slc24a3
+NCOA1 (SRC1)	Ncoa1
+NCOA2 (GRIP1/TIF2)	Ncoa2
+NCOA6 (TRBP)	Ncoa6
+NCS-1	Ncs1
+NDFIP2	Ndfip2
+NDPK 6	Nme6
+NDPK 7	Nme7
+NDPK A	Nme1
+NDPK B	Nme2
+NDR2	Stk38l
+NDRG1	Ndrg1
+NDRG2	Ndrg2
+NDRG3	Ndrg3
+NDRG4	Ndrg4
+NDUFA1	Ndufa1
+NDUFA13	Ndufa13
+NDUFA3	Ndufa3
+NDUFA5	Ndufa5
+NDUFA6	Ndufa6
+NDUFA7	Ndufa7
+NDUFA8	Ndufa8
+NDUFAB1	Ndufab1
+NDUFB2	Ndufb2
+NDUFB6	Ndufb6
+NDUFB7	Ndufb7
+NDUFB8	Ndufb8
+NDUFS5	Ndufs5
+NDUFS7	Ndufs7
+NDUFS8	Ndufs8
+NDUFV3	Ndufv3
+NEBL	Nebl
+NECAP1	Necap1
+NEDD4L	Nedd4l
+NEFH	Nefh
+NEFM	Nefm
+NEK4	Nek4
+NEK6	Nek6
+NEK7	Nek7
+NEK9	Nek9
+NELL2	Nell2
+NEP1	Emg1
+NEPH2	Kirrel3
+NET1	Net1
+NETO2	Neto2
+NEU3	Neu3
+NEUR1	Neu1
+NF-AT5	Nfat5
+NF-kB1 (p105)	Nfkb1
+NF-kB1 (p50)	Nfkb1
+NF45 (ILF2)	Ilf2
+NFAT-90	Ilf3
+NFBD1	Mdc1
+NFE2L1	Nfe2l1
+NFIB	Nfib
+NFIC	Nfic
+NFIX	Nfix
+NFKBID	Nfkbid
+NFKBIL1	Nfkbil1
+NFS1	Nfs1
+NFYC	Nfyc
+NGF	Ngf
+NGL-1	Lrrc4c
+NHE7	Slc9a7
+NHSL2	Nhsl2
+NICN1	Nicn1
+NID67	Smim3
+NIF3L1	Nif3l1
+NIFIE14	Tmem147
+NIM1	Nim1k
+NIP2	Bnip2
+NIP7	Nip7
+NIPA1	Nipa1
+NIPA4	Nipal4
+NKAIN4	Nkain4
+NKAP	Nkap
+NKIRAS1	Nkiras1
+NKRF	Nkrf
+NLRX1	Nlrx1
+NMD3	Nmd3
+NMNA3	Nmnat3
+NMP200	Prpf19
+NMRAL1	Nmral1
+NMT1	Nmt1
+NMT2	Nmt2
+NN	Nts
+NOC2L	Noc2l
+NOC4	Emc8
+NOC4L	Noc4l
+NOL1	Nop2
+NOL10	Nol10
+NOL4	Nol4
+NOL6	Nol6
+NOL8	Nol8
+NOLA2 (NHP2)	Nhp2
+NOMO1	Nomo1
+NOPE	Igdcc4
+NOR1	Nr4a3
+NOSIP	Nosip
+NOSTRIN	Nostrin
+NOTCH2 (2ICD)	Notch2
+NOTCH2 receptor	Notch2
+NOTCH2(NEXT)	Notch2
+NOTCH4 (ICD4)	Notch4
+NOTCH4 receptor	Notch4
+NOXA	Pmaip1
+NP14	Nolc1
+NPAL3	Nipal3
+NPARF	Narf
+NPAS3	Npas3
+NPEPL1	Npepl1
+NPEPPS	Npepps
+NPL	Npl
+NPL4	Nploc4
+NPNT	Npnt
+NPRL3	Nprl3
+NPTX1	Nptx1
+NPTX2	Nptx2
+NPY2R	Npy2r
+NQO1	Nqo1
+NR1	Grin1
+NR2B	Grin2b
+NR2D	Grin2d
+NR2F1	Nr2f1
+NR3A	Grin3a
+NRAMP2	Slc11a2
+NRBF2	Nrbf2
+NRBP	Nrbp1
+NRF3	Nfe2l3
+NRIP	Dcaf6
+NRIP3	Nrip3
+NRN1L	Nrn1l
+NRTN	Nrtn
+NSE4A	Nsmce4a
+NSF	Nsf
+NSUN3	Nsun3
+NSUN5	Nsun5
+NT	Nts
+NT/NN	Nts
+NT5C	Nt5c
+NT5DC2	Nt5dc2
+NT5DC3	Nt5dc3
+NTAN1	Ntan1
+NTN4	Ntn4
+NTPBP	Gpn1
+NUAK1	Nuak1
+NUBPL	Nubpl
+NUCKS	Nucks1
+NUD9	Nudt9
+NUDCD1	Nudcd1
+NUDCD3	Nudcd3
+NUDEL	Ndel1
+NUDT14	Nudt14
+NUDT3	Nudt3
+NUDT5	Nudt5
+NUDT8	Nudt8
+NUFIP2	Nufip2
+NUMA1	Numa1
+NUMBL	Numbl
+NUP107	Nup107
+NUP133	Nup133
+NUP155	Nup155
+NUP205	Nup205
+NUP210	Nup210
+NUP43	Nup43
+NUP50	Nup50
+NUP88	Nup88
+NUP98	Nup98
+NUR77	Nr4a1
+NURR1	Nr4a2
+NXF	Npas4
+NXF1	Nxf1
+NXF2	Nxf2
+NXP2	Morc3
+NXT1	Nxt1
+NXT2	Nxt2
+Na(v) beta 1	Scn1b
+Nat8l	Nat8l
+Nav1.6	Scn8a
+NckAP1	Nckap1
+Ncrna00117	Prorsd1
+Ndg1	Khdc1a
+Necab2	Necab2
+Nectin-3	Nectin3
+Nek2A	Nek2
+Nelin	Nexn
+Neogenin	Neo1
+Neprilysin	Mme
+Nesprin 1	Syne1
+Netrin-1	Ntn1
+Netrin-G1	Ntng1
+NeuN	Rbfox3
+Neurabin-1	Ppp1r9a
+Neuralized-2	Neurl1b
+Neurexin-3 alpha	Nrxn3
+Neurexin-3 beta	Nrxn3
+Neurexophilin 1	Nxph1
+Neurexophilin 4	Nxph4
+Neurobeachin	Nbea
+Neurochondrin	Ncdn
+Neurofascin	Nfasc
+Neurofibromin	Nf1
+Neuroglobin	Ngb
+Neuroglycan C	Cspg5
+Neurogranin	Nrgn
+Neuroligin 1	Nlgn1
+Neuroligin 2	Nlgn2
+Neuromedin B	Nmb
+Neuromedin U receptor 2	Nmur2
+Neuronatin	Nnat
+Neuropeptide 1	Pnoc
+Neuropeptide 2	Pnoc
+Neuropilin-1	Nrp1
+Neurotractin	Negr1
+Neurotrimin	Ntm
+Nibrin	Nbn
+Ninein	Nin
+Nir1	Pitpnm3
+Nitrilase 1	Nit1
+Nociceptin	Pnoc
+Nociceptin receptor	Oprl1
+Nocturnin	Noct
+Noelin	Olfm1
+Non-muscle myosin IIA	Myl7
+Nop14	Nop14
+Nova1	Nova1
+Nucb1	Nucb1
+Nucleophosmin	Npm1
+NudC	Nudc
+Nus1	Nus1
+Nxf7	Nxf7
+O-fucose	Pofut1
+OASIS	Creb3l1
+OAT	Oat
+OAZ3	Oaz3
+OAZIN	Azin1
+OBP2A	Obp2a
+OCIAD2	Ociad2
+OCTN1	Slc22a4
+ODF2	Odf2
+ODZ2	Tenm2
+ODZ3	Tenm3
+ODZ4	Tenm4
+OFD1	Ofd1
+OGFOD1	Ogfod1
+OGFR	Ogfr
+OGFRL1	Ogfrl1
+OGT (GlcNAc transferase)	Ogt
+OIP106	Trak1
+OLFM2	Olfm2
+OLFML1	Olfml1
+OLIG1	Olig1
+OMgp	Omg
+ONECUT3	Onecut3
+OPA3	Opa3
+ORAI1	Orai1
+ORC1L	Orc1
+ORC3L	Orc3
+ORC4L	Orc4
+ORC5L	Orc5
+ORC6L	Orc6
+ORP1	Osbpl1a
+ORP2	Osbpl2
+ORP8	Osbpl8
+OSAP	Mgarp
+OSBP2	Osbp2
+OSBPL11	Osbpl11
+OSBPL3	Osbpl3
+OSCAR	Oscar
+OSF-2	Postn
+OSGEP	Osgep
+OSGEPL1	Osgepl1
+OSGIN2	Osgin2
+OSR1	Oxsr1
+OSTF1	Ostf1
+OSTbeta	Slc51b
+OTC	Otc
+OTP	Otp
+OTUD1	Otud1
+OTUD6B	Otud6b
+OTUD7A	Otud7a
+OTUD7B	Otud7b
+OXR1	Oxr1
+OXSM	Oxsm
+Oct-1	Pou2f1
+Omt2b	Omt2b
+Otoferlin	Otof
+Oxyntomodulin	Gcg
+P-cadherin	Cdh3
+P2Y12	P2ry12
+P311	Nrep
+P4H-TM	P4htm
+P4HB	P4hb
+P53CSV	Triap1
+P53DINP1a	Trp53inp1
+PA200	Psme4
+PABP2	Pabpn1
+PABPC1	Pabpc1
+PABPC1L	Pabpc1l
+PABPC4	Pabpc4
+PABPC5	Pabpc5
+PACAP receptor 1	Adcyap1r1
+PACRGL	Pacrgl
+PACS-1	Pacs1
+PAF1	Paf1
+PAFAH alpha (LIS1)	Pafah1b1
+PAFAH gamma	Pafah1b3
+PAHX	Phyh
+PAHX-AP1	Phyhip
+PAI2	Serpinb2
+PAICS	Paics
+PAK3	Pak3
+PAK6	Pak6
+PAN3	Pan3
+PANK2	Pank2
+PANK4	Pank4
+PANX2	Panx2
+PAOX	Paox
+PAPSS1	Papss1
+PAQR7	Paqr7
+PAQR8	Paqr8
+PAQR9	Paqr9
+PARC	Cul9
+PARD3	Pard3
+PARD6A	Pard6a
+PARD6B	Pard6b
+PARD6G	Pard6g
+PARN	Parn
+PATL1	Patl1
+PBEF	Nampt
+PBR	Tspo
+PBX1	Pbx1
+PBX3	Pbx3
+PC-TP	Pctp
+PC1	Pcsk1
+PC7	Pcsk7
+PCBP-1	Pcbp1
+PCBP-2	Pcbp2
+PCBP-4 (mcg10)	Pcbp4
+PCDH10	Pcdh10
+PCDH11X	Pcdh11x
+PCDH17	Pcdh17
+PCDH20	Pcdh20
+PCDH21	Cdhr1
+PCDHB12	Pcdhb19
+PCDHB14	Pcdhb20
+PCDHB15	Pcdhb22
+PCDHB16	Pcdhb17
+PCDHB7	Pcdhb15
+PCDHB8	Pcdhb16
+PCGF2 (Mel-18)	Pcgf2
+PCGF5	Pcgf5
+PCM1	Pcm1
+PCMTD1	Pcmtd1
+PCMTD2	Pcmtd2
+PCNA	Pcna
+PCNP	Pcnp
+PCNT1	Nup85
+PCSK9	Pcsk9
+PCYOX1	Pcyox1
+PCYOX1L	Pcyox1l
+PD-L2	Pdcd1lg2
+PDCD10	Pdcd10
+PDCD4	Pdcd4
+PDCD6	Pdcd6
+PDCL3	Pdcl3
+PDE10A	Pde10a
+PDE1B	Pde1b
+PDE1C	Pde1c
+PDE4A	Pde4a
+PDE6D	Pde6d
+PDE6H	Pde6h
+PDE7B	Pde7b
+PDE8A	Pde8a
+PDGF-B	Pdgfb
+PDGF-C	Pdgfc
+PDGF-R-alpha	Pdgfra
+PDH beta	Pdhb
+PDIA3	Pdia3
+PDIA5	Pdia5
+PDIP1	Kctd13
+PDIP46	Poldip3
+PDK1	Pdk1
+PDK2	Pdk2
+PDK3	Pdk3
+PDP1	Pdp1
+PDP2	Pdp2
+PDPR	Pdpr
+PDRG1	Pdrg1
+PDSS2	Pdss2
+PDX1	Pdhx
+PDXK	Pdxk
+PDXP	Pdxp
+PDZ-GEF1	Rapgef2
+PDZ-RhoGEF	Arhgef11
+PDZD11	Pdzd11
+PDZK1	Pdzk1
+PDZK4	Pdzd4
+PDZRN4	Pdzrn4
+PEDF-R (iPLA2-zeta)	Pnpla2
+PEG3	Peg3
+PELP1	Pelp1
+PER1	Per1
+PER2	Per2
+PER3	Per3
+PERC	Ppargc1b
+PERP	Perp
+PES1	Pes1
+PEX11b	Pex11b
+PEX14	Pex14
+PEX26	Pex26
+PEX3	Pex3
+PEX5R	Pex5l
+PFD6L	Ccdc30
+PFN4	Pfn4
+PGAP1	Pgap1
+PGDS	Hpgds
+PGHD	Ptgds
+PGK1	Pgk1
+PGM2L1	Pgm2l1
+PGP	Pgp
+PHACTR2	Phactr2
+PHACTR3	Phactr3
+PHAP1 (pp32)	Anp32a
+PHF1	Phf1
+PHF10	Phf10
+PHF12	Phf12
+PHF13	Phf13
+PHF14	Phf14
+PHF15	Jade2
+PHF2	Phf2
+PHF20	Phf20
+PHF21B	Phf21b
+PHF23	Phf23
+PHF3	Phf3
+PHF7	Phf7
+PHIP	Phip
+PHK gamma (muscle)	Phkg1
+PHLDA1	Phlda1
+PHOGRIN	Ptprn2
+PHP14	Phpt1
+PHRET1	Plekhb1
+PHYHIPL	Phyhipl
+PI-TP	Pitpna
+PI3K cat class IA (p110-alpha)	Pik3ca
+PI3K cat class IA (p110-delta)	Pik3cd
+PI3K cat class III (Vps34)	Pik3c3
+PI3K reg class IA (p55-gamma)	Pik3r3
+PI3K reg class IA (p85-alpha)	Pik3r1
+PI3K reg class IA (p85-beta)	Pik3r2
+PI3K reg class IB (p101)	Pik3r5
+PI3K reg class III (p150)	Pik3r4
+PI4Kalpha	Pi4ka
+PIAS2	Pias2
+PIBF	Pibf1
+PICALM	Picalm
+PID1	Pid1
+PIGA	Piga
+PIGG	Pigg
+PIGH	Pigh
+PIGL	Pigl
+PIGN	Pign
+PIGR	Pigr
+PIGR(SC)	Pigr
+PIGX	Pigx
+PIGY	Pyurf
+PIK3IP1	Pik3ip1
+PIKE(CENTG1)	Agap2
+PIMT	Pcmt1
+PINCH	Lims1
+PINCH-2	Lims2
+PINK1	Pink1
+PIP1	Pak1ip1
+PIP4K2B	Pip4k2b
+PIP5K1A	Pip5k1a
+PIP5K2C	Pip4k2c
+PIP5KIII	Pikfyve
+PIP5KL1	Pip5kl1
+PIPKI gamma	Pip5k1c
+PIPOX	Pipox
+PIPS	Gprasp1
+PISD	Pisd
+PJA2	Pja2
+PKA-cat alpha	Prkaca
+PKA-cat beta	Prkacb
+PKC-epsilon	Prkce
+PKC-gamma	Prkcg
+PKC-lambda/iota	Prkci
+PKD1-like	AU040320
+PKIA	Pkia
+PKIB	Pkib
+PKIG	Pkig
+PKM2	Pkm
+PLA2G5	Pla2g5
+PLAG1	Plag1
+PLAP	Plaa
+PLAT (TPA)	Plat
+PLC-beta1	Plcb1
+PLC-gamma 1	Plcg1
+PLCC	Agpat3
+PLCD	Agpat4
+PLCL1	Plcl1
+PLCL2	Plcl2
+PLCXD3	Plcxd3
+PLEKHA1 (TAPP1)	Plekha1
+PLEKHA5	Plekha5
+PLEKHB2	Plekhb2
+PLEKHG1	Plekhg1
+PLEKHH1	Plekhh1
+PLEKHM2	Plekhm2
+PLEKHM3	Plekhm3
+PLG-RKT	Plgrkt
+PLGF	Pgf
+PLK2	Plk2
+PLK3 (CNK)	Plk3
+PLK4 (STK18)	Plk4
+PLLP	Pllp
+PLP1	Plp1
+PLVAP	Plvap
+PLXDC2	Plxdc2
+PM/SCL-75	Exosc9
+PM20D2	Pm20d2
+PMCA1	Atp2b1
+PMCA2b	Atp2b2
+PMCA3	Atp2b3
+PMEPA1	Pmepa1
+PMFBP1	Pmfbp1
+PMGE	Bpgm
+PML	Pml
+PMM1	Pmm1
+PMP70	Abcd3
+PMS1	Pms1
+PMVK	Pmvk
+PNCK	Pnck
+PNMA1	Pnma1
+PNMA2	Pnma2
+PNMT	Pnmt
+PNO1	Pno1
+PNPH	Pnp
+PNRC2	Pnrc2
+PNUTS	Ppp1r10
+PODN	Podn
+PODXL2	Podxl2
+POGZ	Pogz
+POLD reg (p50)	Pold2
+POLD reg (p68)	Pold3
+POLG reg	Polg2
+POLR1A	Polr1a
+POLR1B	Polr1b
+POLR2B	Polr2b
+POLR2C	Polr2c
+POLR2G	Polr2g
+POLR3A	Polr3a
+POLR3E	Polr3e
+POLR3F	Polr3f
+POLR3G	Polr3g
+POLR3H	Polr3h
+POLR3K	Polr3k
+POP5	Pop5
+POT1	Pot1a
+POU6F2	Pou6f2
+PP1-cat gamma	Ppp1cc
+PP2A cat (alpha)	Ppp2ca
+PP2A cat (beta)	Ppp2cb
+PP2C alpha	Ppm1a
+PP2C gamma	Ppm1g
+PP5	Ppp5c
+PP6C	Ppp6c
+PPAL	Acp2
+PPAN	Ppan
+PPAPDC1A	Plpp4
+PPAR-beta(delta)	Ppard
+PPAR-gamma	Pparg
+PPCKM	Pck2
+PPCS	Ppcs
+PPDPF	Ppdpf
+PPHLN1	Pphln1
+PPIF	Ppif
+PPIL3	Ppil3
+PPM1H	Ppm1h
+PPM1K	Ppm1k
+PPM1L	Ppm1l
+PPME1	Ppme1
+PPP1R11	Ppp1r11
+PPP1R15B	Ppp1r15b
+PPP1R3D	Ppp1r3d
+PPP1R3E	Ppp1r3e
+PPP2R1B	Ppp2r1b
+PPP2R2A	Ppp2r2a
+PPP2R2B	Ppp2r2b
+PPP2R2C	Ppp2r2c
+PPP2R2D	Ppp2r2d
+PPP2R3A	Ppp2r3a
+PPP2R5A	Ppp2r5a
+PPP2R5D	Ppp2r5d
+PPP4C	Ppp4c
+PPP4R2	Ppp4r2
+PPT2	Ppt2
+PPase (inorganic)	Ppa1
+PR (membrane)	Pgr
+PR (nuclear)	Pgr
+PR44 (DIS3)	Dis3
+PR61beta	Ppp2r5b
+PR65-alpha	Ppp2r1a
+PRAT4B	Cnpy4
+PRCC	Prcc
+PRDM15	Prdm15
+PRDX2	Prdx2
+PRDX3	Prdx3
+PREI3	Mob4
+PREP2	Pknox2
+PREX1	Prex1
+PREX2	Prex2
+PRIC320	Chd9
+PRK2	Pkn2
+PRKAR2A	Prkar2a
+PRKAR2B	Prkar2b
+PRKCBP1	Zmynd8
+PRKD1	Prkd1
+PRKRIP1	Prkrip1
+PRL3C1	Prl3c1
+PRL5A1	Prl5a1
+PRMT5	Prmt5
+PRMT6	Prmt6
+PRNP	Prnp
+PROM2	Prom2
+PROP1	Prop1
+PROX1	Prox1
+PRPF18	Prpf18
+PRPF3	Prpf3
+PRPF38B	Prpf38b
+PRPS2	Prps2
+PRR12	Prr12
+PRR18	Prr18
+PRR3	Prr3
+PRR5	Prr5
+PRRG3	Prrg3
+PRRG4	Prrg4
+PRRT3	Prrt3
+PRSS23	Prss23
+PRSS37	Prss37
+PRiMA1	Prima1
+PSAT	Psat1
+PSCDBP	Cytip
+PSD	Psd
+PSD-95	Dlg4
+PSD2	Psd2
+PSKH1	Pskh1
+PSMB1	Psmb1
+PSMB10	Psmb10
+PSMB4	Psmb4
+PSMB6	Psmb6
+PSMC4	Psmc4
+PSMC6	Psmc6
+PSMD1	Psmd1
+PSMD11	Psmd11
+PSMD12	Psmd12
+PSMD5	Psmd5
+PSMD6	Psmd6
+PSMD8	Psmd8
+PSP	Rida
+PSPC1	Pspc1
+PSTK	Pstk
+PTCD1	Ptcd1
+PTCD3	Ptcd3
+PTCH1	Ptch1
+PTD015	Aamdc
+PTE1	Acot8
+PTE2	Acot2
+PTGES3L	Ptges3l
+PTGIS	Ptgis
+PTH(1-34)	Pth
+PTHR (1-34)	Pthlh
+PTHrP	Pthlh
+PTOP	Acd
+PTOV1	Ptov1
+PTP-1B	Ptpn1
+PTP-MEG2	Ptpn9
+PTP4A2	Ptp4a2
+PTPA	Ptpa
+PTPD1	Ptpn21
+PTPDC1	Ptpdc1
+PTPLAD2	Hacd4
+PTPN12	Ptpn12
+PTPN2	Ptpn2
+PTPN20B	Ptpn20
+PTPN4	Ptpn4
+PTPR-alpha	Ptpra
+PTPR-delta	Ptprd
+PTPR-epsilon	Ptpre
+PTPR-zeta	Ptprz1
+PTPRR	Ptprr
+PTS	Pts
+PTS1 receptor	Pex5
+PTSS2	Ptdss2
+PUM1	Pum1
+PUM2	Pum2
+PUS3	Pus3
+PVR	Pvr
+PWP1	Pwp1
+PWP2H	Pwp2
+PXK	Pxk
+PXMP4	Pxmp4
+PYGB	Pygb
+PYGO2	Pygo2
+Par-4	Pawr
+Paralemmin	Palm
+Paraplegin	Spg7
+Parathymosin	Ptms
+Parathyroid hormone	Pth
+Paraxis	Tcf15
+Pcdh19	Pcdh19
+Pcdhb14 (rodent)	Pcdhb14
+Pcf11	Pcf11
+Peg10	Peg10
+Pellino 1	Peli1
+Pellino 2	Peli2
+Perforin	Prf1
+Pgbd5	Pgbd5
+PhLP	Pdcl
+Phospho2	Phospho2
+Phox1 (PRRX1)	Prrx1
+Pim-1	Pim1
+Pim-2	Pim2
+Pim-3	Pim3
+Pisd-ps3	Pisd-ps3
+Pitpnm (NIR2)	Pitpnm1
+Plakophilin 1	Pkp1
+Plakophilin 3	Pkp3
+Plectin 1	Plec
+Pleiotrophin (OSF1)	Ptn
+Plekhh2	Plekhh2
+Plexin A2	Plxna2
+Plexin A3	Plxna3
+Plexin A4	Plxna4
+Plexin B3	Plxnb3
+Plexin D1	Plxnd1
+Podocin	Nphs2
+Podoplanin	Pdpn
+Poly(A) polymerase	Papola
+Polycystin	Pkd1
+Porf-2	Arhgap39
+Pot1b	Pot1b
+Ppp2r3d	Ppp2r3d
+Praja-1	Pja1
+Prepronociceptin	Pnoc
+Prestin	Slc26a5
+Prickle-1	Prickle1
+Pro-CCK	Cck
+ProSAPiP1	Lzts3
+Probable G-protein coupled receptor 22	Gpr22
+Proenkephalin-B	Pdyn
+Profilin I	Pfn1
+Proglucagon	Gcg
+Prolactin-3C1	Prl3c1
+Protein C receptor (endothelial)	Procr
+Protein Z	Proz
+Protocadherin 7	Pcdh7
+Protor-2	Prr5l
+Prp8	Prpf8
+Prps1l3	Prps1l3
+Prrc1	Prrc1
+Prrt1	Prrt1
+Psg19	Psg19
+Pyk2(FAK2)	Ptk2b
+QBRICK	Frem1
+QIK	Sik2
+QSCN6L1	Qsox2
+Quinone oxidoreductase	Cryz
+R-Ras	Rras
+R-cadherin	Cdh4
+R-spondin 1	Rspo1
+R-spondin 4	Rspo4
+R12BB	Rbm12b2
+R3HCC1	R3hcc1
+R3HDM	R3hdm1
+R3HDM2	R3hdm2
+R7BP	Rgs7bp
+RAB24	Rab24
+RAB2A	Rab2a
+RAB2B	Rab2b
+RAB39B	Rab39b
+RAB3IP	Rab3ip
+RAB42	Rab42
+RAB43	Rab43
+RABGEF1	Rabgef1
+RABL3	Rabl3
+RABL4	Ift27
+RABL5	Ift22
+RACK1	Rack1
+RAD1	Rad1
+RAD23A	Rad23a
+RAD26L	Ercc6l2
+RAD51D	Rad51d
+RAD9A	Rad9a
+RAI1	Rai1
+RAI2	Rai2
+RAIDD	Cradd
+RAIG1	Gprc5a
+RALGAPB	Ralgapb
+RANBP6	Ranbp6
+RANBP8	Ipo8
+RAP-1A	Rap1a
+RAP-1B	Rap1b
+RAP-2A	Rap2a
+RAP-2B	Rap2b
+RAP6	Gapvd1
+RARalpha	Rara
+RARgamma	Rarg
+RASA2	Rasa2
+RASAL2	Rasal2
+RASD2	Rasd2
+RASGEF1C	Rasgef1c
+RASGRF1	Rasgrf1
+RASIP1	Rasip1
+RASL11A	Rasl11a
+RASSF2	Rassf2
+RASSF3	Rassf3
+RASSF5	Rassf5
+RAVER1	Raver1
+RBB2	Kdm5a
+RBBP4 (RbAp48)	Rbbp4
+RBBP5	Rbbp5
+RBBP6	Rbbp6
+RBBP7 (RbAp46)	Rbbp7
+RBBP9	Rbbp9
+RBM12	Rbm12
+RBM12B	Rbm12b1
+RBM13	Mak16
+RBM15	Rbm15
+RBM16	Scaf8
+RBM18	Rbm18
+RBM27	Rbm27
+RBM30	Rbm4b
+RBM6	Rbm6
+RBM8 (Y14)	Rbm8a
+RBMS1	Rbms1
+RBMX2	Rbmx2
+RBP-J kappa (CBF1)	Rbpj
+RBP1	Rbp1
+RBP4	Rbp4
+RC3H2	Rc3h2
+RCC1	Rcc1
+RCD1	Cnot9
+RCOR3	Rcor3
+RD protein	Nelfe
+RDH12	Rdh12
+RDH14	Rdh14
+RED	Ik
+REDD1	Ddit4
+REEP2	Reep2
+RELL2	Rell2
+REM2	Rem2
+RENT2	Upf2
+REPIN1	Repin1
+RERE	Rere
+RET	Ret
+REV-ERB-BETA	Nr1d2
+REV-ERBalpha	Nr1d1
+REXO1	Rexo1
+RFC1	Rfc1
+RFESD	Rfesd
+RFLP4	Rfpl4
+RFTN2	Rftn2
+RFWD3	Rfwd3
+RFX1	Rfx1
+RFX4	Rfx4
+RFX5	Rfx5
+RG9MTD1	Trmt10c
+RGC32	Rgcc
+RGL2	Rgl2
+RGS10	Rgs10
+RGS12	Rgs12
+RGS16	Rgs16
+RGS19	Rgs19
+RGS20	Rgs20
+RGS4	Rgs4
+RGS6	Rgs6
+RGS9	Rgs9
+RHBDL1	Rhbdl1
+RHBDL2	Rhbdl2
+RHBDL3	Rhbdl3
+RHEB2	Rheb
+RHO6	Rnd1
+RHOBTB3	Rhobtb3
+RIB2	Rpn2
+RIC8A	Ric8a
+RIC8B	Ric8b
+RIF1	Rif1
+RIMBP3	Rimbp3
+RIMS2	Rims2
+RIMS3	Rims3
+RIMS4	Rims4
+RIN1	Rin1
+RING1	Ring1
+RINT-1	Rint1
+RIP	Agfg1
+RIPK5	Dstyk
+RKHD3	Mex3b
+RKIP	Pebp1
+RLBP1L2	Clvs2
+RLF	Rlf
+RLI	Abce1
+RNA 3'-terminal phosphate cyclase	Rtca
+RNA-binding protein 12B-B	Rbm12b2
+RNASEH2C	Rnaseh2c
+RNF113A	Rnf113a2
+RNF13	Rnf13
+RNF130	Rnf130
+RNF141	Rnf141
+RNF148	Rnf148
+RNF149	Rnf149
+RNF150	Rnf150
+RNF167	Rnf167
+RNF169	Rnf169
+RNF170	Rnf170
+RNF180	Rnf180
+RNF181	Rnf181
+RNF187	Rnf187
+RNF20	Rnf20
+RNF217	Rnf217
+RNF220	Rnf220
+RNF32	Rnf32
+RNF38	Rnf38
+RNF4	Rnf4
+RNF43	Rnf43
+RNF44	Rnf44
+RNF5	Rnf5
+RNF6	Rnf6
+RNF7	Rnf7
+RNFT1	Rnft1
+RNPEP	Rnpep
+RNPEPL1	Rnpepl1
+RNPS1	Rnps1
+RNUXA	Phax
+ROBO1	Robo1
+ROCK2	Rock2
+ROPN1L	Ropn1l
+ROR-alpha	Rora
+ROR-beta	Rorb
+RP1-112K5.2	Tsr2
+RP11-35N6.1	Plppr1
+RP11-529I10.4	Dpcd
+RP3	Rpgr
+RP40	Uba52
+RP42 (Scro)	Dcun1d1
+RPA2	Rpa2
+RPA39	Polr1c
+RPAP1	Rpap1
+RPAP2	Rpap2
+RPB5	Polr2e
+RPB8	Polr2h
+RPGRIP1	Rpgrip1
+RPIA	Rpia
+RPL11	Rpl11
+RPL14	Rpl14
+RPL19	Rpl19
+RPL22	Rpl22
+RPL27A	Rpl27a
+RPL35	Rpl35
+RPL37A	Rpl37a
+RPL41	Rpl41
+RPL6	Rpl6
+RPL7	Rpl7
+RPL7A	Rpl7a
+RPL7L1	Rpl7l1
+RPL8	Rpl8
+RPLP0	Rplp0
+RPLP2	Rplp2
+RPP25	Rpp25
+RPRD1B	Rprd1b
+RPRML	Rprml
+RPS10	Rps10
+RPS11	Rps11
+RPS15	Rps15
+RPS18	Rps18
+RPS19	Rps19
+RPS2	Rps2
+RPS20	Rps20
+RPS24	Rps24
+RPS25	Rps25
+RPS26	Rps26
+RPS27	Rps27
+RPS28	Rps28
+RPS30	Fau
+RPS4X	Rps4x
+RPS5	Rps5
+RPS6	Rps6
+RPS6KC1	Rps6kc1
+RPS6KL1	Rps6kl1
+RPS7	Rps7
+RRAD	Rrad
+RRM1	Rrm1
+RRM2B	Rrm2b
+RRP1B (KIAA0179)	Rrp1b
+RRP4	Exosc2
+RRP42	Exosc7
+RRP43	Exosc8
+RSAD1	Rsad1
+RSC1A1	Rsc1a1
+RSL24D1	Rsl24d1
+RTN4RL1	Rtn4rl1
+RTTN	Rttn
+RUFY1	Rufy1
+RUFY3	Rufy3
+RUNDC1	Rundc1
+RUNX3	Runx3
+RUSC1 (NESCA)	Rusc1
+RUVBL2	Ruvbl2
+RWDD3	Rwdd3
+RWDD4A	Rwdd4a
+RXRA	Rxra
+Rab-10	Rab10
+Rab-11A	Rab11a
+Rab-11B	Rab11b
+Rab-15	Rab15
+Rab-1A	Rab1a
+Rab-1B	Rab1b
+Rab-21	Rab21
+Rab-22A	Rab22a
+Rab-28	Rab28
+Rab-30	Rab30
+Rab-31	Rab31
+Rab-32	Rab32
+Rab-33A	Rab33a
+Rab-36	Rab36
+Rab-39	Rab39
+Rab-3B	Rab3b
+Rab-3C	Rab3c
+Rab-4A	Rab4a
+Rab-6A	Rab6a
+Rab-7	Rab7
+Rab11-FIP2	Rab11fip2
+Rab11-FIP3	Rab11fip3
+Rab11-FIP4	Rab11fip4
+Rab12	Rab12
+Rabaptin-5	Rabep1
+Rabconnectin-3	Dmxl2
+Rabenosyn-5	Rbsn
+Rabphilin-3A	Rph3a
+Rad21	Rad21
+Rad50	Rad50
+Rad52	Rad52
+Raftlin	Rftn1
+RagC	Rragc
+RagD	Rragd
+RalB	Ralb
+RalBP1	Ralbp1
+RanBP2	Ranbp2
+Rap1GAP1	Rap1gap
+Raptor	Rptor
+Ras-related protein Rap-1A	Rap1a
+Rb protein	Rb1
+Rdx12	Mien1
+RecQ5	Recql5
+Reelin	Reln
+RelA (p65 NF-kB subunit)	Rela
+RelB (NF-kB subunit)	Relb
+Resistin	Retn
+Reticulocalbin 1	Rcn1
+Reticulon 4	Rtn4
+Reticulon-2	Rtn2
+Rhbdd2	Rhbdd2
+RhoA	Rhoa
+RhoB	Rhob
+RhoBTB2	Rhobtb2
+RhoE	Rnd3
+RhoGAP5	Arhgap5
+RhoGDI gamma	Arhgdig
+Rhotekin	Rtkn
+Rhov	Rhov
+Rian	Rian
+Rictor	Rictor
+Rififylin (RFFL)	Rffl
+Rip11	Rab11fip5
+Ripply2	Ripply2
+Rnasek	Rnasek
+Rnf113a1	Rnf113a1
+Rnf26	Rnf26
+Rod	Kntc1
+Rootletin	Crocc
+Roquin	Rc3h1
+Rpl22l1	Rpl22l1
+Rsl-1	Rsl1
+Rslcan10	Zfp455
+Rslcan12	Zfp493
+Rslcan15	Zfp874a
+Rslcan16	Zfp874b
+Rubicon	Rubcn
+Ryanodine receptor 1	Ryr1
+Ryanodine receptor 2	Ryr2
+Ryanodine receptor 3	Ryr3
+S100A13	S100a13
+S100A3	S100a3
+S100A5	S100a5
+S100B	S100b
+S100G	S100g
+S100PBP	S100pbp
+S19BP	Rps19bp1
+S1P	Mbtps1
+S1P1 receptor	S1pr1
+S1P5 receptor	S1pr5
+S2P	Mbtps2
+S5AR2	Srd5a2
+SAB	Sh3bp5
+SACS	Sacs
+SAE1	Sae1
+SAE2	Uba2
+SAFB	Safb
+SAHH	Ahcy
+SALL-1	Sall1
+SALL2	Sall2
+SAMD10	Samd10
+SAMD4B	Samd4b
+SAMM50	Samm50
+SAP102	Dlg3
+SAP30	Sap30
+SAP97 (DLG1)	Dlg1
+SAR1B	Sar1b
+SART1	Sart1
+SAS	Tspan31
+SASH1	Sash1
+SBDS	Sbds
+SBP2	Secisbp2
+SBSN	Sbsn
+SC1	Tcf19
+SC5D	Sc5d
+SCAMP2	Scamp2
+SCAP	Scap
+SCFD2	Scfd2
+SCMH1	Scmh1
+SCN3B	Scn3b
+SCN4B	Scn4b
+SCOCO	Scoc
+SCOT	Oxct1
+SCP1	Ctdsp1
+SCPEP1	Scpep1
+SCRIB	Scrib
+SCRT2	Scrt2
+SCUBE3	Scube3
+SCYL3	Scyl3
+SDCCAG8	Sdccag8
+SDF2L1	Sdf2l1
+SDFR1	Nptn
+SDHA	Sdha
+SDHAF1	Sdhaf1
+SDHAF2	Sdhaf2
+SDHD	Sdhd
+SDOS	Nudt16l1
+SDS3	Suds3
+SEC14L1	Sec14l1
+SEC14L3(TAP2)	Sec14l3
+SEC15L	Exoc6
+SEC16A	Sec16a
+SEC22C	Sec22c
+SEC61 beta	Sec61b
+SEL1L	Sel1l
+SEMACAP3	Pdzrn3
+SENP2	Senp2
+SENP5	Senp5
+SENP6	Senp6
+SENP7	Senp7
+SEPHS1	Sephs1
+SEPX1 (Selenoprotein X1)	Msrb1
+SERF2	Serf2
+SERINC4	Serinc4
+SERINC5	Serinc5
+SERP1	Serp1
+SERPINB1	Serpinb1a
+SERPINB6	Serpinb6a
+SERPINB8	Serpinb8
+SERPINF2	Serpinf2
+SERTAD1	Sertad1
+SERTAD2	Sertad2
+SERTAD3	Sertad3
+SESTD1	Sestd1
+SET7	Setd7
+SET8	Kmt5a
+SETD4	Setd4
+SETD6	Setd6
+SETDB1	Setdb1
+SETDB2	Setdb2
+SETX	Setx
+SF3A1	Sf3a1
+SF3B2	Sf3b2
+SF3B3	Sf3b3
+SF4	Sugp1
+SFN	Rexo2
+SFR1	Sfr1
+SFRS10	Tra2b
+SFRS12IP1	Srek1ip1
+SFRS14	Sugp2
+SFRS15	Scaf4
+SFRS18	Pnisr
+SFRS2 (SC-35)	Srsf2
+SFRS2IP	Scaf11
+SFRS3	Srsf3
+SFRS7 (9G8)	Srsf7
+SFRS9	Srsf9
+SFT2D1	Sft2d1
+SFT2D2	Sft2d2
+SFT2D3	Sft2d3
+SGK2	Sgk2
+SGK3	Sgk3
+SGPP1	Sgpp1
+SGTB	Sgtb
+SH2D5	Sh2d5
+SH2D6	Sh2d6
+SH3BGRL	Sh3bgrl
+SH3BGRL2	Sh3bgrl2
+SH3BP4	Sh3bp4
+SH3RF	Sh3rf1
+SHANK3	Shank3
+SHB	Shb
+SHC2	Shc2
+SHC3	Shc3
+SHIP2	Inppl1
+SHISA4	Shisa4
+SHISA9	Shisa9
+SHMT2	Shmt2
+SHP-2	Ptpn11
+SHPRH	Shprh
+SHPS-1	Sirpa
+SHQ1	Shq1
+SHREW1	Ajap1
+SHRM	Shroom3
+SIA7C	St6galnac3
+SIA7E	St6galnac5
+SIAH2	Siah2
+SIAHBP1	Puf60
+SIAT1	St6gal1
+SIAT4A	St3gal1
+SIAT6	St3gal3
+SIAT8A	St8sia1
+SIAT8C	St8sia3
+SIAT8D	St8sia4
+SIAT8E	St8sia5
+SIK	Sik1
+SIKE	Sike1
+SIN1	Mapkap1
+SIP1	Gemin2
+SIPA1L3	Sipa1l3
+SIPAR	Fam220a
+SIX3	Six3
+SK3	Kcnn3
+SKAP55	Skap1
+SKIP	Inpp5k
+SKIP (Ski-interacting protein)	Snw1
+SLAIN1	Slain1
+SLAIN2	Slain2
+SLB	Ift172
+SLC-1	Mchr1
+SLC10A7	Slc10a7
+SLC12A3	Slc12a3
+SLC12A4	Slc12a4
+SLC12A9	Slc12a9
+SLC16A13	Slc16a13
+SLC17A3	Slc17a3
+SLC1A1/EAAT3	Slc1a1
+SLC1A2/EAAT2	Slc1a2
+SLC22A12	Slc22a12
+SLC22A15	Slc22a15
+SLC22A23	Slc22a23
+SLC22A25	Slc22a27
+SLC22A3	Slc22a3
+SLC24A2	Slc24a2
+SLC24A4	Slc24a4
+SLC25A11	Slc25a11
+SLC25A25	Slc25a25
+SLC25A26	Slc25a26
+SLC25A28	Slc25a28
+SLC25A3	Slc25a3
+SLC25A32	Slc25a32
+SLC25A35	Slc25a35
+SLC25A39	Slc25a39
+SLC25A5	Slc25a5
+SLC34A1	Slc34a1
+SLC35A3	Slc35a3
+SLC35A5	Slc35a5
+SLC35B4	Slc35b4
+SLC35E1	Slc35e1
+SLC35E2B	Slc35e2
+SLC35E3	Slc35e3
+SLC35F1	Slc35f1
+SLC36A4	Slc36a4
+SLC38A1	Slc38a1
+SLC38A9	Slc38a9
+SLC39A10	Slc39a10
+SLC39A3 (ZIP3)	Slc39a3
+SLC39A6	Slc39a6
+SLC39A8	Slc39a8
+SLC3A2	Slc3a2
+SLC41A2	Slc41a2
+SLC43A2	Slc43a2
+SLC44A1	Slc44a1
+SLC4A4	Slc4a4
+SLC5A2	Slc5a2
+SLC5A5	Slc5a5
+SLC6A11	Slc6a11
+SLC6A15	Slc6a15
+SLC6A17	Slc6a17
+SLC6A6	Slc6a6
+SLC7A6OS	Slc7a6os
+SLC9A1	Slc9a1
+SLCO5A1	Slco5a1
+SLICK	Kcnt2
+SLIT1	Slit1
+SLIT2	Slit2
+SLITRK1	Slitrk1
+SLITRK3	Slitrk3
+SLITRK5	Slitrk5
+SLK	Slk
+SLM-2	Khdrbs3
+SLU7	Slu7
+SMAD1	Smad1
+SMAD2	Smad2
+SMAD4	Smad4
+SMAD5	Smad5
+SMAD7	Smad7
+SMAP	1110004F10Rik
+SMARCA5	Smarca5
+SMARCAL1	Smarcal1
+SMC1	Smc1a
+SMC6	Smc6
+SMCX	Kdm5c
+SMCY	Kdm5d
+SMG1	Smg1
+SMG6	Smg6
+SMG7	Smg7
+SMG9	Smg9
+SMIM10L1	Smim10l1
+SMPD3	Smpd3
+SMPD4	Smpd4
+SMRT	Ncor2
+SMS2	Sgms2
+SMU1	Smu1
+SMURF1	Smurf1
+SMVT	Slc5a6
+SMYD1	Smyd1
+SMYD3	Smyd3
+SMYD4	Smyd4
+SMYD5	Smyd5
+SNAI3	Snai3
+SNAPalpha	Napa
+SNHG14	Snhg14
+SNM1	Dclre1a
+SNX12	Snx12
+SNX13	Snx13
+SNX16	Snx16
+SNX19	Snx19
+SNX21	Snx21
+SNX3	Snx3
+SNX30	Snx30
+SNX31	Snx31
+SNX33 (SH3PX3)	Snx33
+SOAT1	Soat1
+SOCS6	Socs6
+SOD1	Sod1
+SON	Son
+SORCS2	Sorcs2
+SORL1	Sorl1
+SOX1	Sox1
+SOX10	Sox10
+SOX11	Sox11
+SOX12	Sox12
+SOX2	Sox2
+SOX21	Sox21
+SOX3	Sox3
+SOX6	Sox6
+SP-C	Sftpc
+SP192	Gpbp1l1
+SPA1	Sipa1
+SPA3M	Serpina3m
+SPAG4	Spag4
+SPAR (SIPA1L1)	Sipa1l1
+SPATA2	Spata2
+SPATA2L	Spata2l
+SPATA3	Spata3
+SPATA9	Spata9
+SPBP	Tcf20
+SPC12	Spcs1
+SPC22	Spcs3
+SPEC1	Cdc42se1
+SPEC2	Cdc42se2
+SPECC1	Specc1
+SPEE	Srm
+SPF30	Smndc1
+SPFH2	Erlin2
+SPHK2	Sphk2
+SPINK8	Spink8
+SPOCK	Spock1
+SPOCK2	Spock2
+SPOP	Spop
+SPPL2b	Sppl2b
+SPRED1	Spred1
+SPRED3	Spred3
+SPRY4	Spry4
+SPRYD3	Spryd3
+SPTBN2	Sptbn2
+SRA1	Sra1
+SRD5A2L2	Tecrl
+SRF	Srf
+SRFBP1	Srfbp1
+SRGAP1	Srgap1
+SRGAP2	Srgap2
+SRGAP2(WRP)	Srgap3
+SRP54	Srp54a
+SRP54	Srp54b
+SRRD	Srrd
+SRX1	Srxn1
+SSAT	Sat1
+SSB-2	Spsb2
+SSBP1	Ssbp1
+SSBP2	Ssbp2
+SSBP4	Ssbp4
+SSDH	Aldh5a1
+SSH1L	Ssh1
+SSH3	Ssh3
+SSR-delta	Ssr4
+SSR-gamma	Ssr3
+SSRP1	Ssrp1
+SSTK	Tssk6
+SSTR2	Sstr2
+SSTR4	Sstr4
+ST18	St18
+ST2L	Tmed1
+ST4S6	Chst15
+ST6GAL2	St6gal2
+ST7	St7
+STAC2	Stac2
+STAC3	Stac3
+STAF65(gamma)	Supt7l
+STAG1	Stag1
+STAG2	Stag2
+STAM1	Stam
+STAR	Star
+STARD13	Stard13
+STARD7	Stard7
+STARING	Rnf40
+STAT1	Stat1
+STAT2	Stat2
+STAT3	Stat3
+STAT5B	Stat5b
+STATIP1	Elp2
+STIM1	Stim1
+STIM2	Stim2
+STK19	Stk19
+STK32C	Stk32c
+STK39	Stk39
+STK4	Stk4
+STK40	Stk40
+STMN2	Stmn2
+STN2	Ston2
+STO	Nsd1
+STOML1	Stoml1
+STOML2	Stoml2
+STOX2	Stox2
+STRBP	Strbp
+STT3A	Stt3a
+STXBP4	Stxbp4
+STXBP5	Stxbp5
+STXBP6	Stxbp6
+STYX	Styx
+SUCB1	Sucla2
+SUGT1	Sugt1
+SULT2B1	Sult2b1
+SUMO-3	Sumo3
+SUPT16H	Supt16
+SUPT6H	Supt6
+SUPV3L1	Supv3l1
+SURF1	Surf1
+SURF2	Surf2
+SURF6	Surf6
+SUV39H2	Suv39h2
+SV2B	Sv2b
+SV2C	Sv2c
+SVIL	Svil
+SWI5	Swi5
+SYNGR1	Syngr1
+SYNJ1	Synj1
+SYNJ2	Synj2
+SYP	Syp
+SYPM	Pars2
+SYS1	Sys1
+SYT14	Syt14
+SYT16	Syt16
+SYTL2	Sytl2
+SZT2	Szt2
+Samd8	Samd8
+Scd2	Scd2
+Sciellin	Scel
+Sec10	Exoc5
+Sec15B	Exoc6b
+Sec24A	Sec24a
+Sec24C	Sec24c
+Sec24D	Sec24d
+Sec6	Exoc3
+Sec8	Exoc4
+Secretagogin	Scgn
+Secretogranin II	Scg2
+Secretogranin V	Scg5
+Securin	Pttg1
+Semaphorin 3A	Sema3a
+Semaphorin 3D	Sema3d
+Semaphorin 4B	Sema4b
+Semaphorin 4C	Sema4c
+Semaphorin 4D	Sema4d
+Semaphorin 4F	Sema4f
+Semaphorin 6A	Sema6a
+Semaphorin 6B	Sema6b
+Semaphorin 6D	Sema6d
+Sen15	Tsen15
+Serine protease inhibitor A3M	Serpina3m
+Serine racemase	Srr
+Serpin MEPI	Serpini2
+Serpina9	Serpina9
+Serpinb1b	Serpinb1b
+Serpinb6e_435350	Serpinb6e
+Serpinb9d	Serpinb9d
+Serpinb9e	Serpinb9e
+Sestrin 1	Sesn1
+Sestrin 2	Sesn2
+Sestrin 3	Sesn3
+Sgt1	Ecd
+Sh3rf2	Sh3rf2
+Shootin1 (KIAA1598)	Shtn1
+Sialoadhesin	Siglec1
+Sideroflexin-3	Sfxn3
+Sideroflexin-4	Sfxn4
+Sin3A	Sin3a
+Sirtuin1	Sirt1
+Sirtuin4	Sirt4
+Sirtuin5	Sirt5
+Sirtuin6	Sirt6
+Six3os1	Six3os1
+Ski	Ski
+Slc25a42	Slc25a42
+Slc35d3	Slc35d3
+Slc35f3	Slc35f3
+Slc7a15	Slc7a15
+Slx2	1700013H16Rik
+Smac/Diablo	Diablo
+Smchd1	Smchd1
+Snapin	Snapin
+Snhg11 (rodent)	Snhg11
+Sno-N	Skil
+Sortilin	Sort1
+Sp17	Spa17
+Spastin	Spast
+Spectrin beta 4	Sptbn4
+Spermatogenesis-associated protein 9	Spata9
+Spermine oxidase	Smox
+Spindlin	Spin1
+Spink10	Spink10
+Spty2d1	Spty2d1
+SrCap	Srcap
+Srrp	Srsf12
+StARD5	Stard5
+Stabilin-2	Stab2
+Stannin	Snn
+Stanniocalcin 1	Stc1
+Stanniocalcin 2	Stc2
+Stathmin	Stmn1
+Stathmin 3	Stmn3
+Stathmin 4	Stmn4
+Sti1	Stip1
+Striatin	Strn
+Suprabasin	Sbsn
+Synapsin II	Syn2
+Synaptopodin	Synpo
+Synaptoporin	Synpr
+Synaptotagmin I	Syt1
+Synaptotagmin II	Syt2
+Synaptotagmin III	Syt3
+Synaptotagmin IV	Syt4
+Synaptotagmin V	Syt5
+Synaptotagmin VI	Syt6
+Synaptotagmin X	Syt10
+Synaptotagmin XI	Syt11
+Synaptotagmin-IX	Syt9
+Syncollin	Sycn
+Syndecan-1	Sdc1
+Syndecan-3	Sdc3
+Syngr3	Syngr3
+Synphilin 1	Sncaip
+Syntaphilin	Snph
+Syntaxin 1B	Stx1b
+Syntaxin 4	Stx4a
+Syntaxin 8	Stx8
+Syntenin 2	Sdcbp2
+Syntrophin B2	Sntb2
+Syntrophin gamma 1	Sntg1
+T-Cc	Cyct
+T-bet	Tbx21
+T-plastin	Pls3
+T2	T2
+TAB1	Tab1
+TAB2	Tab2
+TACC1	Tacc1
+TACC2	Tacc2
+TADA1L	Tada1
+TAF(I)63	Taf1b
+TAF12	Taf12
+TAF13	Taf13
+TAF15	Taf15
+TAF5	Taf5
+TAF8	Taf8
+TAFI48	Taf1a
+TAFII150	Taf2
+TAJ(TNFRSF19)	Tnfrsf19
+TALDO	Taldo1
+TAM41	Tamm41
+TANC2	Tanc2
+TAPT1	Tapt1
+TARDBP (TDP43)	Tardbp
+TAS1R2	Tas1r2
+TATDN1	Tatdn1
+TATDN3	Tatdn3
+TB2 protein	Reep5
+TBC1D1	Tbc1d1
+TBC1D10B	Tbc1d10b
+TBC1D14	Tbc1d14
+TBC1D16	Tbc1d16
+TBC1D17	Tbc1d17
+TBC1D19	Tbc1d19
+TBC1D22B	Tbc1d22b
+TBC1D2B	Tbc1d2b
+TBC1D30	Tbc1d30
+TBCC	Tbcc
+TBCCD1	Tbccd1
+TBK1	Tbk1
+TBKBP1(SINTBAD)	Tbkbp1
+TBLR1	Tbl1xr1
+TBP	Tbp
+TBRG1	Tbrg1
+TBRG4	Tbrg4
+TCEAL1	Tceal1
+TCEAL8	Tceal8
+TCERG1 (CA150)	Tcerg1
+TCF25	Tcf25
+TCF7L2 (TCF4)	Tcf7l2
+TCIRG1 (Atp6i)	Tcirg1
+TCOF1	Tcof1
+TCP1-alpha	Tcp1
+TCP1-beta	Cct2
+TCP1-delta	Cct4
+TCP1-eta	Cct7
+TCP1-gamma	Cct3
+TCP1-zeta-1	Cct6a
+TCP11	Tcp11
+TCTE1	Tcte1
+TCTN1	Tctn1
+TD-60	Rcc2
+TDRD3	Tdrd3
+TDRD7	Tdrd7
+TDRKH	Tdrkh
+TECTB	Tectb
+TEF (thyrotroph embryonic factor)	Tef
+TEF-1	Tead1
+TEKT3	Tekt3
+TEKT5	Tekt5
+TEM7	Plxdc1
+TER	Tecr
+TESK1	Tesk1
+TET2	Tet2
+TET3	Tet3
+TEX10	Tex10
+TEX14	Tex14
+TEX9	Tex9
+TFCP2L2	Grhl1
+TFG	Tfg
+TFII-I	Gtf2i
+TFIID 30 kDa subunit	Taf10
+TFIIE, beta subunit	Gtf2e2
+TFIIF, alpha subunit	Gtf2f1
+TFIIH p52 subunit	Gtf2h4
+TFIIIC110	Gtf3c2
+TFIIIC220	Gtf3c1
+TFIIIC63	Gtf3c5
+TFIIS	Tcea1
+TFIP11	Tfip11
+TFPT	Tfpt
+TFSC1	Tceanc
+TGF-alpha	Tgfa
+TGF-beta 1	Tgfb1
+TGF-beta 2	Tgfb2
+TGF-beta 3	Tgfb3
+TGF-beta receptor type III (betaglycan)	Tgfbr3
+TGFBRAP1	Tgfbrap1
+TGIF2	Tgif2
+TGS1	Tgs1
+THAP1	Thap1
+THAP3	Thap3
+THIKB	Acaa1b
+THRAP2	Med13l
+THTPA	Thtpa
+THUMPD1	Thumpd1
+THYN1	Thyn1
+TIA-1	Tia1
+TIEG1	Klf10
+TIF1-beta	Trim28
+TIG2	Rarres2
+TIGAR (C12orf5)	Tigar
+TIM17b	Timm17b
+TIM44	Timm44
+TIMAP	Ppp1r16b
+TIMM8B	Timm8b
+TIMP1	Timp1
+TIMP2	Timp2
+TIN-2	Tinf2
+TINAGL1	Tinagl1
+TIP	Mettl8
+TIP120A	Cand1
+TIP120B	Cand2
+TIP27	Jazf1
+TIPARP	Tiparp
+TIPIN	Tipin
+TK2	Tk2
+TKT	Tkt
+TLE4	Tle4
+TLE6	Tle6
+TLK1	Tlk1
+TM150C	Tmem150c
+TM2D2	Tm2d2
+TM2D3	Tm2d3
+TM4SF9	Tspan5
+TM7SF3	Tm7sf3
+TM9SF2	Tm9sf2
+TM9SF3	Tm9sf3
+TM9SF4	Tm9sf4
+TMBIM1	Tmbim1
+TMBIM4	Tmbim4
+TMCC1	Tmcc1
+TMCC2	Tmcc2
+TMED9	Tmed9
+TMEFF1	Tmeff1
+TMEFF2	Tmeff2
+TMEM10	Opalin
+TMEM101	Tmem101
+TMEM106A	Tmem106a
+TMEM106B	Tmem106b
+TMEM109	Tmem109
+TMEM11	Tmem11
+TMEM116	Tmem116
+TMEM118	Rnft2
+TMEM126A	Tmem126a
+TMEM126B	Tmem126b
+TMEM127	Tmem127
+TMEM128	Tmem128
+TMEM131	Tmem131
+TMEM132D	Tmem132d
+TMEM135	Tmem135
+TMEM150	Tmem150a
+TMEM151A	Tmem151a
+TMEM160	Tmem160
+TMEM161B	Tmem161b
+TMEM164	Tmem164
+TMEM165	Tmem165
+TMEM167B	Tmem167b
+TMEM17	Tmem17
+TMEM174	Tmem174
+TMEM177	Tmem177
+TMEM178	Tmem178
+TMEM179	Tmem179
+TMEM18	Tmem18
+TMEM183A	Tmem183a
+TMEM186	Tmem186
+TMEM192	Tmem192
+TMEM196	Tmem196
+TMEM199	Tmem199
+TMEM201	Tmem201
+TMEM202	Tmem202
+TMEM217	Tmem217
+TMEM219	Tmem219
+TMEM224	Tmem150b
+TMEM247	Tmem247
+TMEM32	Mmgt1
+TMEM38A	Tmem38a
+TMEM41B	Tmem41b
+TMEM43	Tmem43
+TMEM46	Shisa2
+TMEM60	Tmem60
+TMEM63A	Tmem63a
+TMEM63C	Tmem63c
+TMEM66	Saraf
+TMEM70	Tmem70
+TMEM74	Tmem74
+TMEM81	Tmem81
+TMEM87B	Tmem87b
+TMEM8B	Tmem8b
+TMEM90A	Syndig1l
+TMEM93	Emc6
+TMPS6	Tmprss6
+TMTC2	Tmtc2
+TMTC4	Tmtc4
+TMUB2	Tmub2
+TMX	Tmx1
+TNF-R1	Tnfrsf1a
+TNF-R1 soluble	Tnfrsf1a
+TNFAIP8L1	Tnfaip8l1
+TNIP1	Tnip1
+TNNT1	Tnnt1
+TNRC15	Gigyf2
+TNRC4	Celf3
+TNRC5	Cnpy3
+TNRC6A	Tnrc6a
+TNRC6B	Tnrc6b
+TOLLIP	Tollip
+TOM1L2	Tom1l2
+TOM70	Tomm70a
+TOP1	Top1
+TOP1MT	Top1mt
+TOR2A	Tor2a
+TOR2X	Tor2a
+TORC1	Crtc1
+TOX	Tox
+TOX2	Tox2
+TOX3	Tox3
+TOX4	Tox4
+TPM3	Tpm3
+TPPP (p24)	Tppp
+TPR	Tpr
+TPST1	Tpst1
+TPST2	Tpst2
+TPT1	Tpt1
+TPX2	Tpx2
+TR-beta	Thrb
+TR4	Nr2c2
+TRA2A	Tra2a
+TRAF3	Traf3
+TRAFD1	Trafd1
+TRAM1L1	Tram1l1
+TRAM2	Tram2
+TRAP100	Med24
+TRAP150	Thrap3
+TRAP170	Med14
+TRAP25	Med30
+TRAP95	Med16
+TRAPPC1	Trappc1
+TRAPPC6A	Trappc6a
+TRAPPC6B	Trappc6b
+TRC8	Rnf139
+TRF1	Terf1
+TRG20	Med10
+TRIM2	Trim2
+TRIM44	Trim44
+TRIM5	Trim12c
+TRIM54	Trim54
+TRIM62	Trim62
+TRIM68	Trim68
+TRIP	Traip
+TRIP4	Trip4
+TRM61	Trmt61a
+TRMT11	Trmt11
+TRNT1	Trnt1
+TRPC5	Trpc5
+TRPC6	Trpc6
+TRPC7	Trpc7
+TRPM7	Trpm7
+TRPS1	Trps1
+TRRAP	Trrap
+TRS85 homolog	Trappc8
+TRSC 1	Adamtsl4
+TRUB2	Trub2
+TSA-1	Ly6e
+TSC-22	Tsc22d1
+TSC22D2	Tsc22d2
+TSG-6	Tnfaip6
+TSG101	Tsg101
+TSGA10	Tsga10
+TSGA13	Tsga13
+TSLC1	Cadm1
+TSLP	Tslp
+TSPAN12	Tspan12
+TSPAN6	Tspan6
+TSPAN9	Tspan9
+TSPYL5	Tspyl5
+TSR1	Tsr1
+TSSC3	Phlda2
+TTBK2	Ttbk2
+TTC17	Ttc17
+TTC19	Ttc19
+TTC21B	Ttc21b
+TTC22	Ttc22
+TTC27	Ttc27
+TTC39C	Ttc39c
+TUBGCP2	Tubgcp2
+TUBGCP5	Tubgcp5
+TUFM	Tufm
+TXNDC13	Tmx4
+TXNDC14	Tmx2
+TXNRD2	Txnrd2
+Tangerin A	Ehbp1l1
+Tapasin	Tapbp
+Taspase1	Tasp1
+Tat-SF1	Htatsf1
+Tau (MAPT)	Mapt
+Tau tubulin kinase 1	Ttbk1
+Tbc1d9	Tbc1d9
+Tcte2	Tcte2
+TdIF1	Dnttip1
+Tectonic-3	Tctn3
+Tenascin-R	Tnr
+Tensin	Tns1
+Tensin 2	Tns2
+Tensin 3	Tns3
+Testase 1	Adam24
+Testin	Tes
+Testisin	Prss21
+Tetranectin	Clec3b
+Tetraspanin-2	Tspan2
+Tetraspanin-7	Tspan7
+TfR1	Tfrc
+Thimet oligopeptidase	Thop1
+Thiopurine S-methyltransferase	Tpmt
+Thioredoxin	Txn1
+Tho2	Thoc2
+Thrombin	F2
+Thy-1	Thy1
+Thyroliberin	Trh
+Tiam2	Tiam2
+Tim22	Timm22
+Timd2	Timd2
+Tip110	Sart3
+Tmed7	Tmed7
+Tmem132e	Tmem132e
+Tmem191c	Tmem191
+Tmem198	Tmem198
+Tmem44	Tmem44
+Tmtc1	Tmtc1
+Tnp2	Tnp2
+Tnrc6c	Tnrc6c
+Tpbpa	Tpbpa
+Tpbpb	Tpbpb
+Transgelin	Tagln
+Transgelin-3	Tagln3
+Translokin	Cep57
+Transmembrane protein 202	Tmem202
+Transmembrane protein ENSP00000343375 homolog.	Tmem247
+Trim45	Trim45
+Trim66	Trim66
+TrkB	Ntrk2
+Trmt61b (mouse)	Trmt61b
+Tropomodulin	Tmod1
+Tropomodulin-2	Tmod2
+Tropomyosin-4	Tpm4
+Troponin C, cardiac	Tnnc1
+Troponin C, skeletal muscle	Tnnc2
+Trp53inp2	Trp53inp2
+Ttc15	Trappc12
+Tubulin beta 1	Tubb5
+Tubulin beta 2	Tubb2a
+Tubulin beta 2B	Tubb2b
+Tubulin beta 2C	Tubb4b
+Tubulin beta 3	Tubb3
+Tubulin beta 4	Tubb4a
+Tubulin beta 6	Tubb6
+U1-70K	Snrnp70
+U11-48K	Snrnp48
+U11/U12-65K	Rnpc3
+U1C	Snrpc
+U2 snRNP B2	Snrpb2
+UGT8	Ugt8a
+UGTREL7	Slc35d1
+UNC84B	Sun2
+UNQ1887	Sppl3
+UQCR10	Uqcr10
+UQCR11	Uqcr11
+UQCRC1	Uqcrc1
+UQCRH	Uqcrh
+UQCRQPC	Uqcrq
+USP52	Pan2
+UTX	Kdm6a
+VBP-1	Vbp1
+VCP	Vcp
+VIL2 (ezrin)	Ezr
+VIP32	Avpi1
+VIP36	Lman2
+VIP36L	Lman2l
+VIPAS39	Vipas39
+VPARP	Parp4
+Versican	Vcan
+Vesicle transport protein SFT2A	Sft2d1
+WBSCR18	Dnajc30
+WDR22	Dcaf5
+WDR32	Dcaf10
+WDR40A	Dcaf12
+WDR42A	Dcaf8
+WDR56	Ift80
+WDR67	Tbc1d31
+WDR69	Daw1
+WDR9	Brwd1
+WIP1	Ppm1d
+WISp39	Fkbpl
+WTAP	Wtap
+Willin	Frmd6
+XAB2	Xab2
+XTP3B	Erlec1
+Y549 (GRIF1)	Trak2
+YCL1	Chrac1
+YMER	Ccdc50
+ZBTB2	Zbtb2
+ZCCHC13	Zcchc13
+ZFYVE28	Zfyve28
+ZNF141	Zfp141
+ZNF157	Zfp157
+ZNF162	Sf1
+ZNF179	Rnf112
+ZNF205	Zfp13
+ZNF294	Ltn1
+ZNF313	Rnf114
+ZNF362	Zfp362
+ZNF447	Zscan18
+ZNF512B	Zfp512b
+ZNF764	Zfp764
+ZNF823	Zfp799
+ZNF839	Zfp839
+ZNF91	Zfp869
+ZNHIT6	Znhit6
+Zac1	Plagl1
+Zfp469	Tnrc18
+Zfp763	Zfp763
+Zfp788	Zfp788
+Zfp810	Zfp810
+Zibra	Rnf31
+Zinedin	Strn4
+alphaAPPs	App
+beta-MHC	Myh7
+beta-TrCP	Btrc
+betaAPPs	App
+c-Abl	Abl1
+c-Cbl	Cbl
+c-Fos	Fos
+c-IAP1	Birc2
+c-Jun	Jun
+c-Kit	Kit
+c-Myb	Myb
+c-Rel (NF-kB subunit)	Rel
+cAMP-GEFI	Rapgef3
+chTOG	Ckap5
+cytochrome P-450 reductase	Por
+dUTPase (DUT)	Dut
+deltaAPPs-130kD	App
+deltaAPPs-80kD	App
+eEF2K	Eef2k
+eIF2C1 (Argonaute-1)	Ago1
+eIF2C2 (Argonaute-2)	Ago2
+eIF3S10	Eif3a
+eIF3S3	Eif3h
+eIF3S9	Eif3b
+eIF4A1	Eif4a1
+eIF4B	Eif4b
+eIF4E	Eif4e
+eIF4G2	Eif4g2
+eIF5	Eif5
+eIF5B (IF-2)	Eif5b
+eRF1	Etf1
+etaAPP alpha	App
+etaAPP beta	App
+etaAPPs	App
+glyceraldehyde-3-phosphate dehydrogenase-like	Gapdh
+hASH1	Ascl1
+hnRNP A1	Hnrnpa1
+hnRNP C	Hnrnpc
+hnRNP D-like	Hnrnpdl
+hnRNP H1	Hnrnph1
+hnRNP R	Hnrnpr
+hnRNP U-like2	Hnrnpul2
+hnRNP-G	Rbmx
+irlB	Dennd4a
+mDIA2(DIAPH3)	Diaph3
+mGluR1	Grm1
+mGluR3	Grm3
+mGluR4A	Grm4
+mGluR5	Grm5
+mGluR7	Grm7
+nAChR alpha-4	Chrna4
+nAChR alpha-7	Chrna7
+nAChR delta	Chrnd
+nAChR epsilon	Chrne
+neurobeachin like 1	Nbeal1
+p120GAP	Rasa1
+p164-RhoGEF	Arhgef17
+p18	Cdkn2c
+p200RhoGAP	Arhgap32
+p21	Cdkn1a
+p27KIP1	Cdkn1b
+p38alpha (MAPK14)	Mapk14
+p40BBP	Tmem158
+p53	Trp53
+p53 (mitochondrial)	Trp53
+p54	Srsf11
+p56 KKIAMRE	Cdkl2
+p66beta	Gatad2b
+p70 S6 kinase1	Rps6kb1
+p90RSK2(RPS6KA3)	Rps6ka3
+p90RSK4(RPS6KA6)	Rps6ka6
+pcdhb12 (rodent)	Pcdhb12
+pregnancy specific glycoprotein 19	Psg19
+sBetaglycan	Tgfbr3
+sCD163	Cd163
+sVCAM1	Vcam1
+snRNP-G	Snrpg
+stk32A	Stk32a
+thetaAPPs	App

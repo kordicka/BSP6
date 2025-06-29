@@ -1,0 +1,4998 @@
+SIP1 (ZFHX1B)	--|	Stannin
+SMRT	--|	NURR1
+EPAS1	-->	p27KIP1
+MAZ	-->	GLUT1
+UBE2S	-->	UBC
+GCFC2	--|	IER5
+Rb protein	--|	TBP
+NFAT-90	-->	NF45 (ILF2)
+AML1 (RUNX1)	-->	C16orf54
+DDX5	--|	KLF4
+MLL2	-->	PR (membrane)
+14-3-3 zeta/delta	--|	N-type Ca(II) channel alpha1B
+REV-ERBalpha	--|	NUR77
+TBK1	--|	DCP2
+SOX2	-->	LRRC61
+PREP2	-->	p53 (mitochondrial)
+SPOP	--|	SENP7
+RXRA	-->	NDUFS7
+Ski	-->	Sirtuin1
+JNK2(MAPK9)	-->	RACK1
+SMAD4	--|	SLIT2
+HDAC2	--|	Cyclin D2
+GPATCH4	-->	DHX15
+RelA (p65 NF-kB subunit)	-->	c-Rel (NF-kB subunit)
+SOX10	-->	MEF2C
+hnRNP A1	-->	SFRS10
+FBXO24	--|	NDPK A
+AML1 (RUNX1)	-->	ZO-1
+SIK	--|	PARD3
+PR (nuclear)	--|	SYTL2
+Neuropilin-1	-->	L1CAM
+CBX4	-->	TFII-I
+CACNA1C	-->	mGluR5
+Sin3A	--|	MCM5
+STAT3	-->	KLF5
+RFX1	--|	TGF-beta 2
+TAF8	-->	TFIID 30 kDa subunit
+Androgen receptor	--|	SLC22A3
+MAD3	-->	PREX1
+ATF-3	--|	GPT2
+SPAR (SIPA1L1)	-->	TR-beta
+p53	-->	NOTCH2 receptor
+RelA (p65 NF-kB subunit)	-->	Cyclin D1
+RelB (NF-kB subunit)	-->	AIM2
+NCOA1 (SRC1)	--|	ELMO1
+ZBTB4	--|	p21
+MIF	--|	BBS4
+14-3-3 zeta/delta	-->	Raptor
+CTCF	-->	KCNQ5
+PI3K reg class IA (p85-alpha)	-->	GluR1
+PLC-beta1	--|	TRPM7
+NCOA1 (SRC1)	-->	XBP1
+REV-ERBalpha	--|	SOX2
+ZNF281	-->	MEIS2
+BMP15	-->	BMPR1B
+YY1	-->	EPAS1
+MDM2	--|	MMP-2
+c-Jun	-->	PES1
+GCR	-->	CBR1
+TCF7L2 (TCF4)	-->	ATP6V1H
+p120GAP	-->	PLC-gamma 1
+NPTX1	-->	GluR4
+SOX2	-->	TTLL7
+FOXO3A	--|	Cyclin D2
+C/EBPbeta	-->	COH1
+NUP133	-->	NUP107
+C/EBPalpha	-->	NEUR1
+Kappa-type opioid receptor	-->	Beta-arrestin1
+STAT3	-->	PD-L2
+FOXP1	--|	Rb protein
+HDAC2	-->	Ski
+STAT1	-->	PKC-epsilon
+STK19	-->	PCNA
+hASH1	--|	MMR2
+PBX1	-->	VCP
+p53	-->	CDS2
+RelA (p65 NF-kB subunit)	-->	RRAD
+TARDBP (TDP43)	-->	Rian
+p53	-->	MDS025
+Fra-1	-->	MMP-2
+PLC-gamma 1	--|	HPK1(MAP4K1)
+ZFP64	-->	HEY1
+eIF4E	-->	C1orf86
+FOXP1	-->	NANOG
+c-Myb	-->	Bim
+PI3K reg class III (p150)	-->	DBP
+Alpha-fodrin	-->	FANCA
+p66beta	-->	FBXO44
+VCP	--|	MSR1
+SRF	-->	RhoGDI gamma
+HOXA2	--|	PIRH2
+IGF2BP3	-->	NEDD4L
+Androgen receptor	--|	PR (membrane)
+LXR-beta	--|	Myelin basic protein
+MLL1 (HRX)	-->	CXXC6
+GCR	-->	IRP1
+FUSIP1	--|	Pcf11
+ATF-3	--|	XIAP
+ID2	--|	UBE2B
+MeCP2	--|	NUR77
+MED1	-->	SOX2
+IKK-epsilon	-->	VCAM1
+BAF200	-->	Aurora-C
+RelA (p65 NF-kB subunit)	-->	Neprilysin
+TCF8	-->	FOXO3A
+MBD6	-->	Brca2
+NANOG	--|	FKHR
+MLL1 (HRX)	-->	ZHX1
+FUS	--|	Cyclin D1
+SOX2	-->	TOX2
+C/EBPalpha	-->	Chitotriosidase
+C/EBPbeta	-->	BMI-1
+AOF1	-->	DNAJB11
+FBXW5	--|	ASK1 (MAP3K5)
+NANOG	-->	SMAD7
+TEF-1	-->	GLUT1
+FUS	-->	ITF2
+HDAC2	--|	Kv1.2
+BBS4	-->	PCM1
+RBP-J kappa (CBF1)	-->	Neuropilin-1
+ATF-3	--|	DYRK1a
+MOZ	-->	AML1 (RUNX1)
+NUR77	--|	LKB1
+C/EBPbeta	--|	WNT10B
+CSDA	-->	SLC3A2
+SIP1 (ZFHX1B)	-->	Galectin-1
+Fra-2	-->	AMIGO2
+PCBP-1	--|	EIF1AX
+Cyclin D1	-->	RalB
+Bcl-6	--|	FADS1
+SETDB1	--|	PROX1
+Translokin	--|	Cyclin D1
+RelA (p65 NF-kB subunit)	--|	PLC-beta1
+Sirtuin1	-->	PRDX3
+RelA (p65 NF-kB subunit)	-->	ANKRD6
+SMAD2	--|	EGR3
+DROSHA	--|	TEX14
+UEV1A	-->	TRIM5
+MYSM1	-->	IRF8
+RBP-J kappa (CBF1)	-->	REDD1
+KLF5	-->	SOX2
+PKM2	-->	AMPK alpha 1 subunit
+14-3-3 epsilon	--|	TORC1
+PGHD	-->	Rab-4A
+IGF2BP3	--|	SLIT2
+PBX1	--|	Reelin
+Androgen receptor	--|	CHAC1
+ATF-3	-->	STAT3
+G-protein beta-1	-->	Karyopherin alpha 4
+GCR	-->	VDB
+STAT3	-->	Pleiotrophin (OSF1)
+MAD3	-->	KIF5A
+CINP	-->	ATR
+NUAK1	-->	p21
+YY1	--|	MCART1
+E3b1(ABI-1)	-->	WASF1(WAVE1)
+SAP30	-->	Sin3A
+NOTCH2 (2ICD)	-->	COX-2 (PTGS2)
+Cullin 4B	--|	TGF-beta receptor type III (betaglycan)
+KIAA1843_MOUSE	-->	NALCN
+Huntingtin	--|	TORC1
+TCF7L2 (TCF4)	-->	Polycystin
+GCR	-->	APOD
+MeCP2	--|	ADAM12
+SOX2	-->	BAZ2B
+UBR1	--|	C1orf55
+c-Jun	-->	RRM1
+DGCR8	-->	NFBD1
+MeCP2	--|	Cyclin D2
+VCP	-->	MJD (ataxin-3)
+RBB2	--|	C20orf177
+PIKE(CENTG1)	-->	NF-kB1 (p50)
+VDR	-->	JMJD3
+PRMT5	-->	DLK
+GCR	--|	NGF
+RhoA	-->	PIP5K1A
+PERC	-->	REV-ERBalpha
+JARID2	--|	ATF-3
+CTCF	-->	ITGA7
+eIF4G2	-->	Bcl-9
+SOX2	-->	SOX21
+PUM2	-->	FOXP1
+SASH1	-->	Beta-arrestin1
+PER3	-->	ATM
+FBXW11	--|	Bim
+UBE2W	-->	WWP2
+RelA (p65 NF-kB subunit)	-->	BChE
+NUR77	-->	BRM
+SIP1 (ZFHX1B)	--|	NBEAL2
+STAT1	-->	Bcl-6
+CBP	-->	HBB2 (mouse)
+NCOA1 (SRC1)	--|	NANOG
+NXF	-->	CDK5
+MDM2	-->	RhoA
+PIAS2	-->	SUMO-3
+KLF5	-->	PLCD
+LXR-beta	-->	ELOVL5
+c-Jun	-->	PERC
+CSDA	--|	CDK5
+JARID2	-->	SETDB1
+R-Ras	-->	RGL2
+YY1	-->	ASM3A
+EGR3	-->	ARC
+Androgen receptor	-->	FTO
+Sirtuin6	-->	SMARCA5
+BICC1	--|	PKIA
+p53	--|	Securin
+INO80	-->	XRCC3
+BACH2	--|	Bcl-6
+GCR	-->	DDIT4L
+TCF7L2 (TCF4)	--|	FTO
+KEAP1	--|	GRP75
+CtBP2	-->	RXRA
+KLF4	--|	Reticulocalbin 1
+HDAC2	-->	APPL1
+NAB2	--|	EGR2 (Krox20)
+ATF-3	--|	CAT-1 (SLC7A1)
+STAT3	-->	GADD45 beta
+BMI-1	--|	CXXC4
+RelA (p65 NF-kB subunit)	-->	MIR (Idol)
+MEF2C	-->	RhoB
+FOXK1	--|	ACLY
+Esrra	--|	TGF-beta 3
+CHD7	--|	VEGF-A
+MMS2	-->	CHFR
+PUM1	--|	Aralar1 (SLC25A12)
+YTHDF2	-->	OGT (GlcNAc transferase)
+DBCCR1	--|	Sirtuin1
+NCOA1 (SRC1)	--|	GLT8D4
+HDAC2	--|	SCN3B
+TIF1-beta	--|	Tubulin beta 1
+Dystrophin	-->	Syntrophin gamma 1
+LAMR1	-->	APP
+IHPK1	-->	GSK3 beta
+E2F4	-->	Emi1
+PBX1	-->	SOX3
+NPL4	-->	VCP
+E4BP4	-->	PRNP
+ZNF800	--|	EGR2 (Krox20)
+WNT2	-->	FZD9
+CTCF	--|	Fibcd1
+SETDB1	--|	APOE
+C/EBPbeta	-->	C/EBP zeta
+IRF8	-->	C1qa
+NCOA2 (GRIP1/TIF2)	-->	Cyclin D1
+YY1	--|	CBP
+FAT10	--|	PCNA
+RelA (p65 NF-kB subunit)	-->	PSD-95
+EGR1	-->	G-protein alpha-i2
+G3P2	--|	COX-2 (PTGS2)
+CFTR	--|	GRP78
+UBR5	--|	APH-1B
+PHF1	--|	FBXW7
+C/EBPbeta	-->	EGR1
+Dynamin-2	--|	SLC9A1
+NF-kB1 (p50)	-->	c-Myb
+Androgen receptor	--|	JMJD3
+CBX4	-->	Fibrillarin
+Zac1	-->	PPAR-gamma
+Sirtuin1	--|	XBP1
+RXRA	--|	TSLC1
+Elk-4	-->	EGR3
+JMJD2A	-->	PDK3
+IKK-gamma	--|	IRS-1
+NFIB	-->	CDYL2
+TCF8	--|	Myosin VI
+TARDBP (TDP43)	-->	Sirtuin1
+CTCF	-->	SLC5A5
+BRG1	-->	NUR77
+SRF	--|	3200002M19Rik
+SMRT	--|	GLPK
+STAT3	-->	FUT8
+beta-TrCP	--|	Bim
+NCOA1 (SRC1)	--|	Ephrin-B1
+YY1	--|	GLAST1/EAAT1
+Rb protein	--|	SDHA
+SOX2	-->	NDRG4
+Tubulin beta 6	--|	PRNP
+SMAD4	-->	cytochrome P-450 reductase
+mGluR5	-->	eEF2K
+C/EBP zeta	--|	Cyclin D1
+FUS	-->	XRCC1
+RelA (p65 NF-kB subunit)	-->	Bcl-10
+HDAC2	--|	GADD45 alpha
+Cullin 4B	-->	Sirtuin1
+MDM2	--|	AATF (Che-1)
+SMAD7	--|	ALK-4
+eIF3S9	-->	TEX9
+BAF155	-->	PTCH1
+KLF13	--|	LDLR
+SIP1 (ZFHX1B)	--|	ID1
+TCF8	-->	PKM2
+RelA (p65 NF-kB subunit)	-->	MTHFD2
+Hamartin	-->	SMAD2
+CTCF	-->	ARC
+SOX2	-->	NDPK 7
+CREM (activators)	-->	TBP
+HDAC5	--|	BRM
+MLL2	-->	PER2
+FTO	--|	RARalpha
+BTBD14A	--|	MDM2
+VDR	--|	STAT3
+p53	--|	Fibrillin 1
+TCF7L2 (TCF4)	--|	BACE1
+RelA (p65 NF-kB subunit)	-->	CFTR
+EGR2 (Krox20)	-->	Bcl-6
+YY1	--|	HEXIM2
+MEF2C	-->	FKHR
+c-Jun	-->	VEGF-A
+TR-beta	--|	MUC1
+UCHL1	--|	p27KIP1
+CUGBP1	--|	JunB
+Beta-arrestin1	-->	SSH1L
+RXRA	--|	PI3K cat class IA (p110-alpha)
+DMTF1	-->	Amphiregulin
+MITF	-->	MAFbx
+SLIT2	-->	ROBO1
+PHF20	-->	ING1
+SOX2	-->	KAB
+IGF-1 receptor	--|	Csk
+UBE2D2	--|	SLC4A4
+TR-beta	-->	PI3K reg class IA (p85-alpha)
+Stathmin	-->	STAR
+PPP2R2B	-->	PR65-alpha
+N-CoR	--|	HUS1
+PAF1	-->	p21
+C3G	-->	ODF2
+C/EBPalpha	-->	ATF-3
+FKHR	--|	Cyclin D2
+STAT1	-->	BRG1
+Fra-1	-->	N-cadherin
+RUVBL2	--|	VEGF-A
+Androgen receptor	-->	TGF-beta 1
+CRM1	-->	p70 S6 kinase1
+RXRA	-->	APOE
+RENT2	-->	RBM8 (Y14)
+IGF2BP3	-->	COX-2 (PTGS2)
+AIP1 (DAB2ip)	--|	PI3K reg class IA (p85-alpha)
+AML1 (RUNX1)	-->	PTGIS
+Androgen receptor	-->	DPP4
+GPS2	-->	p53
+AML1 (RUNX1)	--|	YTHDF2
+CXXC6	-->	CHL1
+TR-beta	-->	PMP70
+CHD1	-->	Androgen receptor
+RelA (p65 NF-kB subunit)	--|	DBP
+SOX2	-->	hASH1
+IRF8	-->	Cathepsin S
+HDAC2	--|	NR2B
+c-Myb	-->	PDCD4
+EPAS1	-->	Ferroportin 1
+GRP78	-->	Stathmin
+FAK1	-->	MDM2
+CHD7	-->	SOX11
+Annexin V	--|	Polycystin
+c-Rel (NF-kB subunit)	-->	eIF4E
+GEM	--|	CACNB3
+RagC	-->	Raptor
+SOX2	-->	ABCG1
+SLC12A9	-->	KCC2
+INO80C	-->	CDC18L (CDC6)
+SOX2	-->	Cyclin T2
+Fra-1	-->	p21
+CBX4	--|	c-Kit
+D52	-->	RelA (p65 NF-kB subunit)
+p53	-->	RKIP
+RelA (p65 NF-kB subunit)	-->	p18
+HSP90 beta	-->	c-IAP1
+SETDB1	--|	PPAR-gamma
+Huntingtin	--|	Hdj-2
+RelA (p65 NF-kB subunit)	-->	DHB4
+SOX2	-->	Cyclin T1
+ROBO1	-->	Cytohesin1
+E2F4	-->	MGF
+STAT1	-->	VIL2 (ezrin)
+IRS-1	-->	p21
+AML1 (RUNX1)	--|	NANOG
+NCOA1 (SRC1)	--|	Plexin A4
+Bcl-6	--|	VCAM1
+FBXW7	--|	EGR1
+TIGAR (C12orf5)	-->	TR4
+PROX1	--|	DLDH
+Elk-1	-->	EPAS1
+TPR	--|	p53
+HIC5	--|	TCF7L2 (TCF4)
+TR-beta	--|	GLTPD1
+BRG1	-->	p53
+EED	--|	COX-2 (PTGS2)
+HBXIP	-->	LXR-beta
+Itch	-->	NDFIP2
+Derlin1	--|	COX-2 (PTGS2)
+SOX2	-->	RhoA
+C/EBPalpha	-->	IBP5
+RBP-J kappa (CBF1)	-->	MEGF10
+TSLC1	-->	IKK-gamma
+RBP-J kappa (CBF1)	-->	ORC6L
+CBP	-->	Brca2
+NUP210	-->	UNC84B
+Nociceptin receptor	--|	Mu-type opioid receptor
+CBP	-->	NUR77
+AIP	-->	Zac1
+FOXK1	--|	ACADM
+SOX2	--|	LDHB
+Derlin1	--|	CACNA1C
+JMJD1B	-->	Cyclin D1
+Sin3A	--|	HSP10 (mitochondrial)
+EGR2 (Krox20)	-->	TOLLIP
+RelA (p65 NF-kB subunit)	-->	TNIP1
+ELP3	-->	HSPA1B
+Sirtuin6	-->	CDS2
+AML1 (RUNX1)	--|	HBG1
+AF-17	-->	C/EBP zeta
+TCF7L2 (TCF4)	-->	AML1 (RUNX1)
+GCR	-->	RGC32
+ROBO1	-->	Neuropilin-1
+FOXK1	--|	DECR
+MEF2C	-->	DLX6
+VCP	--|	ASGR2
+Fra-2	-->	Ephrin-A receptor 2
+PRKCBP1	-->	HMDH
+UBE2W	-->	Itch
+FOXO4	-->	p21
+MAZR	--|	Ep-CAM
+MUC1-CT	-->	c-Jun
+BTF	-->	C/EBPbeta
+p27KIP1	--|	SOX2
+GCR	-->	MEK3(MAP2K3)
+RKIP	--|	STAT3
+STAT3	-->	PDK2
+Hap-1	-->	GABA-A receptor beta-2 subunit
+HIC1	--|	CXCL14
+EKLF1	-->	Glyoxalase II
+Nucb1	-->	G-protein alpha-i2
+EPAS1	-->	ARRDC3
+Androgen receptor	-->	Versican
+JunD	-->	B3GN1
+EGR1	--|	Cystatin E/M
+KLF4	-->	ABCA1
+Contrin (MSY2)	--|	DPP8
+PPDPF	--|	STAT3
+GIMAP6	-->	GATE-16
+PIP5KIII	--|	CACNA1C
+Androgen receptor	--|	Kappa-type opioid receptor
+KLF4	-->	Synaptopodin
+IGF2BP3	--|	NDRG1
+RBP-J kappa (CBF1)	--|	PDGF-R-alpha
+Rb protein	--|	PHAP1 (pp32)
+NUR77	-->	Doublecortin
+hASH1	-->	Rab-30
+RUVBL2	-->	Cyclin D1
+MIF	-->	GRP78
+CTCF	--|	Delta-catenin
+C/EBPalpha	-->	ACSA
+KLF6	-->	PPAR-gamma
+OGT (GlcNAc transferase)	--|	PLLP
+Sirtuin1	-->	Transgelin
+hASH1	-->	RET
+PPAR-beta(delta)	-->	TGF-beta 1
+HSPA1A	--|	GCR
+IMP2	-->	CDK14
+CXXC1	-->	p21
+ARRDC4	-->	WWP2
+NCK1	-->	WaspIP
+FBXW7	--|	SOX10
+TPT1	-->	Nucleophosmin
+EGR2 (Krox20)	-->	Cyclin D3
+VDR	-->	MAP1LC3B
+ARPP- 21	-->	ZBTB44
+TSC22D2	--|	PKM2
+FOXO3A	-->	PINK1
+SMAD4	-->	Connexin 43
+CTCF	-->	SOX10
+hASH1	-->	Jagged2
+STAT3	-->	MUL
+CHD7	--|	CRELD1
+CBP	-->	PYGO2
+DDX3X	-->	MITF
+JunD	--|	AML1 (RUNX1)
+RhoA	-->	Connexin 43
+SOX2	-->	MORN2
+MUC1	-->	CDD
+KLF4	--|	GLUT1
+NCOA1 (SRC1)	--|	Kir3.1
+HSPA1B	-->	Androgen receptor
+SRF	-->	TLE4
+TCF8	--|	CDS1
+BRG1	--|	DHFR
+MAP-1B	--|	LRRK2
+RBP-J kappa (CBF1)	-->	ALPL
+SMURF1	--|	Insulin receptor
+TCF7L2 (TCF4)	-->	ATF-3
+NANOG	--|	PTCH1
+CTCF	--|	DENND5B
+SSRP1	-->	PDK1
+SUMO-3	-->	DBC1
+CBP	-->	Chromogranin A
+Beta-arrestin2	-->	DGK-epsilon
+MED15	-->	SMAD7
+BAF250B	-->	p21
+SRF	-->	Mcl-1
+MITF	-->	DIA1
+NF45 (ILF2)	-->	CDCA1
+HDAC2	--|	PTPA
+UNC5B	-->	PIKE(CENTG1)
+BAF170	-->	BAF155
+SMAD7	-->	MEK6(MAP2K6)
+EPAS1	-->	ANKRD37
+RBB2	--|	WTAP
+C/EBP zeta	-->	GABARAP
+STAT3	-->	PHLDA1
+FOXK1	-->	PKM2
+PJA2	--|	Reticulon-2
+KDELR1	-->	ARFGAP1
+RXRA	-->	ATP1A2
+Roquin	--|	MMP-2
+RBP-J kappa (CBF1)	-->	ID1
+KLF4	-->	MAL
+C11orf9	-->	ATAD2
+Praja-1	--|	MJD (ataxin-3)
+TARDBP (TDP43)	-->	DROSHA
+RelB (NF-kB subunit)	-->	RelA (p65 NF-kB subunit)
+CHD1	-->	Sortilin
+CHP1	--|	ROCK2
+Androgen receptor	-->	SGK3
+TSC-22	-->	p53
+PER3	--|	PPAR-gamma
+hASH1	--|	LONP
+Oct-1	-->	Jouberin
+DYRK1a	-->	RPS6
+FUS	-->	Androgen receptor
+TIEG1	--|	FosB
+COBRA1	--|	Androgen receptor
+UBE2B	-->	WWP2
+PR (nuclear)	-->	Bcl-XL
+HDAC2	--|	CoREST
+RPS6	--|	RPS15
+ZNF207	-->	NANOG
+FAT10	--|	Sirtuin1
+CEBPG	-->	MAP1LC3B
+RBB2	--|	ALPL
+AML1 (RUNX1)	--|	RUNX3
+KLF5	-->	Pim-1
+hASH1	-->	ID4
+G3P2	-->	KLF11 (TIEG2)
+FKHR	-->	Follistatin
+AKAP350	--|	TSG101
+SOX2	--|	SSRP1
+DOT1	-->	MRCKalpha
+YY1	-->	PTP4A2
+FOXO3A	-->	REDD1
+Androgen receptor	-->	N-cadherin
+FBXW11	--|	RASSF3
+Esrra	-->	SDHD
+Derlin1	--|	CFTR
+HDAC2	--|	CDYL
+Trp53inp2	-->	C11orf9
+APP-C59 (AICD)	--|	RBP-J kappa (CBF1)
+p53	-->	EGR1
+C/EBPbeta	-->	CHAC1
+GCR	--|	ABCA1
+N-CoR	--|	AKAP1
+NQO1	-->	c-Fos
+DDB2	--|	VEGF-A
+TRPS1	-->	HDAC2
+RelA (p65 NF-kB subunit)	-->	Neuroglobin
+PRMT5	-->	PPAR-gamma
+CBP	-->	Rb protein
+PUM2	--|	p38alpha (MAPK14)
+Rictor	-->	PRR5
+IRP1	-->	CDC14a
+AML1 (RUNX1)	-->	Cyclin D3
+Elk-1	-->	C14orf119
+PI3K reg class IA (p85-beta)	-->	USP7
+Zac1	-->	c-Jun
+NUP98	-->	POU6F2
+MeCP2	-->	TSSC3
+BASP1	--|	WNT4
+TR4	-->	AKT3
+RelA (p65 NF-kB subunit)	-->	LPP3
+SOX2	-->	Sec10
+CDK5	--|	GSK3 beta
+C/EBPdelta	-->	Myeloblastin
+STAT1	-->	GCN5
+TSLC1	-->	c-Kit
+FOXO3A	--|	Cyclin D1
+p53	-->	GFPT2
+FBXW11	--|	AP-4
+SETX	-->	Keratin 1
+GCR	-->	TGF-beta 3
+DDX9	-->	Cyclin D1
+DNJC1	-->	G-protein alpha-11
+CDC34	-->	UFD2
+EGR1	-->	BMI-1
+SMCY	--|	En2
+PELP1	-->	STAT3
+NCOA1 (SRC1)	--|	SIAT8A
+DDX3X	-->	Cyclin D1
+DOT1	-->	IRF2BP2
+Nectin-3	-->	MPP3 (DLG3)
+NCOA1 (SRC1)	-->	C/EBPbeta
+STAT3	-->	Oct-1
+GCR	-->	AF-4
+AML1 (RUNX1)	-->	VDR
+RXRA	--|	MCM2
+RBB2	-->	PER2
+IL-17 receptor	-->	TRAF3
+RXRA	-->	PRNP
+ATF-4	-->	KLF4
+DROSHA	--|	DLGAP1 (GKAP)
+EPAS1	-->	G3P2
+MEF2C	-->	p21
+KLF13	-->	PLP1
+FOXO3A	-->	Sirtuin6
+C/EBPdelta	-->	KLF4
+EGR2 (Krox20)	-->	STK32C
+K-RAS	--|	Bcl-XL
+CBP	-->	HBG1
+Androgen receptor	-->	FEN1
+MEF2A	-->	CLIM1
+SRF	-->	Flotillin-2
+BMI-1	-->	ABCC5
+NCOA1 (SRC1)	--|	hASH1
+YY1	-->	SPEC2
+SAP97 (DLG1)	--|	Ephrin-A receptor 2
+ATM	-->	c-Cbl
+TB2 protein	--|	ATL3
+C/EBPbeta	-->	Rab-30
+RACK1	-->	STAT3
+TEF-1	-->	LSG1
+FKHR	-->	PERC
+SOX6	-->	MEF2C
+hASH1	-->	DBS
+ATF-4	-->	Mcl-1
+HSP40	--|	PKM2
+Mi-2 beta	-->	CD4
+BRM	--|	Mu-type opioid receptor
+RUNX3	-->	Perforin
+Lamin A/C	--|	PCGF2 (Mel-18)
+PER2	--|	PDK1
+RelA (p65 NF-kB subunit)	-->	PINK1
+eIF4E	-->	Cyclin D1
+hASH1	--|	ULK1
+UBE2J2	-->	SMURF1
+Mi-2 beta	-->	Fibulin-5
+PEG3	-->	TIF1-beta
+p27KIP1	--|	MCM7
+RUNX3	-->	IEX1
+SRF	-->	GADD45 gamma
+NF-kB1 (p50)	-->	Cyclin D3
+RelA (p65 NF-kB subunit)	-->	MLL2
+PPAR-gamma	-->	AKAP12
+DREAM	--|	RhoA
+TCF8	-->	CORO1C
+SOX2	-->	CDK14
+NPAS3	-->	VGF
+STAT1	-->	PML
+PD-L2	-->	FAK1
+IRF8	-->	AMWAP
+Rab-28	-->	RelA (p65 NF-kB subunit)
+Androgen receptor	-->	HUS1
+TIP120A	--|	Cullin 4A
+E2F4	-->	MMP-15
+FUS	-->	MAP1LC3B
+C/EBPdelta	-->	Ryanodine receptor 1
+GSTP1	--|	JNK2(MAPK9)
+C/EBPbeta	-->	TNF-R1
+C/EBPdelta	-->	SOX2
+STARING	-->	PDK1
+MeCP2	-->	PER1
+STAT3	-->	Ephrin-B2
+TCF8	-->	SPRY4
+SEC16A	-->	TRAF3
+PAF1	-->	NANOG
+FKHR	-->	PPase (inorganic)
+PABPC1	-->	Androgen receptor
+AATF (Che-1)	-->	NOL10
+FOXO3A	-->	Sestrin 2
+LDLR	--|	ALDH2
+HDAC2	--|	CYP46
+hASH1	-->	ID3
+Cyclin L1	-->	CDC2L2
+PRKD1	-->	RAP-1A
+BRG1	-->	ID4
+HDAC2	--|	Neurexin-3 alpha
+HDAC2	--|	PPAR-beta(delta)
+p53	-->	Bcl-6
+TIPARP	-->	CXXC6
+Synaptopodin	-->	RhoA
+Pyk2(FAK2)	-->	c-Abl
+BRD2	-->	BAF170
+hASH1	-->	GPRC5B
+STAT3	-->	ITF2
+Fra-1	-->	PTHrP
+IHPK1	--|	GASC1
+GADD45 beta	-->	PPAR-gamma
+UTX	-->	c-Myb
+RPRD1B	-->	STAT3
+TIA-1	--|	MKP-1
+p53	-->	CDIP
+GCR	--|	RGS4
+TR-beta	--|	ANP32E
+UBE2B	-->	UBR1
+STAT3	-->	PKM2
+MPP11	-->	RARalpha
+Insulin receptor	-->	PLC-gamma 1
+Delta-catenin	-->	p90RSK2(RPS6KA3)
+RBP-J kappa (CBF1)	-->	Activin beta A
+TR-beta	-->	PR (membrane)
+N-CoR	--|	Glis2
+NKRF	--|	SLC1A1/EAAT3
+SETDB1	-->	ATF7IP
+SOX2	-->	MBNL3
+STAT3	-->	ESM-1
+BMI-1	--|	MEF2C
+C/EBPbeta	-->	RelA (p65 NF-kB subunit)
+c-Myb	-->	GRP78
+p53	-->	TD-60
+BAF155	-->	NOXA
+DDB2	-->	RNF43
+WDR82	--|	BRD2
+Ephrin-B1	-->	NCK2
+DERP6	-->	ELP3
+PPAR-gamma	-->	HSP12A
+Girdin	-->	PI3K reg class IA (p85-alpha)
+AML1 (RUNX1)	--|	Frem2
+Sialoadhesin	-->	SHP-2
+PRMT6	-->	RelA (p65 NF-kB subunit)
+ARF6	-->	Kalirin
+HDAC2	--|	ITGB8
+ID1	--|	Elk-1
+HDAC2	--|	CDK5R1 (p35)
+AIP1 (DAB2ip)	--|	JAK2
+UTX	--|	SIP1 (ZFHX1B)
+Amyloid beta 42	--|	PDK1
+GCR	--|	CFTR
+TRPS1	-->	VEGF-A
+SOX3	-->	TGF-beta 1
+TCF8	-->	TGF-beta 2
+p90RSK2(RPS6KA3)	-->	RhoA
+MSK1	-->	p21
+Androgen receptor	-->	XBP1
+SOX2	--|	EGFL5
+RFWD3	-->	ORC1L
+CPEB1	--|	VEGF-A
+NANOG	--|	ANKRD6
+LKB1	-->	PLC-gamma 1
+PCBP-1	--|	Versican
+PGK1	-->	EPAS1
+NANOG	--|	TSPAN9
+BMI-1	--|	BTG2
+PML	--|	STAT1
+USP16	-->	EGR1
+hASH1	-->	RPS6KC1
+KLF5	-->	COX-2 (PTGS2)
+UBE2A	-->	CHIP
+Lamin A/C	-->	JunB
+EGFL7	--|	NOTCH4 receptor
+TCF8	--|	DLL1
+Elk-4	-->	FosB
+MLL2	-->	EBAG9
+ADA2B	-->	GCN5
+YTHDF2	--|	PRR5
+SOX2	--|	RPS4X
+BAF200	--|	STAT1
+FLII	-->	GCR
+JMJD3	-->	HPK1(MAP4K1)
+p53	-->	TRAM2
+FOXP1	--|	XBP1
+Sirtuin6	-->	MAFbx
+NCOA2 (GRIP1/TIF2)	-->	SRF
+RAD9A	-->	HUS1
+CTCF	--|	Semaphorin 4F
+CHMP4B	--|	CFTR
+ALKBH5	--|	ACSL4
+SOX2	-->	FRMD4B
+RUVBL2	--|	EPAS1
+CBX4	--|	HOXA2
+FOXO3A	--|	PRNP
+c-Myb	-->	GADD45 alpha
+G9a	--|	SOX6
+RelA (p65 NF-kB subunit)	-->	ABCA1
+SIP1 (ZFHX1B)	--|	SOX2
+MafK	-->	Thioredoxin
+hASH1	--|	FRY
+MAZ	--|	p53 (mitochondrial)
+Kv6.2	-->	Kv2.1
+SOX2	-->	WNT7A
+MLL5	-->	CHIP
+CTCF	--|	NANOG
+N-CoR	--|	STAT1
+Semaphorin 6A	-->	Plexin A2
+ARF1	-->	PIP5K1A
+Beta-arrestin1	--|	PPAR-gamma
+BACH1	-->	EWS
+NF-kB1 (p50)	-->	Mcl-1
+GCR	-->	IRF8
+FOXO3A	-->	Rictor
+TCF8	--|	LLGL1
+c-Rel (NF-kB subunit)	-->	Chromogranin A
+TCF8	--|	KCRU
+FOXK1	-->	DHE3
+Sno-N	-->	p53
+SMRT	--|	IEX1
+SPOP	--|	GLI-2
+EKLF1	-->	MMSA
+TCF7L2 (TCF4)	-->	LSS
+HECTD1	--|	ZPR9
+Rb protein	--|	RelA (p65 NF-kB subunit)
+FUS	-->	nAChR epsilon
+FOXO3A	-->	CDC25C
+C/EBPbeta	-->	Sestrin 2
+STAF65(gamma)	-->	TFIID 30 kDa subunit
+DDX5	-->	SMARCA5
+ATF-4	-->	MCP
+CDK5R1 (p25)	--|	Rb protein
+RelA (p65 NF-kB subunit)	--|	DLGAP1 (GKAP)
+DBC1	-->	PMEPA1
+USP1	-->	ID3
+RBP-J kappa (CBF1)	-->	Ep-CAM
+MIG6	-->	c-Abl
+EPAS1	-->	TY3H
+MeCP2	--|	Nova1
+BRG1	-->	TGF-beta 2
+YY1	-->	SLC22A15
+Delta-catenin	-->	Kaiso
+RelA (p65 NF-kB subunit)	--|	E2F5
+OSBP2	-->	IP3R1
+Ikaros	-->	PI3K reg class IB (p101)
+SMAD4	--|	SIP1 (ZFHX1B)
+Trp53inp2	-->	GABARAP
+C/EBPalpha	-->	EGR2 (Krox20)
+hASH1	--|	ZCCHC3
+VCP	--|	PPP1R11
+YY1	-->	ATP6V1H
+PCNA	--|	MDM2
+VCP	--|	SP-C
+RXRA	--|	TMEM38A
+SOX2	-->	SBSN
+Esrra	-->	FIP200
+IKK-alpha	-->	COX-2 (PTGS2)
+YY1	-->	CPSF2
+LRP1	-->	FKHR
+BMI-1	--|	p53
+CSDA	-->	p21
+SOX2	-->	Synaptotagmin IV
+Androgen receptor	-->	SMYD1
+RelA (p65 NF-kB subunit)	-->	NRAMP2
+NF45 (ILF2)	-->	c-IAP1
+RBP-J kappa (CBF1)	-->	CNTFR alpha
+RelA (p65 NF-kB subunit)	-->	FLJ36031
+AML1 (RUNX1)	--|	ID2
+JMJD3	-->	CaMKK1
+MED1	-->	PP2C gamma
+RPAP2	-->	G3P2
+FKHR	-->	S1P1 receptor
+PUM2	--|	GIT1
+FOXO3A	-->	Bcl-10
+SMAD4	-->	AMIGO2
+NURR1	--|	JAK2
+RXRA	-->	SLC6A6
+CBP	-->	Lamin A/C
+GABP alpha	-->	MCM5
+RBP-J kappa (CBF1)	-->	PCNA
+GCR	--|	Beta-arrestin2
+PR (nuclear)	-->	ATBF1
+KLF4	--|	CTIP2
+CBP	-->	MGF
+BAF250A	--|	SOX1
+MAP1LC3A	--|	Nibrin
+IGF-1 receptor	-->	Cyclin D1
+N-CoR	--|	REV-ERBalpha
+Tmem198	-->	Casein kinase I epsilon
+PPAR-gamma	-->	CFTR
+SSRP1	-->	NANOG
+ZNF516	--|	Tubulin beta 3
+CTIP2	--|	RUNX3
+SOX6	--|	PROX1
+TFII-I	-->	Sirtuin1
+RNF7	--|	Neurofibromin
+Esrra	-->	RPIA
+TFII-I	-->	Cyclin D1
+TAJ(TNFRSF19)	-->	LGR4
+Esrra	-->	ULK1
+Itch	-->	CYLD
+RelB (NF-kB subunit)	-->	p21
+TAF15	--|	CBP
+BMI-1	--|	BAMBI
+STAT3	-->	PBR
+CGI-48	--|	p21
+FOXO3A	--|	CMPK2
+RXRA	--|	PCSK9
+TEF-1	-->	Cyclin D3
+SMAD4	--|	hASH1
+LYAR	--|	CHAC1
+KLF5	-->	Sin3A
+KLF4	-->	GUAC
+c-Rel (NF-kB subunit)	-->	c-Myb
+CHIP	-->	AMPK alpha 1 subunit
+HSF4	-->	RelA (p65 NF-kB subunit)
+c-Jun	--|	YY1
+HIC1	--|	STAT3
+NF-AT5	-->	c-Fos
+TFPT	--|	EAF2
+Esrra	-->	LKB1
+SUPT16H	-->	EGR1
+SMRT	--|	HEY1
+YY1	--|	KLF4
+SOX2	-->	Rab-15
+NUR77	--|	PPAR-gamma
+MeCP2	--|	Protocadherin 7
+RIC8A	--|	Adenylate cyclase type V
+C/EBPbeta	--|	PCNA
+Elk-1	-->	RAIDD
+NUR77	--|	SMAD7
+WWC2	-->	AMOTL1 (Jeap)
+NF-AT5	-->	Aquaporin 1
+c-Myb	-->	c-Fos
+Esrra	-->	GLSK
+GCN5	-->	Cyclin D1
+Sirtuin1	-->	MAP1LC3B
+DGCR8	--|	SNX12
+NF-kB1 (p50)	-->	OCTN1
+HBXAP	-->	XIAP
+RPRD1B	-->	Cyclin D1
+DNA polymerase beta	-->	PER1
+ATF-4	-->	GATE-16
+SOX2	-->	SOX6
+KLF4	--|	HMDH
+Androgen receptor	-->	PIP1
+ATF-3	--|	C/EBPbeta
+SMAD7	-->	p38alpha (MAPK14)
+RelA (p65 NF-kB subunit)	-->	MUC1
+GCR	-->	NEK7
+SOX2	--|	DAK
+INO80	-->	ZNF703
+RBB2	--|	Mitofusin 2
+c-Jun	-->	VIL2 (ezrin)
+MLL2	-->	C/EBPalpha
+RelA (p65 NF-kB subunit)	--|	PHF3
+MeCP2	--|	AF-4
+SOX2	--|	PTCH1
+C11orf9	-->	MAG
+c-Fos	-->	PBR
+SOX2	-->	REV-ERBalpha
+BRG1	-->	Thyroliberin
+PDGF-R-alpha	-->	SHP-2
+SMAD1	-->	ARX
+PPAR-gamma	-->	14-3-3 epsilon
+HIC5	--|	SMAD4
+DDX3X	-->	DDX5
+NCOA1 (SRC1)	--|	p40BBP
+Contrin (MSY2)	--|	CSDA
+IKK-gamma	-->	RhoA
+TrkB	-->	mGluR5
+AKT3	--|	FANCA
+PPAR-gamma	-->	PI3K reg class IA (p85-alpha)
+p53	-->	RhoE
+Androgen receptor	-->	SERPINF2
+TFIIF, alpha subunit	-->	Rab-22A
+KLF12	--|	p53
+NCOA1 (SRC1)	-->	LXR-beta
+RBBP6	--|	p53
+Menin	--|	RelA (p65 NF-kB subunit)
+TPT1	-->	Rictor
+KLF5	-->	p70 S6 kinase1
+FKHR	-->	Proglucagon
+JARID2	--|	Non-muscle myosin IIA
+MAZR	-->	BACH2
+BACH2	--|	Cyclin D3
+FKHR	-->	EGR1
+AML1 (RUNX1)	-->	c-Fos
+SART1	-->	EPAS1
+FOXO3A	-->	NANOG
+EGR1	-->	PMCA2b
+SALL-1	-->	KIF26B
+PI3K reg class III (p150)	-->	REV-ERBalpha
+FIP200	--|	SMAD7
+SMRT	--|	JAK2
+TBP	-->	EGR2 (Krox20)
+SFRS3	-->	TARDBP (TDP43)
+hnRNP H1	-->	SFRS3
+p53	-->	GNPI
+hASH1	--|	CADM2
+BAF180	-->	S100A13
+NF-kB1 (p105)	--|	RelA (p65 NF-kB subunit)
+Derlin1	-->	SOD1
+STAT1	-->	PBEF
+Mi-2 beta	-->	TCF8
+Bcl-6	--|	STAT3
+STAT3	--|	Stathmin
+NCAM1	-->	CACNA1H
+SMRT	--|	TCF7L2 (TCF4)
+NF-kB1 (p105)	-->	Bcl-XL
+NCOA1 (SRC1)	--|	SMAD2
+KLF5	-->	NF-kB1 (p105)
+KLD10	--|	PP5
+RRAD	--|	RelA (p65 NF-kB subunit)
+SOX10	-->	BRM
+IMP2	-->	CDC18L (CDC6)
+Bcl-6	--|	ATR
+YTHDF3	-->	c-Jun
+BAF155	-->	BAF57
+ZNF764	-->	MKP-1
+LRP1	-->	Ephrin-A receptor 2
+STAT3	-->	CXXC6
+SMAD1	-->	EPDR1
+EGR1	-->	CXXC6
+CHAC1	-->	SAE2
+NCOA1 (SRC1)	--|	Kv4.3 channel
+RelA (p65 NF-kB subunit)	-->	Par-4
+NCOA1 (SRC1)	-->	Liprin-beta 2
+Bcl-XL	-->	IP3R2
+SMAD1	--|	SOX2
+JMJD3	-->	HTR3B
+Sirtuin1	-->	SRF
+FosB	-->	GCL cat
+HSP60	-->	NANOG
+TRAP150	-->	PER1
+BAF47	-->	PPAR-gamma
+AML1 (RUNX1)	-->	Neurofibromin
+MEF2A	-->	Gsta4
+TSG101	-->	hnRNP A1
+JunD	-->	RelA (p65 NF-kB subunit)
+SUV39H2	--|	SLIT1
+Sirtuin6	--|	PPAR-gamma
+C/EBPalpha	-->	DGAT2
+Androgen receptor	-->	BUB3
+Esrra	-->	FA2H
+Mi-2 beta	-->	Rad50
+DLL1 (IC)	-->	SMAD4
+CABIN1	--|	mGluR5
+BACH1	-->	Transgelin
+RARalpha	-->	RET
+TCF7L2 (TCF4)	-->	SMAD4
+p53	-->	CD200 (OX-2)
+Sin3A	--|	NPTX2
+NUR77	--|	RelA (p65 NF-kB subunit)
+Myt1L	-->	NCAM1
+Casein kinase II, beta chain (Phosvitin)	-->	Sirtuin1
+SETDB1	-->	STAT3
+EPAS1	-->	WNT10B
+SKIP (Ski-interacting protein)	-->	p21
+PSMD11	-->	Karyopherin beta 1
+FosB	-->	HB-EGF
+FKHR	-->	Itch
+Fra-1	--|	C/EBPalpha
+hASH1	--|	Midn
+MEF2C	-->	IRS-1
+Bcl-10	-->	IKK-alpha
+p27KIP1	-->	PDE7B
+PHF21B	--|	MCM5
+hnRNP A1	-->	APOE
+THAP1	-->	Aquaporin 1
+ATF-3	--|	FOXN3
+RelA (p65 NF-kB subunit)	-->	FAK1
+CREAM1	-->	SHRM
+DDX5	-->	Bcl-XL
+Fra-2	-->	AML1 (RUNX1)
+ZNF384	-->	Cyclin D1
+SRF	-->	PTCH1
+PUM2	--|	L1CAM
+p53	-->	CITED4
+T-bet	-->	STAT1
+NCOA1 (SRC1)	--|	Par-4
+RBB2	--|	MPC1
+eIF2C2 (Argonaute-2)	-->	EPAS1
+FOXO3A	-->	METTL14
+p53	--|	MTHFD2
+WNT10B	-->	FSTL1
+GABP alpha	-->	ACSL4
+DGCR8	-->	TIF1-beta
+Matrin-3	-->	NOL8
+ATM	-->	PI3K cat class III (Vps34)
+MeCP2	--|	NET1
+NQO1	-->	HERP
+STAT1	-->	PD-L2
+Sirtuin1	--|	RhoGAP5
+PUM1	-->	Cyclin D1
+KLF11 (TIEG2)	-->	PPAR-gamma
+PRMT5	--|	ID2
+Fra-1	-->	HB-EGF
+ZNF288	--|	SMRT
+SRF	-->	NDUFS5
+p53	-->	UBTD1
+EGLN2	--|	ARHGEF10
+UTX	-->	HTR3B
+NANOG	-->	DACT1
+HDAC5	--|	Cyclin D3
+PRNP	-->	C1qa
+Androgen receptor	-->	Syndecan-1
+NANOG	-->	Necab2
+NFKBID	-->	NF-kB1 (p105)
+PMEPA1	--|	LATS1
+RXRA	-->	PEDF-R (iPLA2-zeta)
+NFIX	--|	BBX
+JunB	-->	PAI2
+FKHR	-->	BRD2
+IRF6	-->	KLF4
+p53	--|	CRM1
+S19BP	-->	RPS19
+LATS1	--|	XIAP
+SRF	-->	SMYD1
+CtBP2	--|	ALPL
+SIAH2	--|	SPRY4
+AML1 (RUNX1)	-->	ALPL
+G9a	-->	PR (nuclear)
+IMP2	-->	COX16
+Androgen receptor	-->	BMI-1
+IBP5	-->	EGR1
+RelA (p65 NF-kB subunit)	-->	FUT8
+PTP4A2	-->	c-Kit
+TCF7L2 (TCF4)	-->	MIA
+C/EBPbeta	-->	ASPDH
+VDR	-->	APG16L1
+Sin3A	-->	EKLF1
+SMRT	--|	CDC18L (CDC6)
+hASH1	--|	NFIC
+DOCK3	-->	WASF1(WAVE1)
+mGluR5	--|	NR1
+PDCD4	--|	p53
+NCOA1 (SRC1)	-->	ABCG1
+p53	--|	ATF-4
+KDM2A	--|	C/EBPalpha
+RXRA	-->	Flotillin-2
+BMI-1	--|	p53 (mitochondrial)
+RelA (p65 NF-kB subunit)	-->	MLL1 (HRX)
+p53	-->	WDR67
+SOX6	--|	beta-MHC
+C/EBPalpha	-->	EGR1
+G-protein alpha-i3	--|	JAK2
+Beta-arrestin1	--|	STAT1
+Microcephalin	-->	BRG1
+YY1	--|	NGF
+RelA (p65 NF-kB subunit)	-->	KIAA0774
+SOX2	-->	EED
+Dystrophin	-->	FAK1
+Androgen receptor	--|	C/EBPbeta
+NRF3	-->	GLUT1
+TAPT1	--|	SMAD1
+G-protein alpha-11	-->	GEFT
+STAT1	-->	p53 (mitochondrial)
+YY1	--|	VLDLR
+SIP1 (ZFHX1B)	-->	ITGAX
+p53	-->	DDX17
+NDPK A	--|	PR (membrane)
+PRKCBP1	--|	VEGF-A
+CTCF	--|	C1qa
+IRF8	-->	CIITA
+NANOG	-->	KLF5
+IWS1	-->	PRMT5
+KLF4	-->	GM2A
+Netrin-1	-->	GABA-A receptor alpha-1 subunit
+EGR2 (Krox20)	-->	ARC
+FGF12	-->	FGFR2
+Androgen receptor	-->	MMP-2
+c-Jun	-->	Secretogranin II
+Cullin 1	-->	FBX29
+NF-kB1 (p50)	-->	TSLP
+SPOP	--|	D52
+YY1	--|	DRIM
+ATM	-->	p21
+Cyclin T1	-->	c-Fos
+IGF2BP3	-->	CDC2L5
+ROBO1	-->	p38alpha (MAPK14)
+SUMO-3	--|	MITF
+C/EBPbeta	-->	14-3-3 epsilon
+PROX1	-->	c-Jun
+GCR	--|	STAT1
+NFIC	-->	SOX2
+GRP78	--|	Caspase-7
+NANOG	-->	Versican
+CTCF	-->	TMEM196
+SOX2	--|	RPL27A
+N-CoR	--|	VEGF-C
+Mi-2 beta	-->	VEGF-A
+Esrra	-->	GRP75
+JMJD2A	-->	MEST
+PPAR-gamma	-->	MGAT1
+FBX29	--|	IRS-1
+VDR	--|	PERC
+Androgen receptor	-->	SMURF1
+Androgen receptor	-->	Brca2
+p27KIP1	--|	SOX6
+ATF-4	-->	DT3UO
+C/EBPdelta	-->	ZNF179
+SUPT6H	-->	NANOG
+Rab-21	-->	APPL1
+Rb protein	--|	SOX2
+FTO	-->	C/EBPalpha
+GABP alpha	-->	COX VIIa-2
+JMJD3	-->	CELSR1
+RelA (p65 NF-kB subunit)	-->	ACAT1
+Androgen receptor	--|	IRAP
+Beta-parvin	-->	STAT3
+SRF	-->	TRPC6
+PMCA2b	-->	IP3R1
+Sirtuin6	--|	Elk-1
+STAT5B	--|	AML1 (RUNX1)
+MEF2A	-->	PREP2
+Beta-arrestin1	--|	ARHGAP21
+hASH1	-->	P53DINP1a
+RhoA	-->	CENTG2
+MSX-2	--|	TFIIF, alpha subunit
+UBE2A	-->	UBE3A (E6-AP)
+SOX2	--|	COX IV-1
+Nucb1	-->	COX-2 (PTGS2)
+ALKBH5	--|	C22orf9
+EPAS1	-->	PDE4A
+STAT5B	-->	GAB2
+c-Rel (NF-kB subunit)	-->	BTF
+RelA (p65 NF-kB subunit)	-->	AML1 (RUNX1)
+PARN	--|	Nucleophosmin
+AF-4	-->	p18
+SUMO-3	--|	STAT5B
+ARPP- 21	-->	Cep97
+DDX5	-->	p21
+Androgen receptor	-->	ORP1
+MEF2C	-->	SMYD1
+DREAM	-->	p21
+RelA (p65 NF-kB subunit)	-->	TIMP1
+C/EBPbeta	-->	JunB
+ATF-4	-->	PSAT
+FKHR	--|	PDE7B
+RelA (p65 NF-kB subunit)	--|	RCAD
+Clathrin heavy chain	-->	APG16L1
+RXRA	-->	CAC
+SMCX	-->	XBP1
+STAT3	-->	ENP1
+CREM (activators)	-->	MSR1
+FTO	-->	PDK1
+NAF1	-->	Dyskerin (NAP57)
+hASH1	-->	ABLIM2
+EGR1	-->	NDPK A
+G-protein beta-1	--|	N-type Ca(II) channel alpha1B
+ARL4	--|	ROBO1
+BAF47	--|	STAT3
+SPOP	--|	IRF2BP2
+RelA (p65 NF-kB subunit)	-->	NRTN
+STAT3	-->	COX-2 (PTGS2)
+FAM44B	--|	PPP2R5D
+p53	-->	DUSP5
+GCR	-->	Tensin
+CREM (activators)	-->	OAZ3
+RXRA	--|	RelB (NF-kB subunit)
+p53	-->	DDX3X
+p53	-->	OTUD1
+c-Kit	-->	PLC-gamma 1
+MASK	--|	p21
+Karyopherin alpha 2	-->	EKLF1
+EGR1	-->	CTDSP2 (SCP2)
+SOX2	--|	MKP-2
+SMARCA5	-->	EGR1
+PML	--|	Cyclin D1
+Mi-2 beta	-->	Fibrillin 1
+Androgen receptor	--|	MEK6(MAP2K6)
+JMJD3	-->	EWI2
+SOX2	-->	LONRF3
+Menin	-->	Peg10
+N-CoR	--|	ENC1
+C/EBPbeta	-->	Bcl-6
+Cyclin K	-->	CDC2L5
+JunB	-->	MDM2
+CTIP2	--|	p21
+NFAT-90	-->	Cadherin 11
+N-CoR	--|	E4BP4
+YY1	--|	ASAP
+PRNP	-->	mGluR5
+KLF4	-->	TNRC4
+NCOA1 (SRC1)	-->	Bcl-XL
+MeCP2	-->	Ash1
+SOX2	-->	TET2
+eIF2C2 (Argonaute-2)	-->	EIF1AX
+SOX2	--|	AIP1 (DAB2ip)
+BMI-1	-->	TCP1-gamma
+GCR	-->	CHD7
+GCR	-->	STAT3
+C/EBPalpha	-->	RASAL2
+YY1	--|	ATF-4
+CTCF	--|	3-OST1
+NF-kB1 (p50)	-->	Sirtuin1
+VIL2 (ezrin)	-->	ABCC1
+G3P2	-->	L1CAM
+SMAD4	--|	Sirtuin1
+NPTX1	-->	BAD
+FUS	--|	p27KIP1
+E2F4	--|	PLK4 (STK18)
+PML	--|	NUR77
+TRAP150	-->	REV-ERBalpha
+ATF-4	-->	GRP75
+Oct-1	-->	PGDS
+Par-4	--|	TOP1
+hASH1	-->	RIMS3
+RecQ5	-->	MUS81
+STAT3	-->	CITED4
+PRMT5	-->	Resistin
+LDB2	--|	SLK
+Menin	--|	Neprilysin
+RBP-J kappa (CBF1)	--|	p53
+UBE2H	-->	CHIP
+ZO-1	-->	LUZP1
+DRAP1	--|	TBP
+SMAD4	-->	Fra-1
+RBP-J kappa (CBF1)	-->	PDGF-B
+p53	-->	ANKRD2
+STAT1	-->	ENP1
+STAT1	-->	BRM
+FOXO3A	-->	ZBTB1
+RXRA	-->	COX-2 (PTGS2)
+RelA (p65 NF-kB subunit)	--|	Rad50
+RXRA	-->	VEGF-A
+RelA (p65 NF-kB subunit)	-->	Resistin
+Elk-4	-->	NF45 (ILF2)
+IGF2BP3	--|	p53 (mitochondrial)
+IRS-1	--|	MDM2
+CUGBP1	--|	IGF-2 receptor
+NUR77	-->	BAF155
+RelA (p65 NF-kB subunit)	--|	FIP200
+LIN-41	--|	p21
+STAT1	-->	AIM2
+RelA (p65 NF-kB subunit)	-->	G-protein alpha-i2
+ARRDC4	-->	NEDD4L
+FOXO3A	-->	LRRK2
+RelA (p65 NF-kB subunit)	-->	UCHL1
+MED1	-->	SOX10
+TMEM174	--|	SLC34A1
+GSK3 beta	-->	KLHL1
+RXRA	-->	TNIP1
+BMI-1	--|	PR (membrane)
+FKHR	-->	IRS-2
+MAZ	-->	K-RAS
+HSF4	--|	HSF2
+OLIG1	-->	SOX10
+TCF8	-->	SNHG14
+STAT3	-->	FAT10
+VDR	--|	RelA (p65 NF-kB subunit)
+TCF8	-->	FKHR
+TSG101	-->	VPS37A
+STAT1	-->	MUL
+Sirtuin1	-->	ABCA1
+BRG1	-->	Plexin A2
+Rab-11A	-->	Insulin receptor
+TGF-beta 2	-->	TGF-beta receptor type III (betaglycan)
+FBXW11	--|	PPP1R15B
+LIG-1	--|	ErbB4
+FOXO3A	-->	RRM2B
+RelA (p65 NF-kB subunit)	--|	CLIP4
+LMO2	-->	AML1 (RUNX1)
+HIC5	--|	SMAD7
+YTHDF3	-->	eIF3S10
+TCF8	--|	NOXA
+ATF-3	--|	RNF43
+RBP-J kappa (CBF1)	-->	RUNX3
+ATF-4	-->	p27KIP1
+FBXW11	--|	GLI-2
+TTC22	-->	WTAP
+XBP1	-->	NDRG1
+SMYD3	-->	C2CD3
+Menin	-->	PPAR-gamma
+SMAD4	-->	GADD45 beta
+RelB (NF-kB subunit)	-->	ANAPC1
+C/EBP zeta	--|	ENT1
+E4BP4	--|	GADD45 beta
+Menin	-->	Androgen receptor
+DDX6	-->	Roquin
+BAF250A	--|	p53
+PRMT5	-->	eIF4E
+FOXO3A	--|	PCSK9
+C/EBPdelta	-->	C/EBP zeta
+RelA (p65 NF-kB subunit)	-->	STIM1
+PRMT5	--|	HBG1
+p53	-->	CDS1
+PR (nuclear)	-->	Cyclin D1
+Menin	-->	p18
+OGT (GlcNAc transferase)	--|	WDR32
+UBR5	--|	MUL
+BMI-1	--|	SIP1 (ZFHX1B)
+DYN-A(1-17)	-->	Kappa-type opioid receptor
+EGR1	-->	Ephrin-A1
+GADD45 alpha	-->	mGluR5
+NF-kB1 (p50)	--|	SNAPalpha
+MUC1-CT	-->	TSA-1
+Androgen receptor	-->	ID1
+RARalpha	-->	RAIG1
+hASH1	-->	ACK1
+ActRIIA	-->	SMAD2
+FBX22	--|	BACH1
+Ski	--|	SMAD7
+Ephrin-B3	-->	Ephrin-B receptor 1
+PTPR-epsilon	-->	GRB2
+GLUT1	--|	G3P2
+RRAD	--|	C/EBPdelta
+AML1 (RUNX1)	-->	beta-TrCP
+XBP1	-->	PCNA
+TCF8	--|	ABCC1
+C/EBPdelta	-->	DLK
+p53	-->	PCDHB14
+XBP1	-->	DGAT2
+SORL1	-->	APP
+A1U	--|	Connexin 43
+NF-AT5	-->	c-Jun
+JunD	-->	NT/NN
+KLF4	-->	SMAD7
+STAT5B	-->	CISH
+EGR2 (Krox20)	-->	HMDH
+DP2	--|	C/EBPalpha
+DEK	--|	p53 (mitochondrial)
+MED1	-->	Amphiregulin
+TRAF3	--|	EWS
+LHX6	--|	FOXP1
+C1orf86	-->	FANCC
+14-3-3 epsilon	--|	RGS16
+KLF12	-->	EGR1
+SOX2	-->	SIAT1
+NCOA2 (GRIP1/TIF2)	-->	XBP1
+RBP-J kappa (CBF1)	-->	METTL14
+Rb protein	--|	PCNA
+TCF7L2 (TCF4)	-->	AHNAK
+Par-4	--|	NF-kB1 (p50)
+GCR	-->	SFRS7 (9G8)
+CTCF	-->	PSMD1
+CoREST	--|	NXF
+eIF2C2 (Argonaute-2)	--|	p53
+GPS2	-->	ABCG1
+CDK7	-->	GLUT1
+RUNX3	-->	FOXO3A
+PPAR-beta(delta)	-->	PDK2
+FKHR	-->	GLGB
+SMAD4	--|	SOX1
+hASH1	-->	RAB3IP
+CENTG2	--|	AP3S2
+BRG1	-->	Myelin basic protein
+PSMB1	-->	ICRF
+RelA (p65 NF-kB subunit)	-->	ANKRD33B
+GCR	-->	EGFL5
+E3b1(ABI-1)	-->	N-WASP
+TFIIF, alpha subunit	-->	ARPC2
+USP7	-->	USP11
+Bcl-9	--|	Clathrin heavy chain
+SMAD4	-->	NP220
+TCF7L2 (TCF4)	-->	ID2
+PPP2R2A	--|	TET2
+c-Jun	-->	TGF-beta 3
+BRG1	-->	p53 (mitochondrial)
+MSK1	-->	EGR1
+SUMO-3	--|	SOX6
+STAT1	-->	BAF47
+BRG1	--|	Amphiregulin
+GCR	-->	HTR1B
+SOX10	-->	TGF-beta 2
+MAZ	-->	PPAR-gamma
+HDAC11	-->	PLP1
+SOX2	-->	Bcl-XL
+p53	-->	MEL1
+BRG1	-->	MMP-2
+Lamin A/C	--|	p21
+RelA (p65 NF-kB subunit)	--|	NELL2
+PRMT6	-->	NCOA1 (SRC1)
+Translokin	-->	Kendrin
+C/EBPbeta	-->	Reticulon 4
+USP7	-->	CBP
+NFKBID	-->	c-Rel (NF-kB subunit)
+EGR1	-->	COX Va
+RBP-J kappa (CBF1)	-->	ZHX2
+FKHR	-->	PR (nuclear)
+Androgen receptor	-->	ENH
+ATF-4	-->	SLC3A2
+C/EBPbeta	-->	MAFbx
+RBP-J kappa (CBF1)	--|	KLF4
+Ephrin-B1	-->	Ephrin-A receptor 4
+PLAG1	-->	APG12
+GCR	-->	ZHX3
+SOX2	-->	PTHrP
+PML	-->	Neurofibromin
+PKM2	--|	IP3R2
+CTCF	-->	C1ql2
+GABP alpha	-->	COX VIb-1
+SRF	--|	KCNK1
+c-Fos	-->	LIPE
+SOX6	--|	Cyclin D1
+Rb protein	-->	Caspase-7
+ARPP- 21	-->	RC3H2
+Elk-1	-->	B-TAF
+NOTCH2 (2ICD)	-->	RelA (p65 NF-kB subunit)
+Tubulin beta 3	-->	Dcc
+CBP	-->	MKP-1
+Stathmin 3	-->	Chromogranin A
+PERC	-->	Esrra
+XBP1	-->	C/EBPalpha
+Sin3A	--|	PPAR-gamma
+CALB1	-->	MDM2
+XBP1	-->	DnaJB9
+MAP1LC3A	--|	Rad50
+SCRIB	-->	Epo receptor
+C8FW (GIG2)	-->	RelA (p65 NF-kB subunit)
+FOXN3	--|	ZO-1
+ZF5	--|	TCOF1
+AIP	--|	FBXO11
+Nucleophosmin	-->	RelA (p65 NF-kB subunit)
+c-Myb	-->	c-Jun
+NCAM1	-->	PTPR-alpha
+IMP2	-->	ALDOA
+FKHR	-->	ATG13
+Androgen receptor	--|	Calcineurin A (alpha)
+ZNF282	-->	PR (membrane)
+RACK1	--|	IKK-alpha
+PIMT	-->	MED1
+MLL2	-->	Bcl-6
+ING2	-->	Sin3A
+hASH1	-->	L-Myc
+BRG1	-->	Drebrin
+SOX2	-->	IMP2
+Sin3A	--|	TIPIN
+STAT3	-->	NANOG
+BRG1	-->	PCDH17
+Sirtuin6	--|	Follistatin
+CTCF	-->	ITGB8
+Adenylate cyclase type II	-->	Adenylate cyclase type V
+MeCP2	-->	SHANK3
+NCOA1 (SRC1)	--|	Fam78b
+PROX1	-->	RelA (p65 NF-kB subunit)
+ANKRD28	-->	CDCA1
+HIC1	--|	Ephrin-A1
+WTAP	-->	MEF2C
+OFD1	-->	PIBF
+C11orf9	--|	PMEPA1
+GLI-3	-->	VMP1
+ZNF306	--|	MAD2b
+SRF	-->	NANOG
+METTL14	-->	DGCR8
+SRF	-->	Profilin I
+EGR1	-->	KLF4
+c-Jun	-->	JunB
+beta-TrCP	--|	AP-4
+C/EBPalpha	-->	ACLY
+METTL14	-->	hASH1
+ARX	-->	SMCX
+Rb protein	-->	MAP1LC3A
+KLF4	--|	NDRG1
+AML1 (RUNX1)	-->	FOXP1
+Androgen receptor	-->	SMAD1
+RelA (p65 NF-kB subunit)	-->	IRS-2
+IRF8	-->	GM3 synthase
+E2F4	--|	Securin
+C/EBPbeta	-->	SLC7A6
+SETDB2	--|	TSLC1
+STAT3	-->	EED
+ATF-3	-->	NOXA
+EGR1	-->	PLC-beta1
+p53	-->	ID3
+PER2	-->	HDAC2
+p27KIP1	--|	CalDAG-GEFIII
+SFRS3	-->	YMER
+PSD-95	-->	Semaphorin 4C
+RelA (p65 NF-kB subunit)	-->	NMNA3
+c-Fos	-->	IRS-2
+eIF2C2 (Argonaute-2)	--|	CD47
+UBC3B	-->	beta-TrCP
+hASH1	--|	Raftlin
+PLCL1	--|	GABA-A receptor beta-3 subunit
+PLCL2	--|	GABA-A receptor beta-3 subunit
+CABIN1	--|	p53
+YY1	-->	NOR1
+RelA (p65 NF-kB subunit)	-->	C15orf27
+CBP	-->	COMP
+PML	--|	FKHR
+SMAD1	-->	DLX5
+SDOS	-->	Jouberin
+NCOA1 (SRC1)	--|	ARG2
+PDE6D	-->	FBXO10
+RFWD3	-->	LRWD1
+Beta-arrestin2	-->	NEDD4L
+c-Fos	-->	NANOG
+K-RAS	-->	RGL2
+c-Jun	-->	DMTF1
+TIF1-beta	-->	ID3
+BAT2	-->	WNK1
+TD-60	-->	BACH1
+NOTCH4 (ICD4)	-->	Rab-11A
+GABP alpha	-->	SENP2
+MeCP2	--|	MEF2C
+BRG1	-->	MEF2C
+PROX1	--|	ELOVL6
+hASH1	-->	Tubulin beta 2C
+C/EBPdelta	-->	DT3UO
+GLI-2	-->	IRS-1
+Kaiso	--|	DLGAP1 (GKAP)
+E4BP4	-->	GAT1
+c-Rel (NF-kB subunit)	-->	Roquin
+TCF7L2 (TCF4)	-->	IRS-1
+PIPKI gamma	--|	ATP1A1
+VDR	-->	HSD11B1
+STAT1	-->	ARG2
+MeCP2	--|	CoREST
+PHAP1 (pp32)	-->	STAT1
+Midn	--|	EGR1
+Elk-1	-->	p21
+p21	--|	CDK14
+KLF5	-->	LIPM
+JMJD2A	-->	ZCCHC2
+SRF	-->	PARN
+SRF	--|	IPO4
+UTX	-->	BRG1
+AML1 (RUNX1)	-->	p53
+Calpain 1(mu)	-->	PDIA3
+PPP2R5A	--|	ZO-1
+NQO1	-->	p53
+NANOG	--|	TAJ(TNFRSF19)
+BAHD1	-->	HDAC2
+DOT1	-->	ABCC1
+WWP1	-->	SMAD7
+Elk-1	-->	CHMP5
+Polycystin	-->	G-protein alpha-12
+KLF4	--|	FKHR
+PR (nuclear)	-->	c-Fos
+Esrra	-->	ELOVL6
+STIM1	-->	TRPC5
+RelA (p65 NF-kB subunit)	-->	SLICK
+PLC-gamma 1	--|	TRPM7
+MEF2A	--|	FBXO44
+EKLF1	-->	c-Myb
+hASH1	-->	ID1
+VDR	--|	RARgamma
+Bcl-6	--|	GLI-2
+AMPK alpha 1 subunit	-->	p53
+SOX2	-->	PYGB
+IMP2	-->	CGI-55
+SPOP	--|	Androgen receptor
+Reticulon-2	--|	BACE1
+IGF2BP3	--|	SAP97 (DLG1)
+CHAC1	-->	PKM2
+RelA (p65 NF-kB subunit)	-->	Ephexin
+HSF2	-->	MLL1 (HRX)
+HDAC2	--|	COL6A1
+Androgen receptor	-->	ACSL3
+c-Jun	-->	JMJD6
+G9a	--|	N-cadherin
+PSMC6	--|	p53
+TCF8	-->	S100B
+Pellino 1	-->	Rad50
+14-3-3 sigma	-->	FKHR
+NCOA1 (SRC1)	--|	PHLDA1
+ATF-3	--|	Androgen receptor
+MSR1	--|	Amyloid beta 42
+RXRA	-->	ATF-3
+irlB	-->	TR-beta
+hASH1	-->	ABHD10
+SOX2	-->	ITGBL1
+Beta-arrestin1	-->	MMP-2
+E2F4	-->	p53
+FBXO30	--|	RARgamma
+p53	--|	ZNF148
+FOXO3A	-->	C/EBP zeta
+Ephrin-A1	-->	Ephrin-A receptor 1
+Zhangfei	-->	ATF-4
+PR65-alpha	-->	PP2A cat (alpha)
+c-Fos	-->	ZC3H12C
+PYGO2	-->	Cyclin D1
+TAF15	-->	TD-60
+NANOG	--|	POLD reg (p68)
+Bcl-6	--|	NOXA
+ATF-4	-->	ADAM17
+CREM (repressors)	--|	CD3 zeta
+eIF2C2 (Argonaute-2)	--|	p21
+CD151	-->	ADAM15
+NANOG	-->	RPAP1
+ZBTB8A	--|	p21
+KLF4	-->	GADD45 beta
+EGR1	-->	c-Kit
+beta-TrCP	--|	XRCC1
+DGCR8	--|	FLII
+SOX2	--|	CTDSPL
+Sec8	--|	N-cadherin
+Cyclin D1	--|	FOXO3A
+IBP5	-->	PLAT (TPA)
+BRD3	-->	p21
+Esrra	-->	N-cadherin
+Matrin-3	-->	p90RSK4(RPS6KA6)
+PCNA	--|	p53
+GCR	--|	IL-1 alpha
+MEIS2	-->	PBX1
+UBE2D2	-->	ARIH2 (TRIAD1)
+UBE2S	-->	UFD2
+SMAD7	--|	SMAD2
+NCOA1 (SRC1)	-->	APOA2
+BMI-1	--|	NOXA
+TTC3	-->	Citron
+RUVBL2	-->	PR (membrane)
+DDX5	-->	ETFA
+CTCF	-->	ID3
+Spectrin beta 4	--|	STAT3
+G-protein alpha-i1	--|	JAK2
+LXR-beta	-->	LDLR
+SHP-2	--|	TBK1
+ROR-alpha	-->	IP3R1
+Fra-2	--|	MMP-2
+Rb protein	--|	EED
+SOX2	-->	ZC3H12C
+TIF1-beta	--|	CHFR
+SOX6	-->	PPAR-gamma
+ATF-4	-->	APG16L1
+C/EBPbeta	-->	ADAM17
+E3b1(ABI-1)	-->	Profilin I
+GASC1	-->	PDK1
+RelA (p65 NF-kB subunit)	-->	BTG2
+c-Jun	-->	HSP90 beta
+CTCF	-->	CIITA
+CaMK I	--|	Synapsin II
+GRP75	--|	p53
+RXRA	-->	RRP42
+C20orf3	--|	APP
+JMJD3	-->	hASH1
+Esrra	-->	COX VIII-2
+Esrra	-->	COX VIIa-2
+RhoB	-->	mDIA2(DIAPH3)
+TCF8	-->	BRG1
+RNF217	--|	Ferroportin 1
+CINP	--|	KLF5
+ATAD2	-->	CDC18L (CDC6)
+FOXK1	--|	CRY2
+BMI-1	-->	RelA (p65 NF-kB subunit)
+Mcl-1	-->	BOK
+c-Jun	-->	MKP-1
+STAT3	-->	LDLR
+PPAR-gamma	-->	VLDLR
+NF-AT5	-->	HSPA1B
+VASP	-->	TCF7L2 (TCF4)
+MEF2C	-->	CRTL1
+Myosin Vb	-->	CFTR
+Cyclin F	-->	VCP
+KIAA1447	--|	p21
+ROR-alpha	--|	Esrrg
+Esrra	-->	PR (nuclear)
+Dynorphin A(1-13)	-->	Kappa-type opioid receptor
+KLF4	--|	NeuN
+CBP	-->	RGS4
+AML1 (RUNX1)	--|	RBP-J kappa (CBF1)
+SRF	-->	MRRF
+STAT3	-->	SLC39A10
+JunB	-->	COX-2 (PTGS2)
+NURR1	--|	p53
+G9a	-->	GADD45 alpha
+RelA (p65 NF-kB subunit)	--|	PERC
+Bcl-6	--|	p53
+LKB1	-->	p21
+SETDB1	--|	C/EBPalpha
+TR4	-->	APOE
+beta-TrCP	--|	PPP1R15B
+CIZ1	-->	TCF7L2 (TCF4)
+Nucleophosmin	--|	Rb protein
+RXRA	-->	CCDC80
+DOT1	-->	LSM14A
+FKHR	-->	RACK1
+Bcl-6	-->	TET2
+Plectin 1	-->	BPAG1
+RelA (p65 NF-kB subunit)	-->	ZNF804A
+JMJD1B	-->	MLL1 (HRX)
+STAT3	-->	PGK1
+p53	-->	FUCO
+CaMK II alpha	-->	mGluR5
+MEF2C	-->	Ikaros
+APP	--|	GRP78
+BRG1	-->	Bcl-XL
+PIP5K1A	-->	p53
+RelA (p65 NF-kB subunit)	-->	DCAMKL1
+KLF4	-->	CD166
+SMCX	--|	METTL14
+PIPS	-->	IGF-1 receptor
+MLL1 (HRX)	-->	PR (membrane)
+ZNF569	--|	p53
+FKHR	-->	PI3K cat class III (Vps34)
+BAF250A	-->	BICC1
+Inhibin alpha subunit	-->	ActRIIA
+BRG1	-->	EGR1
+YY1	--|	Rb protein
+SOX2	-->	GUAC
+STAT1	--|	Sortilin
+YY1	--|	SOD1
+SOX2	-->	TRM61
+YY1	-->	HCD2
+SHQ1	-->	GRP78
+CDK5RAP1	--|	CDK5R1 (p35)
+hASH1	-->	SHIP2
+R-spondin 1	-->	LGR4
+JunD	-->	Tubulin beta 4
+Microcephalin	-->	Brca2
+CtBP2	--|	MMP-2
+PPAR-gamma	-->	ECHP
+Cyclin D1	-->	HDAC5
+JMJD2A	-->	HECTD2
+c-Rel (NF-kB subunit)	--|	NOXA
+p53	-->	DIPA
+ATF-3	--|	MEF2C
+DDX6	-->	eIF2C2 (Argonaute-2)
+SOX2	-->	TMEM46
+PIRH2	-->	GRP78
+NR2F1	-->	RARalpha
+PROX1	-->	REV-ERBalpha
+p53	-->	XBP1
+PTCH1	-->	WWP1
+STAT3	-->	PML
+TR4	--|	GCR
+BASP1	--|	Amphiregulin
+SOX2	-->	SLC39A10
+TUFM	-->	APG16L1
+KIF3A	-->	NUMA1
+SNHG14	-->	N-cadherin
+ETO	--|	Neurofibromin
+FBXW7	--|	Rad50
+Ikaros	-->	LMO2
+TR-beta	--|	VEGF-C
+C/EBPbeta	-->	AdipoR2
+STAG1	-->	PCDH17
+HDAC2	--|	EGR1
+EKLF1	-->	TfR1
+EGR2 (Krox20)	-->	NDRG1
+SUGT1	-->	HSP90 beta
+MUS81	--|	MCM2
+NANOG	--|	RPIA
+hASH1	--|	Parathymosin
+c-Abl	--|	Bim
+RXRA	-->	OSTbeta
+RRP1B (KIAA0179)	--|	SPA1
+ATF-4	-->	MAP1LC3B
+FBXO24	--|	PRMT6
+KLF7	-->	p53
+Mi-2 beta	--|	c-Jun
+LGI1	--|	KCNAB1
+GCR	-->	GCL cat
+FAK1	-->	AML1 (RUNX1)
+SMARCAL1	-->	DGCR8
+RBB2	--|	p21
+TR-beta	-->	Bcl-6
+p27KIP1	--|	Casein kinase II, beta chain (Phosvitin)
+MUL	--|	p53
+STAT3	-->	PARN
+SUMO-3	--|	DDX5
+VIL2 (ezrin)	-->	Dystroglycan
+Esrra	-->	CYC1
+PROX1	--|	HADHB
+SMRT	--|	BTG2
+S100A3	-->	RARalpha
+SBP2	-->	TXNRD2
+SMYD3	-->	PCNA
+PI3K reg class IA (p85-alpha)	--|	PI3K reg class IA (p85-beta)
+ATF-3	-->	Zbtb46
+PPAR-beta(delta)	-->	ACSL4
+ATAD5	-->	DDX9
+HERC4	-->	UBC
+CIZ1	--|	p21
+RelA (p65 NF-kB subunit)	--|	KIAA1267
+PKM2	-->	CD47
+TCF7L2 (TCF4)	-->	NOTCH2 receptor
+Bcl-6	--|	XBP1
+LRP16	-->	Androgen receptor
+SSBP1	-->	p53
+PBX1	-->	Ephrin-A receptor 7
+UBR5	--|	XRCC3
+SIX3	--|	WNT8B
+SIKE	--|	IKK-epsilon
+Zyxin	-->	p53
+PPAR-beta(delta)	--|	PPAR-gamma
+AML1 (RUNX1)	-->	Mcl-1
+LZTS1	-->	CDC25C
+FAK1	-->	NCK2
+KLF4	--|	NOXA
+D52	-->	Androgen receptor
+c-Fos	-->	SRX1
+FKHR	-->	CTDSP2 (SCP2)
+SOX2	--|	DALRD3
+KDM2A	--|	MMP-15
+DOT1	-->	IL-1 alpha
+FKHR	--|	PPAR-gamma
+Androgen receptor	-->	D52
+PML	--|	ID2
+VDR	--|	HDAC11
+KLF4	-->	ZNF179
+EPAS1	-->	JMJD1A
+MITF	--|	TGF-alpha
+USP11	-->	CENP-A
+FOXN3	-->	beta-TrCP
+BAF155	-->	GCR
+EGR1	-->	GCL cat
+DRIP130	-->	EGR1
+EPAS1	-->	CYP51A1
+Lamin A/C	--|	BMI-1
+RelA (p65 NF-kB subunit)	-->	DOC2A
+S1P	-->	DMP4
+FALZ	-->	MMP-2
+JAZ	-->	p53
+RelA (p65 NF-kB subunit)	-->	SHC3
+Neogenin	-->	BMPR1A
+FOXP1	--|	p53
+VPS37A	-->	UBAP1
+Esrra	-->	Carbonic anhydrase II
+TIF1-beta	-->	PDGF-C
+FBXW7	--|	p53
+TCF8	--|	PARD3
+C6orf57	-->	SDHA
+HSP40	--|	Huntingtin
+GCR	--|	SMAD2
+CEBPG	--|	APOA2
+PKM2	--|	ATM
+PIMT	--|	STK4
+PROX1	-->	p27KIP1
+SUV39H2	--|	Sirtuin1
+p53	--|	PI3K cat class IA (p110-alpha)
+FOXO3A	-->	HBP1
+GCR	-->	RXRA
+C11orf9	-->	Dysferlin
+GCR	--|	Syndecan-1
+14-3-3 epsilon	-->	SLC25A28
+ASXL3	--|	TR-beta
+SET7	-->	BRG1
+FOXP1	-->	ALDOA
+KIF1C	--|	MYH9
+AML1 (RUNX1)	-->	TGF-beta 1
+ZNF644	--|	DIP2C
+RelA (p65 NF-kB subunit)	--|	SMAD4
+STAT3	-->	B3GT5
+RelA (p65 NF-kB subunit)	-->	FKHR
+IKK-gamma	-->	c-Jun
+PERC	-->	TR4
+G3P2	--|	RHEB2
+GSK3 beta	--|	RFX1
+NUR77	-->	Androgen receptor
+GCR	-->	SOX2
+PR (nuclear)	-->	MUC1
+RXRA	--|	Bim
+C1orf77	--|	PPCKM
+SRF	-->	beta-MHC
+CBX4	--|	YY1
+RXRA	-->	SULT2B1
+RBP-J kappa (CBF1)	-->	ESM-1
+RelA (p65 NF-kB subunit)	-->	Fra-1
+C/EBPalpha	-->	STAR
+C/EBPalpha	-->	CBP
+BMI-1	--|	Ephrin-A receptor 7
+SOX2	-->	RhoE
+NANOG	-->	c-Myb
+TNIP1	--|	NF-kB1 (p105)
+ATF-3	-->	TIMP1
+CBP	-->	Cyclin E2
+MITF	-->	FANCC
+PHF2	-->	p53
+TCF7L2 (TCF4)	-->	ZHX2
+RelA (p65 NF-kB subunit)	-->	TM4SF9
+XBP1	-->	ERdj5
+Fra-1	-->	Neuropilin-1
+RXRA	-->	PUS3
+NANOG	--|	RelA (p65 NF-kB subunit)
+MITF	-->	Gprin1
+Snapin	-->	TRPC6
+PIAS2	-->	p21
+Cereblon	--|	AMPK alpha 1 subunit
+TAF12	-->	GADD45 alpha
+YTHDF1	-->	WTAP
+SRF	--|	BICC1
+C/EBPalpha	-->	ORC6L
+Karyopherin alpha 2	-->	NUP88
+Dynamin-2	-->	ErbB4
+FUS	-->	eIF2C2 (Argonaute-2)
+GCR	-->	DPP4
+MITF	-->	RBP-J kappa (CBF1)
+RXRA	--|	PBX3
+p27KIP1	--|	Citron
+ARP2	-->	CORO1C
+VDR	-->	Sirtuin6
+BIG1	-->	GABA-A receptor beta-3 subunit
+C/EBPbeta	-->	LSM14A
+Cyclin D1	-->	p21
+YY1	-->	eIF4G2
+Rb protein	--|	YY1
+HDAC2	--|	PPP2R1B
+Rb protein	--|	E2F5
+Rad52	-->	XPF
+NANOG	-->	Beta-parvin
+GRP75	-->	Rb protein
+mGluR5	-->	Homer 1
+STAT3	-->	APG3
+RelA (p65 NF-kB subunit)	-->	JunD
+RelA (p65 NF-kB subunit)	-->	Cytochrome c
+CTCF	-->	MAWBP
+SORCS2	-->	SLC1A1/EAAT3
+FKHR	-->	Rab-4A
+MDS028	--|	NEDD4L
+NANOG	--|	CBP
+MAF1	--|	POLR3A
+KLF5	-->	Zac1
+TCF7L2 (TCF4)	-->	TGF-alpha
+RASSF2	-->	STK4
+NR2F1	-->	KBP (Serpina3c)
+TCF7L2 (TCF4)	-->	SETDB1
+G9a	--|	VCAM1
+UBE2J2	-->	HERC4
+Wee1	--|	FBXW11
+BRG1	-->	GCL cat
+FKHR	-->	GPT2
+MOCS2(small)	-->	Drebrin
+WDR37	-->	PACS-1
+PPAR-gamma	-->	TNIP1
+TRPS1	--|	STAT3
+CTCF	-->	HMP19
+p53	-->	LRP1
+C/EBPbeta	-->	Keratin 1
+JMJD3	-->	PCNA
+PI3K reg class IA (p85-alpha)	--|	GAB2
+AKAP6	-->	MEF2A
+SOX2	-->	TRF1
+NCOA1 (SRC1)	--|	AP180
+TCF8	-->	TGF-beta 3
+JMJD1A	-->	Androgen receptor
+SOX2	-->	SIP1 (ZFHX1B)
+ALD9A1	--|	IQGAP2
+Cullin 4B	--|	p21
+Beta-arrestin2	--|	Androgen receptor
+UTX	-->	SOX1
+G3P2	-->	STK4
+LMO2	--|	TCF8
+MLL1 (HRX)	-->	PR (nuclear)
+FBXO7	--|	FOXO4
+MFHAS1	-->	PPP2R2A
+DHE3	-->	RelA (p65 NF-kB subunit)
+ITF2	-->	SOX6
+FOXP1	--|	AIM2
+HIPK2	--|	Calpain 1(mu)
+SMAD4	--|	MEL1
+ATF-3	--|	ALPL
+BAF200	-->	BRG1
+C/EBPalpha	-->	Neurofibromin
+ATF-3	--|	C/EBPalpha
+FGFR2	-->	PR (nuclear)
+hASH1	--|	Pellino 2
+YY1	-->	RPL11
+PPAR-gamma	-->	DGAT2
+LYAR	--|	HBG1
+GABP alpha	-->	ATAD2
+FKHR	--|	TIEG1
+MEF2C	-->	VEGF-A
+NAB2	--|	Mi-2 beta
+SMYD3	-->	ENIGMA
+NURR1	-->	CoREST
+NF-AT5	-->	CACNA1C
+Fra-2	-->	Transgelin
+RACK1	-->	ACTB
+Beta-arrestin2	--|	TAB1
+Sin3A	--|	COX-2 (PTGS2)
+TFII-I	--|	AKAP12
+TCF7L2 (TCF4)	-->	SMAD1
+FOXO3A	-->	ACSA
+EGR1	-->	Proglucagon
+PKA-cat alpha	-->	NF-AT5
+FKHR	--|	CDK5
+RD protein	-->	MKP-1
+XBP1	-->	ARMET
+Rab11-FIP4	-->	IGF-1 receptor
+ETV6(TEL1)	-->	AML1 (RUNX1)
+beta-TrCP	--|	GLI-2
+HDAC2	--|	FosB
+AF-4	-->	Raptor
+STAT3	-->	ABCA1
+SRF	-->	CORO1A(CLABP, TACO)
+KEAP1	--|	SETX
+Androgen receptor	-->	STAT5B
+PPP2R2C	-->	QIK
+CTCF	-->	Synapsin II
+hASH1	--|	ACADVL
+p53	-->	RelA (p65 NF-kB subunit)
+RBP-J kappa (CBF1)	--|	KLF7
+RENT2	--|	GADD45 gamma
+NCOA2 (GRIP1/TIF2)	-->	RARalpha
+PR65-alpha	-->	PPP2R3A
+AF-17	-->	REDD1
+C/EBPbeta	-->	CD200 (OX-2)
+RelA (p65 NF-kB subunit)	-->	GLAST1/EAAT1
+RUNX3	--|	TGF-beta 1
+ZNF639	-->	ZBTB2
+SMRT	--|	PPCKM
+GRB2	-->	LAT
+SRF	-->	TGF-beta 1
+ISG20L1	-->	DAPK1
+ASF1A	-->	RBP-J kappa (CBF1)
+FUS	-->	TIMP2
+AML1 (RUNX1)	--|	IKK-alpha
+BAF57	-->	Bcl-XL
+KLF4	-->	MEGF10
+MEL1	--|	Resistin
+EGR2 (Krox20)	-->	TGF-beta 3
+MITF	-->	FANCA
+TCF7L2 (TCF4)	-->	Tensin 3
+PIPKI gamma	--|	PLK4 (STK18)
+NF-kB1 (p50)	-->	STAT3
+CDK5R1 (p35)	--|	Delta-catenin
+HDAC2	--|	Syngr3
+c-Fos	-->	APP
+FOXO3A	--|	VEGF-A
+TFII-I	--|	TGF-beta 1
+p53	-->	FAM13C1
+KDM2B	-->	Ep-CAM
+PPAR-gamma	-->	C/EBPalpha
+GCN5	-->	GADD45 beta
+DNAJB2	-->	HSPA4
+PPAR-gamma	-->	SET8
+SERTAD1	--|	Cullin 1
+BRD2	-->	BAF250B
+Sirtuin1	--|	TET3
+VCP	--|	JMJD1B
+DDX17	-->	p53
+RhoGAP5	-->	RhoE
+JMJD3	-->	APG3
+EPAS1	-->	NEU3
+UNC84B	-->	CYLD
+SRF	-->	Zyxin
+Rad21	-->	Cyclin D1
+Ski	--|	L-Myc
+NCOA1 (SRC1)	--|	c-Myb
+SOX2	-->	CHP1
+FKHR	--|	JAK2
+TRAF3	-->	c-IAP1
+HB-EGF	--|	Bcl-6
+RXRA	-->	cytochrome P-450 reductase
+HDAC2	--|	p53 (mitochondrial)
+TCF7L2 (TCF4)	-->	Annexin III
+RelA (p65 NF-kB subunit)	-->	Cyclin T1
+PI3K reg class IA (p85-beta)	-->	XBP1
+c-Fos	-->	VPS13C
+NFKBID	-->	NF-kB1 (p50)
+ATF-3	-->	NGF
+BACH1	-->	PDK2
+STAT3	-->	BACE1
+BRWD2	-->	GLI-3
+Rad21	-->	KLF4
+JARID2	--|	MLC1F
+PERC	-->	MEL1
+DBP	-->	PPAR-gamma
+FOXP1	--|	AHNAK
+ATP6AP2	-->	PDH beta
+MITF	-->	ID2
+Cullin 4B	--|	p53
+c-Jun	-->	RNF43
+STAT3	-->	TBP
+K-RAS	-->	SCRIB
+p53	-->	Troponin C, cardiac
+UBC	--|	AMPK alpha 1 subunit
+FOXP1	--|	TTYH2
+Esrrg	-->	Ep-CAM
+YY1	--|	NOSTRIN
+BAF250A	-->	WNT4
+JMJD2A	-->	Fra-1
+RelA (p65 NF-kB subunit)	-->	MITF
+beta-TrCP	--|	REDD1
+N-CoR	--|	IL-1 alpha
+SRF	-->	PKD1-like
+BACH1	--|	AFG3L1
+BAF250A	-->	Rad21
+FUS	-->	SMURF1
+p53	-->	P53CSV
+Reticulon 4	-->	Proglucagon
+Kaiso	-->	ID2
+KLF6	-->	RelA (p65 NF-kB subunit)
+Insulin receptor	--|	IGF1 receptor beta
+JMJD2A	-->	PAF1
+ACSA	-->	PPAR-gamma
+NUP98	-->	Securin
+TCERG1 (CA150)	--|	PPCKM
+FUS	-->	GLI-2
+SOX2	-->	JAK2
+Androgen receptor	--|	ACSA
+SON	--|	Menin
+ALY	-->	LSM11
+CUGBP1	-->	PARN
+NANOG	-->	KIAA1447
+Elk-1	-->	PMEPA1
+AML1 (RUNX1)	--|	PPAR-gamma
+CTCF	-->	nAChR alpha-7
+ATF-4	-->	MAP1LC3A
+Nucleophosmin	-->	Androgen receptor
+PERC	-->	TR-beta
+NCOA2 (GRIP1/TIF2)	-->	PPAR-gamma
+JunB	--|	TGF-beta 2
+Thioredoxin	-->	BACH1
+USP7	--|	PPP2R2A
+USP7	-->	P53DINP1a
+RUNX3	-->	CYP51A1
+RelA (p65 NF-kB subunit)	-->	RUNX3
+TR-beta	--|	APP
+EGR2 (Krox20)	-->	Cytohesin3
+CtBP2	-->	Ikaros
+FOXN3	-->	Sin3A
+SMAD4	-->	MAFbx
+RING1	--|	p53
+CBX4	-->	GCN5
+HSF2	-->	TCP1-eta
+ARX	-->	MEF2C
+RXRA	--|	GCC1
+BRG1	-->	CYLD
+NFAT-90	--|	NF-kB1 (p105)
+KLF4	-->	SOX21
+CEBPG	-->	HERP
+JMJD3	-->	MEF2C
+ATF-3	--|	IRS-2
+HEY1	--|	MDM2
+NRF3	-->	MITF
+SRF	-->	Impact
+FBXW7	--|	STAT2
+PER2	--|	Sirtuin1
+JunB	-->	SMAD4
+c-Myb	-->	GCR
+C11orf9	--|	UBE2H
+EGR1	-->	ARC
+NF-AT5	--|	PPAR-gamma
+Tubulin beta 2B	-->	KCNQ1
+hASH1	-->	KLF13
+hASH1	--|	LDLR
+JMJD1A	-->	MLL1 (HRX)
+MYH10	--|	PBX1
+IRF8	-->	IDO1
+SOX2	-->	MDM2
+SOX2	-->	XRCC2
+SLITRK5	-->	Rab11-FIP3
+SOX2	-->	PER2
+FOXO3A	--|	ATP8A1
+Sin3A	--|	NEFH
+KLF5	-->	TD-60
+c-Cbl	-->	PI3K reg class IA (p85-alpha)
+EGR2 (Krox20)	-->	p21
+Rb protein	--|	C/EBPdelta
+CREM (activators)	-->	Brca2
+GCR	-->	Synaptotagmin II
+SDS3	-->	FOXK1
+MEL1	-->	HCDH
+M33	--|	SIAH2
+C/EBPalpha	-->	CTDSPL
+USP1	-->	Karyopherin alpha 2
+NKRF	--|	NF-kB1 (p50)
+DDX3X	--|	KLF4
+NANOG	-->	TET2
+C/EBPalpha	-->	ACAT1
+IMP2	-->	TCF8
+IGF2BP3	-->	CaMK I
+p53	-->	SLC5A5
+AML1 (RUNX1)	-->	NOR1
+KLF4	-->	GluR3
+PR (nuclear)	-->	VEGF-A
+NANOG	-->	IMP2
+CTCF	-->	SLCO5A1
+CACNB3	-->	CACNA1C
+T-bet	-->	IL18RAP
+RelA (p65 NF-kB subunit)	-->	SPAR (SIPA1L1)
+HEY1	--|	Plexin D1
+BRG1	--|	Transgelin
+NFIX	--|	HEY1
+hASH1	--|	Shootin1 (KIAA1598)
+JMJD3	-->	c-Kit
+AML1 (RUNX1)	-->	NURR1
+AFG3L2	--|	SLC25A39
+FOXO3A	-->	KEAP1
+CHD7	--|	MEF2B
+EPAS1	-->	TGF-alpha
+Amphiregulin	-->	Karyopherin beta 1
+c-Jun	-->	C/EBPdelta
+ZNF804A	-->	COMT
+TRPS1	--|	TGF-beta 2
+KLF5	-->	CD200 (OX-2)
+CUGBP1	--|	LSm7
+GCR	-->	STAR
+NANOG	-->	PDGF-B
+RBP-J kappa (CBF1)	-->	AML1 (RUNX1)
+Rb protein	--|	MCM7
+FOXP1	--|	CORO6
+CD151	-->	VCAM1
+SRF	-->	HSPA1B
+UBE2A	-->	UBR3
+AUTS2	-->	CTDSP2 (SCP2)
+TCF8	-->	PRMT5
+UBE3A (E6-AP)	--|	GCR
+G9a	--|	ABCA1
+NCOA6 (TRBP)	-->	PBEF
+C1orf86	-->	FANCA
+EKLF1	--|	RGC32
+TRAP150	-->	REV-ERB-BETA
+RelA (p65 NF-kB subunit)	-->	CD83
+TCF7L2 (TCF4)	-->	APCL
+RARgamma	-->	Cyclin D1
+KLF4	--|	MLLT11
+NUR77	-->	p21
+Androgen receptor	--|	SNAI3
+MJD (ataxin-3)	-->	FOXO4
+Androgen receptor	--|	STAT1
+GCR	--|	TSLP
+MAD3	-->	TMEFF2
+hnRNP A1	--|	XIAP
+PDGF-R-alpha	-->	NCK1
+MeCP2	--|	HDAC11
+NF-kB1 (p50)	-->	CD83
+EWS	-->	CENP-A
+Fra-2	--|	NUR77
+C/EBPbeta	-->	FAM3A
+RelB (NF-kB subunit)	--|	DBP
+Cereblon	--|	p53
+Synaptopodin	-->	NCK1
+FBXO7	-->	NF-kB1 (p105)
+ZNF306	--|	YKT6
+NOC2L	-->	G-protein alpha-i3
+STAT3	-->	Girdin
+ID2	--|	Elk-1
+EGR3	-->	Sirtuin1
+Sestrin 2	--|	ATF-4
+YY1	-->	TSSC3
+HDAC2	--|	NEDD4L
+p53	-->	Sin3A
+PERC	-->	CBP
+ARPP- 21	-->	APPL1
+DDX17	-->	NF-AT5
+FLJ30707	-->	IMP2
+EED	--|	MMP-2
+Galectin-1	-->	Neuropilin-1
+CTCF	-->	C1orf161
+Synaptotagmin I	-->	S100A13
+ATF-3	--|	p53 (mitochondrial)
+CHD8	--|	p21
+GCR	-->	AK2
+STAT3	-->	FOXO3A
+Trp53inp2	-->	GPT2
+cAMP-GEFI	-->	RanBP2
+RUNX3	--|	HMDH
+Smac/Diablo	--|	Birc6
+CTCF	--|	Nek2A
+BZW1	-->	EIF2A
+Cyclin D1	--|	ID3
+YY1	--|	QSCN6L1
+ATF-3	-->	Bcl-XL
+FKHR	--|	UBE3A (E6-AP)
+TCF7L2 (TCF4)	-->	HDAC2
+MLL1 (HRX)	-->	MSK1
+RXRA	--|	TIMP2
+CAMK2N2	--|	CaMK II alpha
+ATF-3	-->	EGR1
+GCR	-->	MKP-1
+RBP-J kappa (CBF1)	-->	MMP-2
+ARRDC3	-->	WWP2
+FKHR	-->	GADD45 alpha
+TCF8	-->	PDK3
+TBKBP1(SINTBAD)	-->	IKK-epsilon
+Sirtuin1	--|	Resistin
+IMP2	-->	IGF-1 receptor
+AF-10	-->	DOT1
+CTCF	-->	Myelin basic protein
+TNIP1	--|	RARalpha
+USP11	-->	SMYD5
+C/EBPbeta	--|	ATF-4
+UBE2A	-->	p53
+NF-AT5	-->	Pellino 1
+AML1 (RUNX1)	-->	TGF-beta 2
+c-Myb	--|	CPEB4
+ETO	-->	Bcl-6
+SLC3A2	-->	GLUT1
+YY1	--|	PRKCBP1
+Nucleophosmin	-->	hnRNP A1
+c-Fos	-->	C/EBPalpha
+Ikaros	-->	LEC1
+YY1	-->	BCCIP
+UBC	--|	GSK3 beta
+RBBP5	-->	GRP78
+SPHK2	--|	HDAC2
+CUGBP1	--|	Gelsolin
+YTHDF1	-->	DDX17
+GCR	--|	NXF
+GABP alpha	-->	PA200
+NCS-1	-->	IP3R1
+MeCP2	-->	BAF57
+CTCF	--|	PI3K reg class IB (p101)
+Sestrin 3	--|	SMAD7
+TRPS1	--|	SIP1 (ZFHX1B)
+JAK2	-->	ROCK2
+PARD6A	-->	NAG14
+Androgen receptor	-->	DTL (hCdt2)
+Androgen receptor	-->	BAD
+RING1	--|	HOXA2
+STAT1	-->	PERC
+Sirtuin6	--|	H-FABP
+eIF4G2	-->	Mi-2 alpha
+PEG3	--|	MKP-1
+YTHDF1	-->	FOXO3A
+p53	-->	FKHR
+PROX1	--|	Neuropilin-1
+UBE2D2	-->	WWP2
+STAT3	-->	Nucleophosmin
+Beta-fodrin	-->	Ankyrin-B
+CD163	-->	Casein kinase II, beta chain (Phosvitin)
+Alpha crystallin A	--|	CFTR
+SMAD4	-->	MDM2
+SOX2	-->	B3GT3
+IMP2	-->	RNF43
+RXRA	-->	DPP4
+ATF-3	-->	DSCAM
+NANOG	-->	FLJ22318
+NANOG	-->	PDGF-R-alpha
+YY1	-->	BRG1
+Glis2	-->	STAT3
+PHF1	-->	Cullin 4B
+UBE2B	-->	STARING
+EPAS1	--|	YTHDF2
+JMJD1A	-->	SAHH
+NUR77	-->	VEGF-A
+TCF7L2 (TCF4)	-->	SLC1A2/EAAT2
+c-Cbl	-->	IFT20
+RelA (p65 NF-kB subunit)	-->	SLC3A2
+GCN5	-->	IFNA1
+SOX2	-->	SLC39A8
+CTCF	-->	GSTM5
+TET3	-->	TGF-beta 1
+hASH1	-->	HYEP
+GCR	-->	STK4
+PREX1	-->	Rictor
+SMAD2	-->	VEGF-C
+PPAR-beta(delta)	-->	APOA2
+STAT1	-->	TGF-beta 1
+STAT3	-->	ABCG1
+C/EBP zeta	-->	NBR1
+HDAC2	-->	Fra-1
+GCR	-->	IRAKM
+LRSAM1	--|	Ferroportin 1
+p53	-->	IRF2BP2
+Nucleophosmin	-->	PES1
+TCF7L2 (TCF4)	-->	ARMCX3
+Itch	-->	UBC
+BNaC2 (ASIC1a)	-->	NSF
+STAT1	-->	CD200 (OX-2)
+VDR	-->	Clmn
+Par-4	-->	GRP78
+KDM2B	-->	NQO1
+VDR	--|	NF-kB1 (p105)
+E4F1	-->	Rad52
+UBE2E2	-->	WWP2
+Sirtuin6	--|	TGF-beta 1
+Glis2	--|	WNT4
+FGFR2	-->	G-protein alpha-i3
+Menin	-->	CDK5R1 (p35)
+Neurabin-1	--|	PP1-cat gamma
+RARgamma	-->	NOTCH4 receptor
+EGR3	-->	Reelin
+CTCF	-->	TGF-beta 1
+XBP1	-->	UFM1
+14-3-3 epsilon	--|	N-type Ca(II) channel alpha1B
+GCR	--|	MSK1
+C/EBPbeta	-->	Bim
+FKHR	--|	Carboxypeptidase H
+TRAF3	-->	TR4
+TCF7L2 (TCF4)	-->	CFTR
+RelA (p65 NF-kB subunit)	-->	PGM2L1
+HIC1	--|	VLDLR
+EPAS1	-->	DDT
+CREM (activators)	-->	ETV3
+KLF6	-->	Keratin 12
+SMAD4	--|	TSLC1
+c-Myb	--|	KLF6
+RelA (p65 NF-kB subunit)	-->	MTMR7
+ROR-beta	-->	HBP1
+p53	--|	OTC
+PPAR-beta(delta)	-->	Sirtuin1
+SMARCA5	-->	DDX5
+CCKBR	-->	SHP-2
+Cyclin D1	--|	RUNX3
+Androgen receptor	--|	EGR1
+FUS	--|	POLR3A
+RhoA	-->	PKC-epsilon
+c-Fos	-->	STAT3
+TCF7L2 (TCF4)	-->	PTCH1
+FosB	-->	Fra-1
+RelA (p65 NF-kB subunit)	-->	N-cadherin
+TNRC6A	--|	GluR1
+SOX2	-->	BIKe
+Sortilin	-->	TrkB
+GCR	--|	NAV3
+hASH1	-->	Carboxypeptidase H
+KLF4	--|	ARPC5
+PPAR-beta(delta)	-->	ABCA1
+TSC-22	--|	SMAD7
+ACTB	-->	NCOA1 (SRC1)
+PP2A cat (alpha)	-->	SMAD2
+GPS2	-->	EKLF1
+E4F1	-->	NDUFS5
+E4BP4	--|	Bcl-G
+N-CoR	--|	PPAR-gamma
+RXRA	-->	HYEP
+CAS-L	--|	SMAD7
+Inversin	--|	CAS-L
+JMJD3	-->	Sirtuin1
+HOXA2	-->	MEIS2
+FosB	--|	c-Fos
+EGR1	-->	F263
+ATF-4	-->	Prickle-1
+14-3-3 epsilon	--|	ARHGEF2
+NUMA1	-->	LGN
+RAD9A	-->	NDRG1
+MafF	-->	ATF-3
+STAT1	-->	S1P1 receptor
+MLL2	-->	TRAF3
+Ikaros	--|	p53 (mitochondrial)
+FOXK1	-->	Sin3A
+p53	-->	CYP51A1
+G9a	--|	PARD3
+14-3-3 zeta/delta	-->	PI3K reg class IA (p85-alpha)
+Oct-1	-->	GADD45 gamma
+STAT3	-->	SENP2
+Neogenin	-->	DAPK1
+BOAT	--|	RBP-J kappa (CBF1)
+hASH1	-->	DARPP-32
+Pyk2(FAK2)	--|	RhoA
+KLF5	-->	TCF7L2 (TCF4)
+KEAP1	-->	NFE2L1
+Ifi202a	-->	C/EBPalpha
+CDK7	-->	GRP78
+SMAD1	--|	JMJD3
+EPAS1	-->	SOX2
+RD protein	-->	c-Fos
+SKAP55	-->	RASSF5
+TR-beta	-->	cytochrome P-450 reductase
+14-3-3 zeta/delta	--|	NOTCH4 receptor
+RPL22	--|	p53
+WWP2	-->	WWP1
+FKHR	-->	Rictor
+SOX11	-->	Spastin
+NRIP	--|	CtBP2
+BAF155	-->	SOX2
+CBP	-->	POLD reg (p50)
+ODF2	-->	C14orf61
+MEF2A	-->	Phox1 (PRRX1)
+SETDB2	-->	INSIG2
+RPS27	--|	MDM2
+CTIP2	-->	AML1 (RUNX1)
+Lamin A/C	-->	ING1
+MOZ	-->	PI3K cat class IA (p110-alpha)
+JARID2	--|	CIITA
+SPOP	--|	Reticulon 4
+DHX33	--|	BAD
+YY1	--|	LRRN3
+GAS41	-->	GCL cat
+VDR	-->	RXRA
+YY1	--|	PPAR-beta(delta)
+RBP-J kappa (CBF1)	-->	TGF-beta 2
+ORC5L	-->	GCN5
+PHOGRIN	-->	Insulin receptor
+RING1	--|	p21
+SOX2	--|	RPB5
+SOX2	-->	IBTK
+Mi-2 beta	-->	POLD reg (p50)
+RALGAPB	-->	AS250
+Cyclin D3	--|	Androgen receptor
+C10orf46	--|	PPAR-gamma
+MeCP2	--|	Zac1
+UBE2S	-->	WWP2
+XPF	--|	Rad52
+RBB2	--|	ARHGEF10
+IRF2BP2	--|	ATF-3
+SRF	--|	Cadherin 11
+HSF2	-->	CDK5R1 (p35)
+Esrra	--|	HEY1
+RXRA	-->	SMPD3
+NDUFB2	--|	IMP2
+JMJD6	-->	SIAH2
+NCOA1 (SRC1)	--|	DEK
+E4BP4	--|	Amphiregulin
+Oct-1	-->	FGFR2
+RXRA	-->	C/EBPalpha
+EPAS1	-->	PTHrP
+AP-4	-->	MSK1
+Rb protein	-->	MITF
+beta-TrCP	--|	RASSF3
+RPL11	-->	p21
+En2	--|	BPAG1
+GCR	-->	E4BP4
+Sirtuin1	--|	PPP4C
+UTY	-->	FNBP1
+MAZR	-->	PPAR-gamma
+IRF8	-->	FANCC
+p53	-->	Mitofusin 2
+SMAD2	-->	ID3
+NANOG	-->	Pim-1
+YY1	-->	TIP
+RBP-J kappa (CBF1)	--|	PIKE(CENTG1)
+RFX1	--|	DCDC2
+INO80C	-->	GRP78
+SOX2	-->	PDE8A
+UBE2D2	-->	RNF4
+Fra-1	--|	PDCD4
+CTCF	--|	NEFH
+TRAF3	-->	Smac/Diablo
+HSPA1A	-->	VEGF-A
+TBLR1	-->	ITF2
+CBX4	--|	SIP1 (ZFHX1B)
+RARgamma	-->	RAIG1
+WDR35	-->	C14orf179
+IRF8	-->	FANCF
+CtBP2	--|	ID1
+c-Jun	-->	LAMB1
+RelA (p65 NF-kB subunit)	--|	PPAR-beta(delta)
+U1C	-->	U1-70K
+YTHDF2	--|	R-Ras
+hnRNP D-like	-->	CD83
+Cyclin D1	-->	CENPP
+c-Rel (NF-kB subunit)	-->	C/EBPdelta
+CHD8	-->	NRF3
+Nucleophosmin	--|	HSP60
+CTCF	-->	ITGBL1
+BAZ1A	--|	Cyclin D1
+SMYD3	-->	TTBK2
+SHPS-1	--|	Insulin receptor
+FOXO3A	-->	NKIRAS1
+hASH1	--|	HISPPD1
+PCBP-1	-->	Rap1GAP1
+DDX9	-->	GADD45 beta
+XBP1	-->	SET7
+PCSK9	-->	CAP1
+TIF1-beta	-->	SMAD2
+RelA (p65 NF-kB subunit)	-->	CD47
+MUS81	-->	FEN1
+SFRS10	--|	TRA2A
+MDM2	--|	SPRY4
+UCHL1	-->	SMAD2
+MeCP2	--|	Mu-type opioid receptor
+SET8	-->	TCF7L2 (TCF4)
+CDK7	-->	SOX10
+NOR1	-->	Cyclin D1
+c-Jun	-->	Ifi202a
+Trp53inp2	-->	MAP1LC3B
+14-3-3 zeta/delta	-->	GIT1
+YTHDF2	-->	USP38
+RXRA	-->	LRRC8D
+SMAD1	--|	ABCA1
+HDAC2	--|	APCL
+RelA (p65 NF-kB subunit)	--|	S1P1 receptor
+MeCP2	-->	GABA-A receptor beta-3 subunit
+p53	-->	Sirtuin1
+RFWD3	-->	PCNA
+PRKCBP1	-->	Tau (MAPT)
+RelA (p65 NF-kB subunit)	--|	FAR2
+c-Fos	-->	PKIB
+FKHR	-->	TXNRD2
+MAD3	-->	CMTM5
+HDAC2	--|	p21
+GCN5	-->	Bcl-XL
+VDR	-->	Bim
+NCOA2 (GRIP1/TIF2)	-->	NURR1
+C11orf9	--|	Migfilin
+RARalpha	-->	STAR
+Ebp1	-->	MDM2
+NF-kB1 (p50)	-->	EGR2 (Krox20)
+AMBRA1	--|	Cyclin D3
+C/EBPbeta	-->	Cyclin D3
+NDPK A	--|	MMP-2
+FUS	--|	TBP
+RUNX3	-->	REDD1
+NDFIP2	--|	NRAMP2
+PPIF	-->	Amyloid beta 42
+RBP-J kappa (CBF1)	-->	ID3
+ATF-3	--|	c-Fos
+SOX2	--|	CMTM5
+p53	--|	REEP2
+DNAJB6 (Hdj-1)	-->	HDAC5
+AML1 (RUNX1)	-->	STAT1
+NANOG	--|	MKP-2
+UBE2S	-->	CHIP
+UBC	--|	Ikaros
+PREP2	-->	IBP5
+Sirtuin6	--|	SLC36A4
+Atg101	-->	ATG13
+EPAS1	-->	GLGB
+Androgen receptor	-->	ATR
+STAT3	-->	Ifi202a
+CTCF	--|	FAM167A
+SMRT	--|	Oct-1
+UBE2D2	-->	c-Cbl
+C/EBPbeta	-->	mGluR1
+PPAR-gamma	-->	C20orf3
+IFT74	-->	Cyclin D2
+N-CoR	--|	SOX2
+HSP90 beta	-->	MAST1
+N-CoR	--|	MMP-2
+p38alpha (MAPK14)	-->	Casein kinase II, beta chain (Phosvitin)
+NCOA2 (GRIP1/TIF2)	-->	PREX1
+CBP	-->	FosB
+Dcc	-->	Tubulin beta 3
+HBXIP	-->	RXRA
+NUR77	-->	DT3UO
+C11orf9	--|	FRMD4B
+GIT1	--|	IP3R1
+PYGO2	-->	FAM44B
+VCP	--|	Mitofusin 2
+TCF7L2 (TCF4)	-->	Ep-CAM
+XBP1	-->	JMJD1A
+KDM2B	--|	En2
+SOX2	-->	ALD2
+Esrrg	-->	LIPIN1
+c-Fos	-->	Rab-3C
+E2F4	--|	PPAR-gamma
+Nucleophosmin	-->	STAT1
+DLX5	-->	Cyclin D1
+PhLP	-->	G-protein beta-1
+E2F4	-->	Nek2A
+SMAD4	-->	FSRP
+DDX5	-->	DROSHA
+CYFIP2	-->	GOLPH3
+A-Myb	-->	C/EBPbeta
+T-bet	-->	SIP1 (ZFHX1B)
+RXRA	-->	TGF-beta 2
+SSTR2	-->	SHP-2
+ASXL1	--|	ABCA1
+SMAD2	-->	DLX6
+FOXP1	-->	TACC2
+c-Jun	-->	DUSP5
+ARPP- 21	-->	Annexin V
+TORC1	-->	c-Jun
+Fra-1	-->	TCF8
+FKHR	-->	APG12
+RBB2	--|	Ephrin-A receptor 4
+Emi1	-->	NUMA1
+VDR	-->	FOXO3A
+SMAD7	-->	MEK3(MAP2K3)
+CPEB1	--|	Sirtuin1
+Phox1 (PRRX1)	--|	KLF4
+NOR1	-->	Kv2.1
+CTCF	--|	SOX2
+SMAD2	-->	MEL1
+ATF-3	-->	Secretogranin II
+AML1 (RUNX1)	-->	c-Myb
+Menin	-->	AML1 (RUNX1)
+FIP200	-->	p53
+Contrin (MSY2)	--|	ROPN1L
+DHX33	-->	HMDH
+KLF4	-->	CEPT1
+JMJD3	-->	MYT1
+c-Jun	-->	Wee1
+TR-beta	--|	PIP5K1A
+RNF6	-->	CBP
+p53	-->	Amphiregulin
+STAT3	-->	Bim
+AML1 (RUNX1)	-->	PLAT (TPA)
+NF-kB1 (p50)	-->	SIAT8A
+SMAD7	-->	YY1
+PELP1	--|	GCR
+YY1	-->	LONRF1
+VDR	-->	Sestrin 1
+ActRIIB	-->	PI3K reg class IA (p85-alpha)
+Securin	--|	p27KIP1
+UBE2J1	--|	Androgen receptor
+LARP1	-->	Annexin III
+FKHR	-->	ACDSB
+CXXC6	-->	NDRG1
+Cytohesin3	--|	TR-beta
+UTX	-->	MLL2
+JunB	--|	Collagen VII
+RARalpha	-->	ACADM
+Androgen receptor	--|	Cyclin D1
+UBC	--|	RNF20
+RelA (p65 NF-kB subunit)	--|	p27KIP1
+NF-kB1 (p50)	-->	COX-2 (PTGS2)
+Laforin	-->	Malin
+AML1 (RUNX1)	--|	LAT
+RBP-J kappa (CBF1)	-->	Bim
+C/EBPdelta	-->	VLDLR
+KEAP1	--|	C/EBP zeta
+SAP97 (DLG1)	-->	Semaphorin 4C
+BRWD2	-->	PTCH1
+GCR	--|	Collagen VII
+RelA (p65 NF-kB subunit)	-->	FEN1
+SOX2	-->	STAT1
+RXRA	--|	IP3R2
+Polycystin	-->	JAK2
+RelA (p65 NF-kB subunit)	-->	BRG1
+Elk-1	-->	DUSP5
+RKIP	-->	GSK3 beta
+Esrra	-->	ALDOA
+SMAD1	--|	Connexin 43
+HEY1	--|	STAR
+EGLN2	-->	PDH beta
+Sirtuin1	--|	SAP97 (DLG1)
+p53	-->	NOR1
+NF-kB1 (p105)	-->	SLIT2
+CBP	-->	Proglucagon
+K-RAS	-->	PI3K cat class IA (p110-alpha)
+p53	-->	Versican
+SMYD3	-->	S1P1 receptor
+GRP78	-->	IL-34
+RelA (p65 NF-kB subunit)	-->	PD-L2
+BMI-1	--|	CNIH3
+c-Jun	-->	PPAR-beta(delta)
+C/EBPbeta	-->	TIMP1
+Mi-2 alpha	-->	TIF1-beta
+RUVBL2	-->	NANOG
+Ephexin	-->	Ephrin-A receptor 2
+JMJD3	-->	ACADM
+SRF	-->	UBE2S
+c-Myb	-->	Cyclin D1
+c-Rel (NF-kB subunit)	-->	C/EBPbeta
+KDM2B	-->	UQCRFS1
+Nucleophosmin	-->	SPECC1
+YY1	--|	MEF2C
+JunD	-->	VEGF-A
+IGF-1 receptor	-->	PTPR-alpha
+CLIM1	--|	RelA (p65 NF-kB subunit)
+C/EBPbeta	-->	ISM1
+MAD3	-->	NUMA1
+LKB1	--|	Neuropilin-1
+KLF6	-->	ATF-3
+Lamin A/C	-->	Sirtuin1
+IKK-gamma	-->	c-Fos
+irlB	--|	COX-2 (PTGS2)
+MEX3A	--|	p53
+FKHR	--|	NDUFA1
+GCR	-->	c-Fos
+EGR2 (Krox20)	-->	NAB1
+RXRA	-->	GCL cat
+SIP1 (ZFHX1B)	--|	ID4
+STAT5B	--|	SPECC1
+RelA (p65 NF-kB subunit)	--|	Synaptopodin
+Sirtuin1	--|	ARG2
+TPT1	-->	Mcl-1
+FBXO7	--|	INF2
+JARID2	--|	DLK
+CHD5	--|	Wee1
+MLL1 (HRX)	-->	p27KIP1
+Menin	-->	EML4
+NANOG	--|	SHRM
+p53	--|	ABCC1
+MAPRPE1(EB1)	-->	NAV1
+NF45 (ILF2)	-->	c-Jun
+GRB2	--|	PLC-gamma 1
+ARL15	-->	CNNM3
+JMJD3	-->	CalDAG-GEFIII
+G9a	--|	NEUR1
+KIAA1166	-->	RNF220
+CNNM3	-->	PTP4A2
+HDAC5	--|	CIITA
+PPAR-beta(delta)	-->	TMEM135
+PINK1	--|	CRLS1
+RecQ5	--|	POLR2C
+FKHR	--|	UQCRC1
+YTHDF2	--|	p53 (mitochondrial)
+NANOG	--|	ATBF1
+YY1	--|	NSF
+EGR1	--|	ABCA2
+SMAD4	-->	NANOG
+eIF4G2	-->	LGR4
+TCF7L2 (TCF4)	-->	TEF-1
+EGR1	-->	TGF-beta 3
+C/EBPbeta	--|	PAK6
+TET3	--|	TCF8
+ING5	-->	GADD45 alpha
+ATF-4	-->	TKT
+FOXP1	--|	SIX3
+MeCP2	--|	NEFH
+FOXJ3	-->	MEF2C
+IMP2	-->	MEIS2
+Stathmin	--|	p27KIP1
+AP-4	-->	NFBD1
+RelA (p65 NF-kB subunit)	-->	RASSF5
+RXRA	--|	SLC1A2/EAAT2
+WDR22	--|	BAF180
+LONP	-->	GRP75
+HSF2BP	-->	HSF2
+GCR	-->	NPEPPS
+EGR1	-->	TGF-beta 2
+Cereblon	--|	APP
+FKHR	-->	ATF-3
+Beta-sarcoglycan	-->	Epsilon-sarcoglycan
+CtBP2	--|	NANOG
+SART1	--|	Neurofibromin
+PER2	-->	H-FABP
+PBX1	-->	Bcl-6
+TBP	--|	Neurofibromin
+Androgen receptor	--|	TGF-beta receptor type III (betaglycan)
+E3b1(ABI-1)	-->	NckAP1
+p21	--|	CDC25C
+GCN5	-->	Androgen receptor
+c-Fos	-->	ISG20L1
+c-Fos	-->	NOTCH4 receptor
+NBR1	--|	PPAR-gamma
+KDM2B	--|	PPAR-gamma
+PROX1	--|	RGS4
+hASH1	--|	PTPR-delta
+ErbB4(ICD)	--|	S100B
+RelA (p65 NF-kB subunit)	-->	FAM174B
+GLI-3	-->	Androgen receptor
+SMAD1	-->	ID2
+SOX2	-->	MGAT4A
+FOXK1	--|	PER2
+hnRNP A1	--|	Bcl-XL
+AML1 (RUNX1)	-->	Laeverin
+ALKBH5	-->	REDD1
+DDX9	-->	RAD23A
+NUDEL	-->	DYNC1I1
+PPAR-gamma	-->	TIEG1
+PP2C gamma	--|	WWP2
+MDM2	--|	DDX9
+FKHR	-->	Cathepsin V
+Androgen receptor	--|	NUR77
+KLHL13	--|	IRS-1
+SMURF1	--|	STAT3
+PRKAR2B	-->	PKA-cat alpha
+CHD7	--|	p53
+IGF-1 receptor	-->	SHP-2
+Androgen receptor	--|	S5AR2
+METT10D	-->	CHIP
+Esrra	-->	RSAD1
+RACK1	-->	MAP1LC3A
+VCP	--|	DGAT2
+GCR	--|	KCNK12
+ZNF516	--|	TGF-beta 3
+Sirtuin6	--|	SLC38A1
+MYH10	-->	TARDBP (TDP43)
+CoREST	--|	NEFH
+c-Jun	-->	NEDD4L
+HIC1	--|	TCF7L2 (TCF4)
+MDM2	-->	CtBP2
+CTCF	--|	LGI1
+PPAR-gamma	-->	Sestrin 1
+PPAR-gamma	-->	UBR5
+EGR2 (Krox20)	-->	NUR77
+RelA (p65 NF-kB subunit)	-->	Aggrecanase-1
+MIF	--|	KIF3A
+PIBF	-->	PCM1
+EGR2 (Krox20)	-->	Bim
+SOX2	-->	NUDCD1
+FKHR	-->	TSC22D2
+Kaiso	--|	TCF7L2 (TCF4)
+Sin3A	--|	PER3
+MAF1	--|	EGR1
+RUNX3	--|	Myeloblastin
+NR2F1	-->	PTCH1
+PCGF2 (Mel-18)	--|	N-cadherin
+GCR	-->	VDR
+SRF	-->	SMURF1
+RXRA	-->	Ep-CAM
+YY1	-->	SGA-81M
+SMAD7	--|	DHFR
+MLL2	-->	MKP-1
+Cyclin D1	--|	STAT3
+PER2	-->	PER3
+CENTG3	-->	Elk-1
+MED1	-->	GCR
+HIC5	--|	SMAD1
+IRF8	-->	BETA-IG-H3
+p27KIP1	--|	CAS-L
+Fra-1	-->	PAF1
+PWP1	--|	STAT3
+GCR	-->	HSP60
+CHD8	-->	CDC18L (CDC6)
+CXXC6	-->	NDRG4
+MEF2C	-->	PBX1
+Androgen receptor	-->	SCAP
+p53	-->	ALKBH5
+STAT1	-->	MAP-1A
+Sec24D	-->	LMAN1
+BRG1	-->	HSPA1A
+GCR	-->	GADD45 beta
+MLL1 (HRX)	-->	IBP4
+JMJD2A	-->	PDK1
+SUPT16H	-->	PDK1
+GABP alpha	-->	ATM
+YTHDF2	--|	TGF-beta 1
+HDAC11	-->	Myelin basic protein
+ATF-4	-->	GADD45 alpha
+BAF170	--|	PRMT5
+FOXP1	-->	N-cadherin
+C/EBPbeta	--|	MIA
+HBP1	--|	MIF
+Sirtuin1	--|	EPDR1
+RBP-J kappa (CBF1)	-->	ZFHX4
+REV-ERBalpha	--|	CACNA1C
+RARgamma	-->	FGFR2
+TCF8	--|	Alpha-1 catenin
+SETDB1	--|	NDRG1
+REV-ERBalpha	--|	REDD1
+IRF6	--|	PKM2
+ATF-3	-->	HPK38
+SHISA9	--|	GluR3
+NANOG	-->	TGF-beta 1
+RUNX3	-->	RNPEP
+FOXO3A	-->	RHEB2
+PPAR-beta(delta)	-->	TIEG1
+PCNA	-->	DNA polymerase mu
+N-CoR	--|	GLPK
+RelB (NF-kB subunit)	-->	Cullin 4A
+KLF4	--|	beta-MHC
+NANOG	-->	Gsta4
+ZPR9	-->	ASK1 (MAP3K5)
+VIL2 (ezrin)	-->	XIAP
+SET7	-->	PDK1
+YY1	--|	JAK2
+KLF4	-->	HSP90 beta
+XBP1	-->	PPAR-gamma
+c-Jun	--|	Protein C receptor (endothelial)
+ATOX1	-->	ATP7A
+FAK1	-->	PI3K reg class IA (p85-alpha)
+RBP-J kappa (CBF1)	-->	VCAM1
+PI3K reg class IA (p85-alpha)	-->	GluR2
+GCR	-->	HMDH
+CTIP2	-->	Mi-2 beta
+BETA-PIX	-->	PLC-gamma 1
+GPS2	-->	PEDF-R (iPLA2-zeta)
+Elk-1	-->	ESM-1
+GCR	-->	MAST1
+KIAA1838	-->	PPAR-gamma
+HSP90 beta	-->	ACTB
+AML1 (RUNX1)	--|	ATF-3
+TCF7L2 (TCF4)	-->	CSAD
+TR-beta	--|	Ash1
+FYCO1	-->	Alpha crystallin A
+RXRA	-->	ROR-alpha
+YTHDF2	-->	VEGF-A
+EGR1	-->	NR1
+N-CoR	--|	p21
+Elk-1	-->	VMP1
+LIN-41	--|	STAT5B
+RelB (NF-kB subunit)	-->	SLIT2
+EKLF1	-->	HMBS
+Elk-1	-->	IEX1
+JMJD1A	-->	SOX2
+C/EBPalpha	--|	GSTP1
+hnRNP H1	--|	FGFR2
+KLF4	-->	SK3
+Rb protein	--|	NANOG
+CBX4	--|	HEY1
+LIN-52	-->	LIN-37
+IKK-gamma	-->	IKK-alpha
+CDK7	-->	C/EBPbeta
+hASH1	-->	RhoE
+ESE3	-->	PKM2
+RelA (p65 NF-kB subunit)	--|	MCART6
+PR (nuclear)	-->	MMP-2
+MITF	-->	RAD51D
+FBXW11	--|	ASK1 (MAP3K5)
+JMJD3	-->	Cyclin D1
+Elk-1	-->	FLJ11021
+STARING	--|	INO80
+Phox1 (PRRX1)	-->	TGF-beta 1
+STAT3	-->	PYGB
+SOX2	-->	Podoplanin
+Casein kinase I delta	--|	GABA-A receptor beta-2 subunit
+p53	--|	Nek2A
+WNK1	-->	KIAA0103
+CXXC6	--|	FOXO3A
+Liprin-alpha3	-->	Beta-arrestin2
+BAF200	-->	CTCF
+MID1	-->	Androgen receptor
+T-bet	-->	AML1 (RUNX1)
+Fra-1	-->	JMJD3
+LIMD1	--|	LATS1
+TIF1-beta	-->	KIAA1217
+PKM2	-->	KLF4
+G-protein alpha-12	-->	PLC-beta1
+SMYD3	--|	p53
+ZNF288	--|	AF-4
+NF-AT5	-->	PGK1
+eIF4G2	-->	MFHAS1
+AML1 (RUNX1)	--|	SHC3
+TCF8	-->	SLC9A1
+ATF-3	--|	RelA (p65 NF-kB subunit)
+Willin	-->	STK4
+CTCF	--|	Contrin (MSY2)
+AP-4	-->	LAPTM4B
+RXRA	-->	FOXO3A
+BAF180	-->	BMPR1B
+TIF1-beta	--|	JunB
+YY1	--|	BinCARD
+SOX2	--|	DP2
+SIP1 (ZFHX1B)	-->	KLF4
+c-Jun	-->	Bim
+MeCP2	--|	ID3
+beta-TrCP	--|	FOXO3A
+SOX2	--|	FLJ20422
+RBP-J kappa (CBF1)	-->	c-Jun
+TNRC6A	--|	Cyclin D3
+P4HB	--|	C/EBPalpha
+Esrrg	-->	ECHP
+RelA (p65 NF-kB subunit)	-->	NURR1
+FMNL1	-->	Profilin I
+TDRD3	-->	DDX9
+hnRNP A1	-->	MAG
+LLGL1	-->	Rab-10
+Rab-21	-->	TRAF3
+YTHDF3	--|	TGF-beta 1
+p21	-->	CBP
+IMP2	-->	PPAR-gamma
+c-Fos	-->	CREM (activators)
+Kaiso	--|	SAP97 (DLG1)
+GCR	--|	Keratin 5
+SOX2	--|	Nir1
+SMARCA5	-->	FLJ36031
+Cyclin D1	-->	MCM7
+AKAP350	-->	KCNQ1
+YY1	-->	CYBASC3
+c-Jun	-->	Keratin 16
+ASXL1	-->	Rad21
+MITF	-->	Rb protein
+PHF1	-->	p53
+Rad21	-->	PR (membrane)
+eIF4G2	-->	ETR3
+RENT2	-->	SMG1
+RelA (p65 NF-kB subunit)	-->	YY1
+RelA (p65 NF-kB subunit)	-->	IER5
+Huntingtin	--|	Sirtuin1
+PPAR-gamma	-->	Reticulon 4
+Rad21	-->	CTCF
+SRGAP1	-->	RhoA
+AML1 (RUNX1)	-->	Tubulin beta 3
+TFG	--|	ULK1
+ATF-3	--|	TSPAN12
+IRF8	-->	BACH2
+DDX6	-->	FGFR2
+Esrra	-->	CAC
+COBRA1	--|	c-Fos
+Androgen receptor	-->	KLF4
+EGR2 (Krox20)	-->	T-bet
+CUGBP1	--|	SMAD7
+STAT3	--|	SOX11
+SMAD4	-->	TFII-I
+FIAT	--|	Fra-1
+N-CoR	-->	SMAD7
+hnRNP A1	-->	TARDBP (TDP43)
+hnRNP A1	-->	E4BP4
+Synaptotagmin III	-->	GOS-28
+SOX2	-->	DLL1
+PR (nuclear)	-->	p53 (mitochondrial)
+ROR-alpha	-->	Fibrinogen beta
+IGF2BP3	-->	SLC38A1
+Sno-N	--|	SMAD7
+SMAD5	-->	HEY1
+RAIDD	-->	IKK-epsilon
+Menin	-->	GLPK
+SOX2	--|	14-3-3 theta
+GCR	--|	Ephrin-A receptor 2
+JMJD2A	-->	Synaptotagmin I
+SRF	-->	KLF6
+SOX2	-->	Versican
+MED1	-->	DAPK1
+Tangerin A	-->	CD2AP
+NFE2L1	-->	ATF-4
+CTCF	--|	p21
+TET2	-->	OGT (GlcNAc transferase)
+Androgen receptor	-->	AML1 (RUNX1)
+JunB	--|	PAOX
+TET2	-->	SRF
+STAT3	-->	TRPM7
+STAT5B	-->	RUNX3
+Jouberin	-->	Tyk2
+Zhangfei	--|	XBP1
+Elk-4	-->	MTMR6
+LARP1	-->	eIF4A1
+GLI-3	-->	PVR
+PELP1	-->	MMP-2
+SOX2	-->	ARX
+Rb protein	-->	ALPL
+MITF	-->	c-Myb
+ZNF288	--|	ETV6(TEL1)
+BACH1	-->	G9a
+p53	--|	RASAL2
+RCAD	-->	Nibrin
+Esrra	-->	Mitofusin 2
+ANCO-1	-->	p53
+Ash1	-->	SMAD2
+BAZ1A	-->	N-CoR
+MLL1 (HRX)	-->	SRGAP1
+G9a	--|	BCAT1
+NANOG	--|	KLF4
+C/EBPalpha	-->	GCNT2
+C/EBPalpha	-->	CNTN1 (F3)
+Ikaros	--|	EPAS1
+LRP1	-->	GluR1
+FOXO3A	-->	Par-4
+Prp8	--|	Androgen receptor
+GNIP (TRIM7)	--|	RelA (p65 NF-kB subunit)
+DBC1	-->	MLL2
+hASH1	-->	AOF1
+NFE2L1	-->	PI3K reg class IA (p85-alpha)
+Sirtuin1	-->	CBP
+KLF4	--|	Plakophilin 1
+HDAC2	--|	CD27(TNFRSF7)
+SOX2	-->	MA1A1
+RBP-J kappa (CBF1)	-->	OLIG1
+RanBP2	-->	GSK3 beta
+SUMO-3	--|	USP25
+STAT1	--|	NR1
+SMAD7	--|	p21
+NCOA1 (SRC1)	--|	RNF167
+RBP-J kappa (CBF1)	-->	DDX5
+YY1	--|	Ryanodine receptor 2
+UTX	-->	NANOG
+FKHR	--|	DACT1
+EPAS1	-->	Ephrin-A1
+SOX10	-->	EGR2 (Krox20)
+c-Fos	-->	p21
+G-protein alpha-i1	--|	Kir3.1
+ATF-4	-->	SHMT2
+PABP2	-->	DIS3L2
+TLE6	-->	14-3-3 theta
+Mi-2 beta	-->	PIPOX
+EKLF1	--|	GLUT1
+Esrra	-->	IDH1
+SETDB1	--|	KCNQ5
+VDR	-->	MDM2
+hASH1	-->	Neurexin-3 alpha
+NF-kB1 (p105)	-->	Cyclin D1
+TR-beta	--|	Kv4.3 channel
+Derlin1	-->	UBE2J1
+RelA (p65 NF-kB subunit)	--|	PPAR-gamma
+NUCKS	-->	Insulin receptor
+STAT3	--|	ZNF148
+M33	-->	WTAP
+C/EBPbeta	-->	LYPD6B
+KDM2B	-->	IRF6
+RelA (p65 NF-kB subunit)	-->	STK39
+GABP alpha	-->	Semaphorin 3A
+hASH1	-->	NCAM1
+YY1	-->	Mu-type opioid receptor
+UCHL1	--|	Raptor
+KLF4	-->	FADD
+MAN1	--|	SMAD1
+TEF-1	-->	VTA1
+beta-TrCP	--|	ATF-4
+ELMOD1	-->	DOCK3
+Menin	-->	Ephrin-A receptor 2
+ID3	--|	Alpha adducin
+FLII	-->	SAFB
+BACH1	-->	VCAM1
+p53	--|	CENTG2
+PC-TP	--|	PPAR-gamma
+EGR1	-->	STIM1
+SRF	-->	Actin cytoplasmic 2
+hASH1	-->	ProSAPiP1
+eIF2C1 (Argonaute-1)	-->	CBP
+Sin3A	--|	Bim
+FKHR	-->	LSG1
+COPS6	--|	UBR5
+JMJD3	-->	SMAD2
+FOXK1	-->	DHFR
+DDB2	--|	p27KIP1
+AML1 (RUNX1)	-->	GADD45 alpha
+EP400	-->	T-bet
+G9a	--|	SLC22A3
+HSPA1A	-->	MKP-1
+PI3K reg class IA (p55-gamma)	-->	PCNA
+Sestrin 2	--|	WDR24
+Hap-1	--|	APP
+RagD	-->	Raptor
+IMP2	-->	SUV39H2
+NCOA1 (SRC1)	--|	Ephrin-B receptor 1
+Beta-arrestin1	--|	SLC9A1
+Androgen receptor	-->	BAF180
+SOX2	-->	CHIC1
+GCR	-->	CORO1A(CLABP, TACO)
+c-Jun	-->	PAK3
+G9a	-->	MKP-2
+SOX11	-->	RelA (p65 NF-kB subunit)
+TCF8	-->	Tubulin beta 2C
+TR-beta	--|	KBP (Serpina3c)
+FOXP1	-->	TCF7L2 (TCF4)
+OASIS	-->	GRP78
+JMJD3	-->	FKHR
+PER2	--|	RelA (p65 NF-kB subunit)
+EGR1	-->	TMEM8B
+IKK-gamma	--|	CBP
+GPM6A	-->	Protein C receptor (endothelial)
+c-Jun	--|	PAOX
+AML1 (RUNX1)	--|	TfR1
+PR (nuclear)	-->	MSK1
+c-Rel (NF-kB subunit)	-->	CD83
+SOX2	-->	c-IAP1
+RBB2	--|	PR (membrane)
+EKLF1	-->	E2F4
+AML1 (RUNX1)	-->	IP3R2
+GCR	-->	PMVK
+EGR1	-->	Androgen receptor
+CD81	--|	c-Kit
+TR-beta	--|	ETV3
+RelA (p65 NF-kB subunit)	--|	SMC6
+Esrra	-->	KCNQ1
+FOXO4	-->	p53
+NUAK1	--|	Itch
+KLF4	-->	SOX2
+hASH1	--|	IP3KB
+p53	-->	VDR
+AATF (Che-1)	-->	REDD1
+MITF	-->	Reticulon 4
+GPR30	-->	VEGF-A
+Beta-arrestin2	-->	Itch
+FUS	-->	Beta-synuclein
+ING2	-->	PCNA
+PUM2	--|	Sirtuin1
+p53	-->	Frataxin
+Elk-4	-->	ZSWIM4
+SMCY	--|	VEGF-A
+TOX2	-->	TOX
+RBBP6	-->	MDM2
+Amyloid beta 42	-->	FPRL1
+SFRS7 (9G8)	--|	DYRK1a
+RGS20	--|	Mu-type opioid receptor
+Sec8	-->	Claudin-11
+STAT3	--|	STAT1
+BRG1	-->	AMBRA1
+METT10D	-->	eIF3S10
+GCR	-->	SOD1
+YY1	--|	EXTL1
+SOX10	-->	ID4
+CTCF	-->	ALPL
+VCP	--|	Rad50
+RelA (p65 NF-kB subunit)	-->	SRGAP2(WRP)
+PLEKHM2	-->	VPS39
+NCOA1 (SRC1)	--|	Connexin 43
+NFIB	-->	MCM7
+TLE4	-->	ZNF703
+CENP-A	-->	SLC38A1
+SIAHBP1	--|	CHIP
+STAT3	-->	E4BP4
+TFII-I	-->	CALB1
+TRPC6	-->	PKIA
+UBE2J2	-->	Itch
+Elk-1	-->	Fra-1
+p53	-->	G6PE
+STAT1	-->	Pleiotrophin (OSF1)
+hnRNP A1	-->	FEN1
+Nucleophosmin	-->	ULK1
+JMJD3	-->	MAP1LC3A
+AF-4	--|	ATF-3
+p54	-->	APOE
+TUG1	--|	NGF
+Esrra	-->	SLC25A5
+hASH1	-->	DGCR2
+DCAF15	--|	TCF8
+CPEB1	-->	p27KIP1
+CHD8	-->	CTCF
+MDM2	-->	Pim-1
+HEY1	--|	PROX1
+p53	--|	PLK4 (STK18)
+Karyopherin beta 1	-->	Mago nashi
+14-3-3 zeta/delta	--|	BAD
+ZFP91	-->	RelA (p65 NF-kB subunit)
+Esrra	-->	PDK3
+KLF5	--|	CFTR
+SMCY	--|	CDC25C
+RBBP5	-->	G3P2
+JunB	-->	Transgelin
+RelA (p65 NF-kB subunit)	-->	MED12L
+FOXO3A	-->	BTG1
+TIA-1	--|	ACTB
+N-CoR	--|	RelA (p65 NF-kB subunit)
+C8FW (GIG2)	--|	RARalpha
+eIF4G2	-->	Insulin receptor
+EGR1	--|	SLC34A1
+SOX2	-->	NQO1
+KLF4	-->	Thyroliberin
+hASH1	-->	NAV1
+ATF-4	-->	GCL cat
+MED1	-->	c-Fos
+RelA (p65 NF-kB subunit)	-->	GSK3 beta
+FBXW7	--|	TIEG1
+Elk-1	-->	ARHGEF2
+TSG101	--|	p21
+RUVBL2	-->	SOX2
+KLF4	-->	GASC1
+p21	--|	Cyclin D1
+NFBD1	-->	p21
+DOT1	-->	TRPM7
+p53	--|	APP
+BASP1	--|	VDR
+c-Jun	-->	JunD
+SOX2	--|	FAM43A
+BRG1	--|	C/EBPbeta
+COPS6	-->	UBE3A (E6-AP)
+CREM (repressors)	--|	TY3H
+GCR	-->	IL20RA
+HSP90 beta	-->	NANOG
+STAT3	-->	TPX2
+ATF-4	-->	KCNH5
+ATF-3	-->	c-Jun
+PHIP	-->	Cullin 4A
+PSPC1	-->	STAT3
+p38alpha (MAPK14)	--|	ATG9A
+FOXO4	--|	Mcl-1
+E2F4	--|	DMTF1
+TIPARP	-->	NANOG
+Esrrg	-->	MSX-2
+NF-AT5	-->	COX-2 (PTGS2)
+CoREST	-->	SGK3
+SIP1 (ZFHX1B)	--|	TIMAP
+DDX3X	-->	C/EBP zeta
+SOX2	-->	ECE1
+Girdin	-->	GRP78
+TORC1	-->	NUR77
+CTCF	-->	RUNX3
+G9a	-->	YY1
+Ikaros	-->	Aquaporin 1
+ORP8	--|	Stathmin
+Androgen receptor	-->	Elk-4
+BACH2	-->	GADD45 beta
+c-Fos	-->	STIM1
+MITF	--|	Myelin basic protein
+GSK3 beta	-->	HTR1B
+INO80	-->	BCCIP
+CHD7	--|	p53 (mitochondrial)
+CAS-L	--|	ARF6
+c-Fos	-->	VGF
+HSPA1B	--|	PKA-cat alpha
+BRG1	-->	PML
+KLF5	-->	PPAR-gamma
+CTCF	-->	FOXO3A
+NANOG	-->	NR2F1
+MUC1-CT	-->	EGR1
+APPL1	-->	Insulin receptor
+Contrin (MSY2)	--|	RP40
+Esrrg	-->	SDHA
+BAF250A	-->	PROX1
+LGR4	-->	TGF-beta 1
+MEF2C	-->	SOX10
+GCR	-->	CRMP5
+FOXP1	-->	NFIX
+AML1 (RUNX1)	--|	Transgelin
+RFC1	-->	C/EBPalpha
+C/EBPbeta	--|	AML1 (RUNX1)
+STAT3	-->	EGR2 (Krox20)
+MAZ	-->	CHAC1
+Esrra	-->	COX Va
+ARPP- 21	-->	MALS-3
+TCOF1	-->	Nibrin
+M33	-->	SOX3
+KLF4	--|	ID3
+FOXP1	--|	p53 (mitochondrial)
+HSF2	-->	TCP1-alpha
+DEK	--|	p53
+Neuroglobin	--|	G-protein alpha-i1
+TARDBP (TDP43)	--|	irlB
+Casein kinase I alpha	-->	beta-TrCP
+RelA (p65 NF-kB subunit)	--|	ZO-1
+EGR1	-->	TY3H
+Rab-6A	-->	SYP
+C/EBPbeta	-->	HCD2
+GCR	-->	CRY2
+PLAG1	-->	DHE3
+RelA (p65 NF-kB subunit)	-->	HSP60
+KLF4	-->	C/EBPbeta
+KLF5	-->	CBP
+GCR	-->	PTP-1B
+PKC-lambda/iota	-->	PARD6B
+YTHDF1	--|	VIL2 (ezrin)
+SOX11	-->	Migfilin
+FOXO4	-->	Bim
+NCOA1 (SRC1)	-->	PR (membrane)
+AML1 (RUNX1)	-->	PTPA
+CBX4	--|	MOBP
+PRMT5	--|	RNF4
+PCGF5	-->	TGF-beta 1
+YY1	-->	p18
+c-Jun	-->	ACSL4
+CREM (activators)	-->	Nelin
+EPAS1	-->	BRK
+AKAP350	-->	Adenylate cyclase type IX
+GLI-2	-->	hASH1
+PCBP-1	--|	P4HB
+RelA (p65 NF-kB subunit)	-->	LRP1B
+TET2	-->	TGF-beta 1
+YY1	-->	Cytochrome c
+Fra-1	-->	Hemopexin
+JHDM1D	-->	C/EBPalpha
+Androgen receptor	-->	FOXN3
+CXXC6	--|	CBX4
+MJD (ataxin-3)	--|	VCP
+Androgen receptor	-->	ADAM17
+L1CAM	-->	TOP1
+HAP40	-->	Huntingtin
+Sirtuin5	--|	p53
+SOX6	--|	DLK
+Androgen receptor	-->	SSR-gamma
+YTHDF2	--|	PER1
+TCF8	--|	Bim
+JMJD2A	--|	p53
+ATF-4	-->	NCCRP1
+NANOG	-->	GLI-2
+hASH1	-->	SOX1
+c-Jun	-->	CBP
+p53	--|	SOAT1
+C/EBPdelta	-->	VDR
+RNF220	-->	KIAA1166
+SOX2	-->	ABBP1
+C/EBPbeta	-->	TIEG1
+c-Myb	--|	Ikaros
+RXRA	-->	PEX14
+PCM1	-->	BBS4
+UBE3A (E6-AP)	-->	UBC
+NANOG	--|	JWA
+DDX3X	-->	eIF3S9
+YY1	--|	Makorin-1
+hASH1	-->	CDCA1
+MEF2A	-->	Zac1
+Myt1L	-->	p21
+STAT5B	-->	ID1
+c-Cbl	--|	IRS-1
+STAT3	-->	Pim-3
+STAT3	-->	PBEF
+14-3-3 zeta/delta	--|	Delta-catenin
+TOX	--|	ID2
+IGF2BP3	-->	CDK14
+SPRED1	--|	TESK1
+RBP-J kappa (CBF1)	-->	RHBDL3
+Esrra	-->	SAHH
+FosB	-->	NR2B
+KLF5	-->	NIPA4
+RUNX3	--|	Thy-1
+BRG1	-->	NOXA
+p53 (mitochondrial)	--|	MDM2
+SNX3	-->	STAT3
+p120GAP	-->	FAK1
+CCKBR	-->	PLC-gamma 1
+FBXO7	-->	Cereblon
+CTCF	--|	PTPR-epsilon
+RhoB	-->	Neuropilin-1
+FKHR	-->	CaMKK1
+GRP78	-->	Androgen receptor
+MIF	-->	RelA (p65 NF-kB subunit)
+Androgen receptor	-->	MRFAP1
+SMAD4	-->	TIMP1
+CTCF	--|	SNAI3
+RelA (p65 NF-kB subunit)	-->	NANOG
+NANOG	--|	MDS028
+NCOA1 (SRC1)	-->	C/EBPalpha
+RelA (p65 NF-kB subunit)	-->	NOXA
+RelA (p65 NF-kB subunit)	-->	BAD
+RelA (p65 NF-kB subunit)	-->	REV-ERBalpha
+Cereblon	-->	SLC9A1
+CoREST	--|	CALB1
+Elk-1	-->	Mcl-1
+C/EBPalpha	--|	ENT1
+FOXK1	-->	PDK1
+PCNA	--|	SET8
+PPAR-gamma	--|	SLC9A1
+ALKBH5	-->	STARING
+Elk-1	-->	SOD1
+CNTN6	-->	CHL1
+MLL2	--|	Activin beta A
+NF-kB1 (p105)	--|	Neuropilin-1
+TCF7L2 (TCF4)	--|	KIAA0754
+ZHX2	--|	SIP1 (ZFHX1B)
+C/EBPalpha	-->	RelA (p65 NF-kB subunit)
+DDX17	--|	GluR2
+TUB	-->	PBEF
+p53	-->	RAP-2B
+EGR1	-->	AIDA
+RAB2A	-->	ICA69
+p53	-->	Neurofibromin
+ETV6(TEL1)	--|	p53
+NF-kB1 (p50)	-->	HSPA1A
+CBP	-->	SMAD5
+FBXO44	-->	Cullin 4B
+MAZ	--|	SIP1 (ZFHX1B)
+c-Rel (NF-kB subunit)	-->	Cyclin D1
+VDR	-->	DDEF2(PAG3)
+RelA (p65 NF-kB subunit)	--|	DOCK3
+SOX2	-->	p53 (mitochondrial)
+BAF200	-->	BMPR1B
+JMJD3	-->	SOX1
+GLSK	-->	PDK1
+GNL3L	-->	TRF1
+SRF	-->	ARC
+NF-kB1 (p50)	-->	Bcl-XL
+MITF	--|	VEGF-C
+LRRK2	-->	eIF2C2 (Argonaute-2)
+VASP	-->	ACTB
+GCN5	-->	ATM
+14-3-3 epsilon	-->	DP2
+JunB	-->	STAR
+MLX	--|	Bim
+C11orf9	-->	PPP2R2B
+MLL2	-->	Caspase-7
+IRAK1BP1	-->	RelA (p65 NF-kB subunit)
+PPAR-beta(delta)	-->	GM3 synthase
+RPL22	--|	p53 (mitochondrial)
+FOXP1	--|	FKHR
+PLC-gamma 1	-->	PTP-1B
+p53	-->	TRPC6
+RPRD1B	-->	RPAP2
+MITF	-->	p21
+MeCP2	--|	DGCR8
+PHLDA1	-->	14-3-3 epsilon
+DNAJB11	-->	GRP78
+PRNP	--|	PKM2
+SON	-->	E4F1
+c-Rel (NF-kB subunit)	-->	TSLC1
+TAF(I)63	-->	Troponin C, cardiac
+SMRT	--|	JunD
+FAIM2	-->	MAP1LC3B
+c-Fos	-->	ATP6AP2
+Menin	--|	p27KIP1
+FOXO3A	-->	C8FW (GIG2)
+DEDD	-->	PI3K cat class III (Vps34)
+SOX2	-->	PKM2
+DLX5	-->	IRS-2
+CTIP2	-->	Ephexin
+TEF-1	-->	S2P
+TCF7L2 (TCF4)	-->	DCAMKL1
+BRG1	-->	Sirtuin1
+MAML2	-->	NOTCH4 (ICD4)
+ZDHHC9	-->	GCP16
+FKHR	-->	MAP1LC3B
+NF-kB1 (p50)	-->	PLK4 (STK18)
+Huntingtin	--|	HSP40
+TDRD3	-->	Amphiregulin
+Rictor	-->	K-RAS
+SMAD1	-->	Transgelin
+eIF3S3	-->	HAX1
+NDPK A	-->	AMPK alpha 1 subunit
+NOC2L	--|	Rb protein
+TRAF3	-->	IKK-epsilon
+C/EBPalpha	--|	E2F4
+RelA (p65 NF-kB subunit)	-->	IEX1
+SOX2	--|	PRKAR2A
+eIF4A1	-->	LARP1
+RNF141	-->	K-RAS
+SRF	-->	APOD
+p21	--|	JNK2(MAPK9)
+AML1 (RUNX1)	--|	NOTCH4 receptor
+FBXW5	-->	Cullin 4A
+CDK5R1 (p35)	-->	STAT3
+RBP-J kappa (CBF1)	-->	FATP1
+RBB2	--|	PIK3IP1
+STAT3	-->	RBP4
+WWP2	-->	SLCO5A1
+CAP-G	-->	Galectin-1
+CTCF	-->	AMH type II receptor
+SMAD4	--|	GAT1
+ASXL3	--|	ABCA1
+PRKCBP1	-->	CEBPG
+FKHR	-->	USP11
+P53DINP1a	-->	p53
+PR (nuclear)	-->	C/EBPalpha
+FOXO3A	-->	PI3K cat class IA (p110-alpha)
+SPRED1	--|	DYRK1a
+MAD3	-->	DBC1
+CIRBP	--|	Kv4.2 channel
+ETR3	--|	FAT10
+RelA (p65 NF-kB subunit)	--|	ZNF288
+HBXIP	-->	ABCG1
+SOX2	-->	c-Myb
+STAT1	-->	APOE
+NR1	-->	SLC1A1/EAAT3
+FOXO3A	--|	Neurochondrin
+FKHR	-->	VEGF-A
+SMAD2	-->	TCF7L2 (TCF4)
+RBP-J kappa (CBF1)	-->	FAK1
+SEL1L	-->	XTP3B
+Amyloid beta 42	-->	Ephrin-A receptor 4
+RBM15	-->	SAP102
+HDAC2	-->	STAT1
+STAT1	-->	Mi-2 beta
+NR2F1	-->	SOD1
+GCR	--|	SERTAD1
+SMAD2	-->	SIK
+STAT1	-->	IRF8
+EPAS1	-->	PGK1
+NANOG	--|	Rb protein
+SMRT	--|	STAT3
+HDAC2	--|	P53DINP1a
+RNF20	-->	MDM2
+TCF7L2 (TCF4)	-->	DDX5
+BAF155	-->	c-Jun
+KLF4	-->	ZO-1
+CHD8	-->	Cyclin E2
+YTHDF1	-->	SAB
+TSG101	--|	CFTR
+MIF	--|	Bim
+ALKBH5	-->	HYPB
+TBP	-->	IP3R1
+TCF7L2 (TCF4)	-->	AL3A2
+NAB2	--|	Mi-2 alpha
+TORC1	-->	CAS-L
+CoREST	--|	COX-2 (PTGS2)
+C/EBPalpha	-->	VLDLR
+c-Jun	-->	NR2B
+FKHR	-->	ALPL
+Cullin 1	--|	CCDC6
+GLI-2	-->	XIAP
+C/EBPdelta	-->	ITGB8
+AML1 (RUNX1)	-->	BAALC
+TSLC1	--|	BMI-1
+DOCK3	--|	NR2D
+Sirtuin1	-->	Mi-2 beta
+SMAD2	-->	PMEPA1
+RelA (p65 NF-kB subunit)	-->	Thy-1
+SRF	--|	Neuroligin 2
+YTHDF2	--|	EGR1
+C/EBPbeta	-->	FGFR2
+BAF47	--|	Cyclin D1
+JunD	-->	Bcl-XL
+p53	-->	MKP-2
+ZNF639	-->	Cyclin T1
+PPAR-beta(delta)	-->	CAC
+SMCX	-->	SMAD7
+TIMP1	-->	LATS1
+SRF	--|	GADD45 beta
+IGF-1 receptor	-->	c-Jun
+KLF5	-->	RelA (p65 NF-kB subunit)
+Semaphorin 6D	-->	Plexin A4
+RNF20	-->	hASH1
+CTCF	--|	DLGAP1 (GKAP)
+MAZR	-->	JunB
+p53	-->	TM7SF3
+Nucleophosmin	-->	eIF4E
+SIAH2	-->	TIN-2
+BAF155	-->	p21
+SOX2	-->	XRN1
+BACH1	-->	PDK3
+ADAM15	-->	p38alpha (MAPK14)
+MCM8	-->	CDC18L (CDC6)
+Ski	-->	GLI-2
+MeCP2	--|	EGR2 (Krox20)
+NANOG	-->	SOX12
+PHF13	--|	EXTL1
+ZNF687	-->	TR-beta
+NANOG	-->	Sno-N
+Matrin-3	-->	Neurotrimin
+CHD5	--|	Mcl-1
+RBBP5	-->	C/EBP zeta
+SUPT6H	-->	UTX
+SOX10	-->	Pleiotrophin (OSF1)
+AP-4	-->	Jagged2
+MED1	-->	C/EBPbeta
+MIZIP	-->	SLC-1
+RelA (p65 NF-kB subunit)	--|	Nelin
+STAT3	-->	MMP-2
+SOX2	-->	ZHX2
+C/EBPbeta	-->	GSTP1
+STXBP5	-->	Lamin A/C
+p53	-->	WNT8B
+BAF170	-->	BAF57
+RXRA	-->	NIFIE14
+GCR	-->	WNT4
+STAG1	-->	SMC1
+JMJD3	-->	ULK1
+DBC1	--|	CBP
+PPAR-gamma	--|	Cyclin D1
+MAP-1A	--|	PDZ-RhoGEF
+Brca2	--|	p53
+Elk-1	-->	NUDCD3
+GABP alpha	-->	PSMD1
+KLF4	-->	Ephrin-B1
+Hdj-2	--|	Huntingtin
+RARalpha	-->	Cyclin D1
+AML1 (RUNX1)	-->	DCAMKL1
+GCR	-->	CYP2C8
+p53	-->	UBE3A (E6-AP)
+Sirtuin6	--|	PCBP-2
+ZNF516	--|	JMJD1A
+ID3	-->	NFBD1
+TBP	-->	c-Fos
+SUMO-3	-->	LIPIN1
+RelA (p65 NF-kB subunit)	-->	PKIA
+p53	--|	HSPA1B
+hASH1	-->	GOLPH2
+MeCP2	--|	GADD45 alpha
+C/EBPbeta	-->	Microcephalin
+STAT3	-->	BMI-1
+KDM2B	--|	KIAA1447
+GCR	--|	PI3K cat class IA (p110-alpha)
+14-3-3 sigma	-->	PTPN2
+NUR77	--|	FKHR
+SOX2	-->	LYRM1
+N-CoR	--|	CRY2
+GCR	-->	Scd2
+SOX2	-->	BTF
+CBP	-->	MIF
+NF-kB1 (p50)	-->	CFTR
+RBM8 (Y14)	-->	PRMT5
+IGF2BP3	--|	PR (nuclear)
+Cullin 4B	--|	T-bet
+ERp44	--|	IP3R1
+STAT3	-->	Fra-1
+RBP-J kappa (CBF1)	-->	IDH1
+RBP-J kappa (CBF1)	-->	c-Kit
+TCF7L2 (TCF4)	--|	JMJD2A
+RNF20	--|	NANOG
+N-CoR	--|	PI3K reg class IA (p85-alpha)
+Neurochondrin	-->	mGluR5
+Galectin-1	-->	GRP78
+EGR1	-->	GABA-A receptor alpha-2 subunit
+Elk-1	-->	CHD8
+NCOA1 (SRC1)	--|	Semaphorin 6A
+MEF2B	-->	Bcl-6
+ROR-alpha	--|	Semaphorin 3D
+BOAT	--|	HEY1
+PNRC2	-->	Esrrg
+SHPS-1	-->	SKAP55
+ZNF288	--|	SSBP2
+c-Jun	-->	N-cadherin
+EZH1	--|	Cyclin D2
+E4BP4	--|	Bcl-6
+C/EBPbeta	-->	SOX6
+FAK1	-->	GSK3 beta
+RelA (p65 NF-kB subunit)	-->	NLRX1
+RelB (NF-kB subunit)	-->	IMP3
+Androgen receptor	-->	HZwint-1
+TRAF3	--|	IL-17 receptor
+SHC3	-->	p200RhoGAP
+FUS	-->	Kazrin
+C/EBPbeta	-->	NUR77
+THAP3	-->	SMYD3
+SOX2	-->	PCGF5
+TAF15	-->	UBE2J2
+NURR1	-->	Neuropilin-1
+CXXC6	-->	GADD45 beta
+Cullin 4A	--|	REDD1
+GCR	--|	NF-kB1 (p105)
+MITF	-->	ORC6L
+HDAC2	--|	TDRKH
+UBE2D2	--|	HIPK2
+VIL2 (ezrin)	--|	CHL1
+UBE2D2	-->	Zibra
+AMPK alpha 1 subunit	-->	PPAR-beta(delta)
+Rad21	-->	STAG2
+hASH1	--|	Golgin-95
+GAS41	--|	p21
+PUM1	--|	Wee1
+DDX5	--|	RelA (p65 NF-kB subunit)
+CTCF	--|	6330514A18Rik
+SOX2	-->	ID4
+PR (nuclear)	-->	KLF5
+WDR45	-->	PRMT5
+Sin3A	--|	CDC18L (CDC6)
+RBP-J kappa (CBF1)	-->	MEL1
+FKHR	--|	TIMP1
+FOXP1	-->	ATF-3
+Sin3A	--|	Rab-11A
+NANOG	-->	ABCG1
+Kv1.3	-->	STAT1
+KDM2B	--|	p18
+HDAC2	--|	NEUR1
+TCF7L2 (TCF4)	-->	COX-2 (PTGS2)
+PUM1	-->	FOXP1
+CABIN1	--|	NOXA
+Fra-1	-->	VGF
+PCBP-4 (mcg10)	-->	Mu-type opioid receptor
+SOX2	-->	GFPT2
+MLL1 (HRX)	-->	G6PE
+JMJD6	-->	C/EBPalpha
+GCR	-->	RhoBTB2
+SMAD4	-->	ADAM15
+SOX2	-->	Lamin A/C
+KLF5	-->	MDM2
+AMBRA1	--|	Cyclin D2
+PACS-1	-->	WDR37
+NANOG	--|	NDR2
+PKC-epsilon	--|	Insulin receptor
+ASXL1	-->	FUS
+NF-kB1 (p50)	-->	CRMP1
+PCBP-1	-->	MTCBP-1
+CTCF	--|	RNF180
+AML1 (RUNX1)	--|	SEMACAP3
+DMAP1	-->	BUB3
+UBE2A	-->	p53 (mitochondrial)
+RPS25	--|	MDM2
+TARDBP (TDP43)	-->	Kv4.2 channel
+SMAD4	-->	PTHrP
+KIAA0247	-->	WWP2
+c-Jun	-->	MYH9
+STAT3	-->	INO80
+Sirtuin4	--|	GLSK
+c-Fos	-->	Chromogranin A
+CREAM1	-->	TGF-beta 2
+GCR	-->	RRAD
+PR65-alpha	--|	Androgen receptor
+PARD6A	-->	PKC-lambda/iota
+SOX2	-->	SMC6
+SOX2	--|	eIF4B
+G-protein alpha-11	-->	GRP78
+CCDC6	--|	PPP4C
+Cullin 4B	-->	PRMT5
+Mi-2 beta	--|	ID2
+ATAD5	--|	PCNA
+Sirtuin6	--|	ALDOA
+FOXK1	--|	FBXW11
+STAT3	-->	FANCC
+SOX2	--|	PTPR-zeta
+p53	-->	CPEB4
+STAT2	--|	Sirtuin4
+FBXL4	-->	JMJD2A
+p53	--|	Rad21
+Elk-1	-->	CDK7
+Sirtuin1	-->	Rictor
+BACH1	-->	RBBP5
+EPAS1	-->	PDCD4
+C/EBPdelta	-->	p27KIP1
+STAT5B	-->	IGF-1 receptor
+STAT1	-->	HSP90 beta
+FOXO3A	-->	F263
+BRG1	-->	ALPL
+TCF7L2 (TCF4)	--|	DGAT2
+KDM2A	--|	Cyclin D1
+NCOA1 (SRC1)	--|	DNAJC6
+Calmyrin	--|	DAT1
+BTF	-->	Cyclin D1
+RPL41	-->	Casein kinase II, beta chain (Phosvitin)
+TRAP150	-->	PER2
+Neuropilin-1	-->	Plexin A2
+eRF1	-->	GSPT1
+c-Myb	-->	C/EBPbeta
+VIL2 (ezrin)	--|	TMEM8B
+PR (nuclear)	--|	REV-ERB-BETA
+RANBP8	-->	eIF2C2 (Argonaute-2)
+EGR2 (Krox20)	-->	BACH2
+THAP3	-->	UQCRH
+MeCP2	--|	GSTP1
+p53	-->	KIAA0247
+CBP	-->	Bim
+EPAS1	-->	C/EBPbeta
+BBS4	-->	BBS7
+Dyskerin (NAP57)	-->	NANOG
+G9a	--|	JAK2
+Ikaros	--|	PI3K cat class IA (p110-delta)
+COMMD10	--|	RelA (p65 NF-kB subunit)
+p90RSK2(RPS6KA3)	-->	ATM
+PLAT (TPA)	-->	Galectin-1
+CTCF	-->	WSB1
+RelA (p65 NF-kB subunit)	-->	PRDX3
+XBP1	--|	XIAP
+DDX9	-->	eIF2C2 (Argonaute-2)
+Sirtuin6	--|	GLUT1
+Elk-1	-->	NF45 (ILF2)
+beta-TrCP	--|	Alpha-1 catenin
+c-Jun	-->	Lamin A/C
+FOXO3A	-->	p21
+PCNA	-->	POLD reg (p68)
+FIP200	--|	Ski
+RHEB2	--|	BACE1
+DDX5	-->	CBP
+KLF4	-->	FXYD6
+EGR1	-->	TET2
+FKHR	-->	Beta-arrestin1
+hnRNP R	-->	NDRG1
+BRD2	-->	BAF250A
+N-CoR	--|	c-Fos
+Rictor	-->	FBXW7
+Birc6	--|	p53
+SMAD2	-->	ARX
+FKHR	-->	CIITA
+MOZ	-->	HPK38
+RelA (p65 NF-kB subunit)	--|	CREG2
+Esrra	-->	Sirtuin5
+PIMT	--|	MEF2A
+SRF	-->	OFD1
+MDM2	-->	ACOX1
+RelA (p65 NF-kB subunit)	-->	PPM1L
+GCR	--|	ENC1
+GBR1	-->	Kir3.1
+MeCP2	--|	APOE
+c-Myb	-->	CISH
+IRS-2	-->	SHP-2
+STIM2	-->	ORAI1
+RGS10	--|	G-protein alpha-i1
+2310001H12Rik	--|	PTCH1
+SMAD2	-->	DLX5
+HDAC5	--|	p21
+GANP	--|	PRMT5
+Fra-2	-->	ITGAX
+LXR-beta	-->	NOR1
+PML	--|	KLEIP
+ALY	-->	MITF
+NOC2L	--|	p53
+PTGES3L	-->	GCR
+RBP-J kappa (CBF1)	-->	K-RAS
+EGLN2	-->	CYB5R4
+BRG1	-->	MITF
+MAZ	-->	NR1
+STAT3	-->	UQCR11
+PML	-->	c-Jun
+NUP98	--|	FKHR
+DOT1	-->	TCF8
+c-Rel (NF-kB subunit)	-->	Ryanodine receptor 1
+ATF-3	-->	EPAS1
+RKIP	-->	TBK1
+C/EBPalpha	--|	TIMP1
+ING1	-->	MDM2
+SUPT6H	-->	KLF4
+RelA (p65 NF-kB subunit)	-->	TSLC1
+GLI-2	-->	Keratin 17
+Sirtuin1	-->	NAT-1
+c-Myb	-->	API5
+GADD45 alpha	-->	CXXC6
+GSK3 beta	--|	SMAD4
+Esrrg	-->	TY3H
+14-3-3 sigma	--|	MYH10
+Androgen receptor	--|	FKHR
+KLF11 (TIEG2)	--|	SMAD7
+Sirtuin6	--|	RelA (p65 NF-kB subunit)
+PLXDC2	-->	GPR133
+UBTD1	-->	beta-TrCP
+RAIG1	-->	WWP1
+C/EBP zeta	--|	Resistin
+E2F4	-->	MAP1LC3B
+Androgen receptor	--|	VDR
+p53	--|	ALPL
+RBP-J kappa (CBF1)	-->	Ephrin-B2
+ETR3	-->	VEGF-A
+TCF8	--|	PAK3
+CRMP2	-->	N-type Ca(II) channel alpha1B
+L-selectin	-->	c-Abl
+PNRC2	-->	GCR
+RXRA	--|	RelA (p65 NF-kB subunit)
+IGF-1 receptor	-->	FAK1
+YTHDF3	-->	eIF4B
+FOXO3A	-->	Thioredoxin
+NCOA2 (GRIP1/TIF2)	-->	ARID4A
+SRF	-->	BOK
+FOXO3A	-->	FOXP1
+PRMT5	-->	CIITA
+hASH1	-->	ATOH8
+Rb protein	-->	Ifi202a
+PBX1	-->	TY3H
+PHF20	-->	RelA (p65 NF-kB subunit)
+Connexin 43	--|	Cyclin D1
+VDR	-->	ACOX1
+EGR1	-->	PIRH2
+SUPT6H	-->	ZC3H12C
+HDAC2	--|	PPP2R3A
+TNRC6A	--|	eIF2C2 (Argonaute-2)
+PPAR-beta(delta)	-->	VEGF-A
+HDAC5	-->	c-Jun
+NUR77	-->	F263
+CXXC6	--|	SCP1
+IRF8	-->	IL-21
+CRMP2	--|	ROCK2
+PPAR-gamma	-->	Beta-parvin
+ZBTB2	-->	ATP1A2
+Elk-1	-->	Sirtuin6
+SMAD1	-->	ID4
+PDE6D	-->	RP3
+SOX2	-->	HB-EGF
+NANOG	-->	NTAN1
+Synaptotagmin I	--|	Kv1.4
+Esrrg	-->	Esrra
+PSP	-->	Calpain 1(mu)
+Bcl-10	-->	Casein kinase I alpha
+ATF-4	-->	NT/NN
+AML1 (RUNX1)	-->	p38alpha (MAPK14)
+DLK	--|	TORC1
+MCM2	-->	MUS81
+NUP107	-->	NUP133
+C/EBPdelta	-->	Resistin
+HSP90 beta	-->	GABARAPL1
+NCOA6 (TRBP)	-->	SMAD2
+hASH1	--|	NP14
+BRG1	-->	ATF-3
+C/EBPbeta	-->	ITGAX
+XBP1	--|	TSSC3
+Synaptotagmin I	-->	APP
+UCHL1	--|	APP
+FNDC3B	--|	SMAD1
+FBXW11	--|	Wee1
+Midn	--|	c-Fos
+Beta-arrestin1	-->	NEDD4L
+BAZF	--|	RBP-J kappa (CBF1)
+DEK	--|	RelA (p65 NF-kB subunit)
+SMAD4	--|	BMI-1
+ATF-4	-->	VEGF-A
+MEF2C	-->	PLK2
+UBE2D2	-->	SMURF1
+HSF2	-->	RBBP5
+G9a	-->	DDX5
+Pellino 1	--|	Bcl-6
+TOP1	-->	c-Jun
+Pyk2(FAK2)	--|	p53
+Amyloid beta 42	--|	HCD2
+TR-beta	--|	PMVK
+DOT1	-->	GFOD1
+PROX1	-->	SOX2
+UBE2D2	--|	p53
+RAD9A	-->	FOXP1
+NUR77	--|	GCR
+HSP90 beta	-->	LRRK2
+SOX2	--|	L-Myc
+CXXC6	-->	Rab12
+PCBP-1	--|	p21
+ATAD5	-->	DDX5
+PID1	--|	LRP1
+HDAC2	--|	GAD2
+RelA (p65 NF-kB subunit)	-->	c-Kit
+NFAT-90	-->	PSMD11
+RelA (p65 NF-kB subunit)	-->	T-bet
+SLC9A1	-->	Calcineurin A (alpha)
+RXRA	-->	ABCG1
+PDGF-R-alpha	-->	PI3K reg class IA (p85-alpha)
+DHE3	--|	PPAR-gamma
+MSK1	-->	Fra-1
+TGIF2	--|	SLIT2
+TIEG1	-->	SERTAD1
+RelA (p65 NF-kB subunit)	-->	IL-1 alpha
+CXXC6	-->	Mu-type opioid receptor
+STAT3	-->	IDO1
+RBP-J kappa (CBF1)	--|	Pro-CCK
+RARalpha	-->	Raptor
+Menin	-->	WNT7A
+RUNX3	-->	Bim
+VASP	-->	Alpha-fodrin
+SRF	-->	ZSWIM4
+UBE2D2	-->	Pellino 1
+JunD	-->	ITGAX
+RBP-J kappa (CBF1)	-->	SOX2
+NANOG	-->	R-Ras
+p53	-->	NKIRAS1
+MeCP2	--|	GM3 synthase
+GLI-2	-->	ABCC1
+Esrra	--|	TGF-beta 2
+Galectin-1	-->	RACK1
+HEY1	-->	ATAD5
+MEF2C	-->	CIITA
+MEF2C	-->	SLC6A6
+ATF-7	--|	STAT1
+PPAR-gamma	-->	CARS2
+CTCF	--|	TGF-beta 2
+PPAR-gamma	-->	CMKLR1
+E4F1	-->	TTI2
+MYSM1	--|	p53
+PKM2	--|	AML1 (RUNX1)
+GCR	-->	Elk-1
+ZNF265	--|	SMAD1
+USP7	-->	Nibrin
+T-bet	--|	FOXO3A
+CREM (repressors)	--|	PDP2
+RelA (p65 NF-kB subunit)	-->	Neurotractin
+YY1	-->	VEGF-C
+NF-kB1 (p50)	-->	NUR77
+EKLF1	-->	CDYL
+KLF4	--|	PER1
+FAM108A1	--|	SCAP
+hASH1	-->	Cyclin D1
+Esrra	-->	MAT2A
+VDR	--|	TRPC6
+c-Fos	-->	HUNK
+DDX6	-->	APP
+GLI-2	-->	Follistatin
+NCAM1	-->	BETA-PIX
+c-Jun	-->	Protocadherin 7
+SOX6	-->	COMP
+CALCOCO1	-->	p21
+BAF200	-->	ALPL
+Par-4	-->	TFPT
+RRP1B (KIAA0179)	--|	SMRT
+NF-kB1 (p105)	-->	Epimorphin
+SOX2	-->	PHLDA1
+RGS4	--|	COPB2
+GCR	--|	MKP-2
+RNF4	--|	NUR77
+RNF20	-->	UBE2A
+STAT3	-->	S1P1 receptor
+CXXC6	--|	HRK
+SPOP	--|	PIP4K2B
+Androgen receptor	-->	SPOCK
+hASH1	--|	Epsin 1
+Ifi202a	--|	RelA (p65 NF-kB subunit)
+MeCP2	--|	NOR1
+VCP	-->	p53
+Elk-1	-->	TAF12
+c-Fos	-->	Bcl-XL
+PDZ-RhoGEF	-->	ABCA1
+SOX2	-->	TNIP1
+c-Jun	-->	SOX2
+eIF2C2 (Argonaute-2)	--|	EGR2 (Krox20)
+PHF2	-->	p21
+STAT3	-->	OSF-2
+NCOA1 (SRC1)	--|	SLIT2
+GABP alpha	-->	UBE3A (E6-AP)
+RARalpha	-->	DT3UO
+MLL3	-->	PR (nuclear)
+BRG1	-->	CD47
+VIL2 (ezrin)	-->	TPM3
+TRRAP	-->	SMAD2
+STAT1	-->	LXR-beta
+c-Jun	-->	PLC-gamma 1
+TR4	-->	ATM
+ING1	-->	Cyclin D1
+Neuropilin-1	-->	Plexin D1
+KLF4	-->	MUL
+Androgen receptor	-->	FLRE
+Rb protein	-->	NCOA2 (GRIP1/TIF2)
+C/EBPbeta	-->	Transgelin
+BAF57	-->	CYLD
+SOX2	-->	GADD45 beta
+TBK1	--|	RPS6
+Elk-1	-->	DRIP130
+PRMT5	--|	ID4
+EGR1	-->	LIX1L
+TR-beta	-->	Sortilin
+ZNF162	--|	TCF7L2 (TCF4)
+GRP78	-->	PI3K cat class IA (p110-alpha)
+STAT1	-->	LAMB1
+EKLF1	-->	XIAP
+SMARCAL1	-->	DROSHA
+AML1 (RUNX1)	--|	STAT5B
+TCF8	--|	Connexin 43
+Sin3A	--|	PER2
+C/EBPdelta	-->	MSH5
+c-Jun	-->	GSTP1
+SIP1 (ZFHX1B)	-->	AHNAK
+Gelsolin	--|	p53
+VCP	-->	USP2
+BACH2	--|	C/EBPalpha
+MLL2	-->	FBXW7
+BRG1	-->	DUSP5
+hASH1	-->	ARC
+Menin	--|	Perforin
+UBE2D2	-->	TRIM54
+beta-TrCP	--|	PER2
+NANOG	--|	BAF155
+CHIP	--|	SOX2
+p53	--|	Quinone oxidoreductase
+Fra-2	-->	TY3H
+FOXO3A	-->	IL-21
+JMJD6	-->	KIAA0913
+C/EBPalpha	-->	Bim
+Sin3A	--|	EGR1
+SOX2	--|	BDH
+DOT1	-->	NF-AT5
+RBB2	--|	NOTCH2 receptor
+BAZ1B	-->	c-Fos
+Androgen receptor	--|	KIAA1217
+STAT3	--|	FGL2
+VASP	--|	Beta-arrestin2
+SUMO-3	--|	Esrrg
+HDAC2	-->	PTCH1
+DDX5	-->	BRG1
+SUMO-3	-->	CTCF
+CABIN1	--|	MEF2B
+GCR	--|	PC1
+STAT3	-->	Cullin 4A
+PRMT5	--|	ST7
+CBP	-->	ABCA1
+Syntaxin 8	--|	CFTR
+TCF8	--|	GADD45 beta
+Galectin-1	-->	PLAT (TPA)
+SRF	-->	FALZ
+TCF7L2 (TCF4)	-->	CHIP
+RARgamma	-->	NOSTRIN
+PML	-->	NANOG
+E2F5	--|	ID1
+NANOG	-->	IEX1
+ZNF148	-->	PDCD4
+LXR-beta	-->	APOE
+RBM8 (Y14)	-->	STAT3
+SOX2	-->	AML1 (RUNX1)
+DDX5	-->	Hamartin
+Androgen receptor	--|	p53
+GCR	-->	KLF4
+AML1 (RUNX1)	-->	Semaphorin 4D
+Esrra	-->	PR (membrane)
+SMU1	-->	SMC1
+YTHDF1	-->	ARHGEF2
+TIP27	-->	SRP54
+KLF5	--|	ICRF
+PGHD	--|	GSK3 beta
+SFRS10	-->	RGS4
+KLF4	-->	Gsta4
+14-3-3 zeta/delta	--|	PI3K cat class III (Vps34)
+RPRD1B	-->	TCF7L2 (TCF4)
+YMER	--|	AIM2
+NRBF2	-->	PI3K cat class III (Vps34)
+RPS15	-->	MDM2
+RRP1B (KIAA0179)	--|	PRKCBP1
+ITF2	-->	NUR77
+XBP1	-->	C/EBP zeta
+NURR1	-->	SIAT1
+Fra-1	--|	SALL2
+p53	-->	METTL14
+LCMR1	-->	LRRTM3
+SOX2	-->	DHFR
+Kaiso	-->	p21
+CBP	-->	B-FABP
+NANOG	--|	SOX11
+SON	--|	MLL1 (HRX)
+Rb protein	--|	C/EBP zeta
+CORO1C	--|	TD-60
+KLF4	--|	HEY1
+RelA (p65 NF-kB subunit)	-->	KIAA1166
+c-Fos	-->	MVD
+DDB2	--|	NEDD4L
+EPAS1	-->	F263
+NFIB	-->	SLC1A2/EAAT2
+NANOG	-->	DPP4
+RelA (p65 NF-kB subunit)	-->	ICA69
+SRF	-->	Sirtuin1
+LRP1	--|	CHFR
+LXR-beta	-->	ACSL3
+Androgen receptor	-->	PRMT6
+SRF	--|	IP3R2
+NCOA1 (SRC1)	--|	PPCKM
+CoREST	--|	Synaptotagmin IV
+FNDC3B	--|	STAT3
+NANOG	--|	ZO-1
+NFIX	--|	ADAM12
+STAT3	--|	WaspIP
+Nucleophosmin	--|	USP7
+c-Myb	-->	IP3R1
+CDYL	--|	GABA-A receptor beta-3 subunit
+Mi-2 beta	--|	REDD1
+p53	-->	CALCOCO1
+JunB	-->	TIMP2
+c-Fos	-->	Ankrd56
+REV-ERBalpha	-->	OGT (GlcNAc transferase)
+CIRBP	-->	p27KIP1
+ATF-4	-->	NBR1
+FBXW7	--|	NFBD1
+NANOG	-->	RBP-J kappa (CBF1)
+TIF1-beta	-->	NUR77
+GLI-2	-->	Androgen receptor
+Mcl-1	-->	NOXA
+RelB (NF-kB subunit)	-->	PERC
+Esrra	-->	COX IV-1
+hASH1	-->	UNC5B
+NCS-1	-->	TRPC5
+GCR	-->	Beta-arrestin1
+Dystrophin	-->	AHNAK
+LAPTM4B	-->	SLC3A2
+ARIH2 (TRIAD1)	--|	MDM2
+CTCF	--|	DTWD2
+TCF8	-->	Neuropilin-1
+c-Jun	--|	ROR-alpha
+SOX2	-->	Girdin
+alphaAPPs	--|	BACE1
+NF-kB1 (p50)	-->	RelB (NF-kB subunit)
+WIPF3	-->	N-WASP
+p53	-->	GADD45 gamma
+TIA-1	--|	TGF-beta 1
+Fra-1	-->	JunD
+PI3K reg class IA (p85-alpha)	-->	XBP1
+C/EBPbeta	-->	AMOTL1 (Jeap)
+TCF7L2 (TCF4)	--|	Jade-1
+Lamin A/C	--|	c-Fos
+RelB (NF-kB subunit)	-->	Bcl-XL
+DDX5	-->	MEF2C
+AF-17	-->	DT3UO
+hASH1	-->	GADD45 gamma
+IGF2BP3	-->	ULK1
+PPAR-gamma	-->	Resistin
+GABP alpha	-->	ASXL1
+MYT1	--|	OLIG1
+NFAT-90	--|	STAT1
+c-Jun	-->	LAMR1
+hnRNP A1	--|	C/EBPalpha
+N-CoR	--|	ABCA1
+RAD1	-->	DNA polymerase beta
+SMAD4	--|	DLK
+PARN	--|	p53 (mitochondrial)
+ATF-3	-->	MTHFD2
+PPAN	--|	Nucleophosmin
+CTCF	--|	CD83
+EED	--|	NELL2
+MEF2A	-->	ITGA7
+ARRDC3	-->	NEDD4L
+SOX2	-->	DDHD2
+YY1	-->	SAE2
+KLF4	-->	Dystrophin
+KLF4	-->	Tropomyosin-4
+HDAC5	--|	MEF2C
+ZNF306	-->	CALDAG-GEFI
+USP7	-->	GLUT1
+Androgen receptor	--|	FN14(TNFRSF12A)
+c-Jun	-->	Sirtuin1
+UBE2B	-->	RNF20
+SMYD3	-->	CDCA1
+hASH1	-->	MTGR1
+SOX2	--|	EPHX2
+Ikaros	-->	ALPL
+SPOP	--|	NANOG
+SRF	-->	Ferroportin 1
+c-Jun	-->	SRX1
+PAI2	-->	p21
+PAF1	--|	SUPT6H
+FOXK1	-->	p70 S6 kinase1
+eIF2C2 (Argonaute-2)	-->	JHDM1D
+SOX2	--|	Secretagogin
+HSF2	--|	BTG2
+TPPP (p24)	--|	PRNP
+PDCD4	--|	Bcl-XL
+NF-AT5	-->	RelA (p65 NF-kB subunit)
+PABPC1	-->	SETDB1
+C11orf9	--|	RASSF3
+RelA (p65 NF-kB subunit)	--|	Hap-1
+c-Rel (NF-kB subunit)	-->	PLK4 (STK18)
+BRG1	-->	PR (membrane)
+RelA (p65 NF-kB subunit)	-->	N-CoR
+STAT3	-->	Roquin
+CBP	-->	NR2B
+RGS19	-->	NDPK B
+CRY2	--|	PP5
+SOX2	-->	P-cadherin
+WTAP	-->	CDK14
+EGR1	--|	SPRY4
+CABIN1	--|	GADD45 alpha
+SDOS	-->	LSM14A
+GASC1	-->	SOX2
+EGR1	-->	CBP
+IQGAP2	--|	IRS-1
+PPAR-gamma	-->	SLC1A1/EAAT3
+DLX5	-->	ALPL
+FKHR	--|	SPRY4
+SOX2	-->	DNA polymerase zeta
+MEL1	--|	beta-MHC
+SAE1	-->	SUMO-3
+FOXO3A	-->	ULK2
+c-Kit	-->	IL-2R gamma chain
+RelA (p65 NF-kB subunit)	--|	BC023055
+PCNA	--|	DDB2
+Mcl-1	-->	TPT1
+Huntingtin	--|	PSD-95
+CUGBP1	-->	DEK
+Cyclin D1	-->	TCF7L2 (TCF4)
+BRG1	-->	MEL1
+FLII	-->	R-Ras
+EKLF1	-->	Pim-1
+PBX1	-->	EED
+RUNX3	-->	p53
+Pellino 1	-->	ATM
+Trp53inp2	-->	PLP1
+FBXW7	--|	C/EBPdelta
+AMBRA1	--|	Cyclin D1
+STAT3	-->	Peg10
+GBR1	-->	GluR1
+STAT3	-->	PLAT (TPA)
+NANOG	-->	SALL-1
+RelA (p65 NF-kB subunit)	-->	BTF
+TCF8	-->	KLF4
+OAZIN	-->	Cyclin D1
+GADD45 gamma	-->	PPAR-gamma
+c-Myb	-->	Androgen receptor
+SRF	--|	CCDC80
+HBXIP	-->	PPAR-beta(delta)
+E2F4	--|	p27KIP1
+ASXL1	-->	RARalpha
+SMAD1	-->	DGAT2
+NANOG	-->	LIPH
+REV-ERBalpha	-->	PDE8A
+LXR-beta	-->	MAP1LC3B
+EGLN2	-->	HMGE
+Ikaros	-->	TMEM90A
+GASC1	--|	p53
+RACK1	-->	MKK7 (MAP2K7)
+ZNF288	--|	hASH1
+Androgen receptor	-->	SNM1
+hASH1	-->	Secretagogin
+RelA (p65 NF-kB subunit)	--|	PER2
+Clathrin heavy chain	-->	Androgen receptor
+PES1	-->	Cyclin E2
+TR-beta	-->	Myelin basic protein
+DDX5	-->	Stanniocalcin 1
+MITF	--|	STAT1
+AML1 (RUNX1)	-->	GPAM
+HPK38	--|	CDC25B
+HIC5	-->	KLF4
+AML1 (RUNX1)	--|	EGR2 (Krox20)
+BAIAP2	-->	VASP
+NCOA1 (SRC1)	-->	TR-beta
+YY1	--|	PRMT5
+RelA (p65 NF-kB subunit)	-->	SLC5A2
+Esrra	-->	NOL1
+HDGF	--|	SMYD1
+PERC	-->	c-Fos
+Esrra	--|	NOXA
+SSAT	-->	HPK38
+TTI2	-->	ATM
+TCF7L2 (TCF4)	-->	cytochrome P-450 reductase
+Androgen receptor	-->	PMEPA1
+eIF4E	-->	STAT3
+FBXW11	--|	SPAR (SIPA1L1)
+ATM	-->	BTF
+NUR77	--|	IKK-epsilon
+PPP2R5D	-->	PR65-alpha
+Menin	--|	JunD
+IGF2BP3	-->	Cyclin D1
+Androgen receptor	-->	BRD2
+Androgen receptor	--|	ST7
+PARD3	--|	14-3-3 zeta/delta
+AML1 (RUNX1)	-->	ROR-alpha
+CBP	-->	XIAP
+SOX10	-->	MIA
+RelB (NF-kB subunit)	--|	NQO1
+FKHR	-->	NDUFAB1
+EGR1	-->	TSLP
+ALKBH5	-->	MCM7
+DAL1	-->	GRP78
+FKHR	-->	TGF-beta 1
+TORC1	-->	CART
+ZNF653	--|	PPAR-gamma
+p53	--|	PABP2
+CTCF	--|	WNT4
+PRKCBP1	-->	SMCY
+Androgen receptor	-->	MCCC2
+C/EBPbeta	-->	BRM
+GADD45 gamma	-->	NXF
+RelA (p65 NF-kB subunit)	-->	RACK1
+RhoE	-->	RelA (p65 NF-kB subunit)
+STAT3	-->	MKP-1
+CTCF	--|	FLJ10094
+GLI-2	-->	c-Jun
+SMRT	--|	ID2
+NR1	-->	SHC3
+SET8	-->	Androgen receptor
+C/EBPbeta	-->	ABCC1
+ATF-7	-->	SETDB1
+BRG1	-->	APG16L1
+NCOA1 (SRC1)	-->	Cyclin D1
+CoREST	--|	Plakophilin 1
+FNBP1	-->	N-WASP
+Nociceptin	-->	Nociceptin receptor
+p53	--|	CDC25B
+Androgen receptor	-->	C/EBPdelta
+NANOG	--|	GATE-16
+Rab-11A	--|	TfR1
+EGR2 (Krox20)	-->	CG4853
+SON	--|	EGR1
+p53	-->	LIPIN1
+PROX1	-->	SYP
+TCF7L2 (TCF4)	-->	C11orf9
+SMAD4	-->	MSX-2
+MOZ	-->	CDC18L (CDC6)
+TBP	-->	NELL2
+c-Jun	-->	PBR
+FOXP1	--|	HIP12
+TFII-I	-->	STAT1
+N-Ras	-->	PI3K cat class IA (p110-delta)
+SOX2	-->	GOLPH2
+RelB (NF-kB subunit)	-->	MDM2
+IRF6	--|	GLUT1
+LRWD1	-->	G9a
+C11orf9	--|	Midn
+JMY	-->	p53
+RNF4	--|	TIF1-beta
+KLF4	-->	ID1
+NR2F1	-->	SLC9A1
+hnRNP C	--|	REDD1
+EGR1	-->	c-Fos
+FOXO3A	--|	RelA (p65 NF-kB subunit)
+TET2	-->	FOXP1
+DDX3X	-->	K-RAS
+TEF-1	-->	MRPL21
+C/EBPbeta	-->	BTG2
+c-Fos	-->	Galectin-1
+TCF7L2 (TCF4)	-->	Insulin receptor
+SOX2	-->	N4BP3
+NCS-1	-->	IP3R2
+Rad21	-->	XBP1
+TrkB	-->	SLITRK5
+PER2	--|	G3P2
+SMAD1	-->	NANOG
+CTCF	--|	SORL1
+RBB2	-->	RPL7
+c-Fos	-->	PR (membrane)
+MDM2	--|	HBP1
+Casein kinase I epsilon	--|	GABA-A receptor beta-3 subunit
+TIF1-beta	-->	HIC5
+RCD1	--|	c-Myb
+c-Fos	-->	MMP-2
+NF-kB1 (p105)	--|	NF-kB1 (p50)
+Esrrg	-->	ATP1A1
+Fra-1	-->	PDGF-B
+CHD5	--|	MDM2
+hASH1	-->	Oct-1
+JunD	-->	GADD45 alpha
+PPAR-beta(delta)	-->	LPAR1
+SOX10	-->	CNP
+Contrin (MSY2)	--|	RGS16
+EGR1	-->	Bim
+RelA (p65 NF-kB subunit)	--|	CTCF
+SDF2L1	-->	DNAJB11
+Sin3A	--|	MSX-2
+GASC1	-->	ALKBH5
+GABP alpha	-->	BRG1
+VCP	--|	Nibrin
+DOT1	-->	AMOTL1 (Jeap)
+PLC-gamma 1	-->	NF-AT5
+TBC1D1	-->	PPAR-gamma
+YY1	-->	PPCKM
+RXRA	--|	FAM130A2
+PHF2	-->	Rad21
+GCR	-->	C9orf150
+RNF220	-->	USP7
+PRKCBP1	-->	DR1
+hASH1	--|	CD276
+BAF47	-->	NUP210
+p21	-->	RhoA
+ATF-4	-->	APG12
+CIRBP	-->	PER3
+CTCF	-->	MPPED2
+p53	-->	IER5
+RXRA	--|	NF-AT5
+NURR1	-->	Doublecortin
+Wdr20a	-->	VCP
+p21	-->	WIP1
+N-CoR	--|	Scd2
+C/EBPbeta	-->	KLF5
+STAG2	-->	SMC1
+ATF-4	--|	EGR1
+c-Fos	-->	KLF4
+WNT4	-->	MUSK
+hASH1	--|	ZSWIM4
+EGR1	--|	PAK6
+TEF-1	-->	SLC38A1
+CHD8	-->	Brca2
+DTL (hCdt2)	--|	p21
+SOX2	-->	Sirtuin1
+MUS81	-->	TCF8
+FOXP1	-->	Bcl-XL
+NUR77	-->	Tubulin beta 3
+BAFF-R	--|	TRAF3
+NF-kB1 (p105)	-->	RBB2
+Androgen receptor	-->	PIRH2
+NUR77	--|	TCF7L2 (TCF4)
+Rad21	-->	SMAD7
+MYH10	--|	DBS
+R-spondin 4	-->	LGR4
+Sin3A	-->	FOXN3
+KDM2B	--|	PDGF-R-alpha
+G-protein alpha-o	--|	Alpha-fodrin
+SOX2	--|	SET7
+SIN1	-->	N-Ras
+SOX2	-->	PRIC320
+CTCF	-->	SV2B
+DNA2	-->	IGF2BP3
+Rb protein	--|	Ebp1
+RelA (p65 NF-kB subunit)	-->	EGR2 (Krox20)
+p90RSK2(RPS6KA3)	-->	FGFR2
+IRF8	-->	MEF2C
+PSPC1	-->	NANOG
+TNRC6A	--|	Cyclin D1
+TEF-1	-->	IRS-1
+DDX6	-->	RelA (p65 NF-kB subunit)
+RelA (p65 NF-kB subunit)	-->	BMI-1
+KLF4	-->	EXTL1
+C/EBP zeta	--|	TCF7L2 (TCF4)
+REV-ERB-BETA	--|	REV-ERBalpha
+MMD	-->	K-RAS
+FosB	-->	MAT2A
+YTHDF2	--|	AML1 (RUNX1)
+RelA (p65 NF-kB subunit)	-->	IFNGR2
+Securin	-->	Cyclin D3
+FOXP1	--|	ANKRD33B
+TCF7L2 (TCF4)	-->	TGF-beta 3
+FOXO3A	--|	SOX2
+NANOG	--|	HZwint-1
+RPS7	-->	GADD45 alpha
+BACH1	--|	HBB2 (mouse)
+FOXO3A	-->	DT3UO
+N-CoR	--|	p18
+NR2B	--|	p200RhoGAP
+NF-AT5	-->	CIITA
+SOX2	--|	AL3A2
+ZNF512B	--|	DROSHA
+ROR-alpha	-->	KLF4
+HDAC2	--|	SMAD7
+CBP	-->	SRF
+SMRT	-->	p21
+USP7	--|	FOXO4
+PPAR-beta(delta)	-->	LPIN2
+PPAR-gamma	-->	FADS1
+EP400	-->	PPAR-gamma
+NAB2	--|	ID2
+RelB (NF-kB subunit)	-->	TSLC1
+SMAD5	-->	N-cadherin
+THAP1	--|	LOC688786
+NRF3	-->	Transgelin
+CIITA	--|	Sirtuin1
+RWDD3	-->	GCR
+MEF2C	-->	AUTS2
+14-3-3 theta	-->	TARDBP (TDP43)
+HUS1	-->	FEN1
+NANOG	-->	ZBTB44
+beta-TrCP	--|	BMI-1
+TRRAP	-->	TGFBRAP1
+ASXL1	--|	PPAR-gamma
+beta-TrCP	--|	SPAR (SIPA1L1)
+Esrra	-->	ESM-1
+RXRA	-->	RhoB
+AKAP350	-->	cAMP-GEFI
+C/EBPalpha	-->	c-Fos
+SOX2	-->	IGF-1 receptor
+GAB2	-->	PI3K reg class IA (p85-alpha)
+POGZ	-->	GABA-A receptor alpha-2 subunit
+NANOG	--|	Casein kinase I alpha
+PNRC2	--|	PHLDA1
+BRG1	-->	ABCG1
+JMJD1A	--|	MAP1LC3B
+HDAC2	--|	ARG2
+MED1	-->	CDC18L (CDC6)
+INSR beta	-->	EGR1
+PCBP-1	-->	Mu-type opioid receptor
+c-Fos	-->	HB-EGF
+MDM2	-->	PSAT
+TCF8	-->	Tubulin beta 3
+SOX2	--|	EGR2 (Krox20)
+Rb protein	--|	DT3UO
+Esrra	-->	GABP alpha
+HDAC2	--|	SYP
+RelA (p65 NF-kB subunit)	-->	ATP6AP2
+MITF	-->	Hice-1
+SMAD5	-->	MSX-2
+RelA (p65 NF-kB subunit)	-->	NAA50
+LXR-beta	-->	OGT (GlcNAc transferase)
+VCP	-->	Wdr20a
+MORC2	-->	ACLY
+Sirtuin1	--|	Bcl-XL
+RXRA	--|	IL-1 alpha
+JNK2(MAPK9)	-->	GSK3 beta
+NEDD4L	--|	TfR1
+IST1	-->	CHMP4B
+ORAI1	-->	TRPC6
+Myosin Vb	-->	Rab-10
+KLF5	-->	MAFbx
+KIAA1267	-->	PI3K reg class IA (p85-alpha)
+JMJD3	-->	NEPH2
+MYBPH	--|	MYH9
+N-CoR	--|	C/EBPalpha
+Sirtuin1	-->	JMJD3
+CBP	-->	COX-2 (PTGS2)
+BAF47	--|	CBP
+RelA (p65 NF-kB subunit)	--|	Connexin 43
+CTCF	--|	Fra-1
+Rb protein	-->	HBB2 (mouse)
+Androgen receptor	-->	Amphiregulin
+p53	-->	Fra-1
+YY1	--|	FAM40A
+PUM2	-->	PCNA
+CHD7	--|	RAIG1
+MGAT1	-->	GLUT1
+RelA (p65 NF-kB subunit)	-->	SLC39A8
+FKHR	-->	ULK1
+C/EBPalpha	-->	FGL2
+BAF180	-->	ALPL
+SRF	-->	BRG1
+14-3-3 epsilon	-->	Thimet oligopeptidase
+GCR	--|	Smac/Diablo
+TR-beta	--|	Prestin
+UBE2J1	-->	RNF5
+hASH1	-->	MAP6D1
+Menin	-->	SRGAP1
+YTHDF3	-->	Cyclin D1
+TRRAP	-->	PCSK9
+ZNF288	--|	KLF12
+RelA (p65 NF-kB subunit)	-->	PMEPA1
+RelA (p65 NF-kB subunit)	-->	ASB3
+TFIIF, alpha subunit	-->	IFNGR2
+DDX6	--|	JunB
+AP-4	-->	Caspase-9
+TOM70	-->	Mcl-1
+GLI-2	-->	NR2F1
+MSX-2	--|	SRF
+FOXO3A	--|	PCNA
+c-Jun	-->	Galectin-1
+DDB2	--|	Androgen receptor
+CABIN1	--|	p21
+PPAR-gamma	--|	PDGF-B
+p53	--|	FNBP1L
+WTAP	-->	MEF2A
+SPTBN2	-->	Nav1.6
+NF-kB1 (p105)	-->	SIAT8A
+NOL10	-->	AATF (Che-1)
+PMCA2b	--|	Calcineurin A (alpha)
+Lamin A/C	-->	EGR1
+ZO-1	--|	PER1
+NUR77	--|	IDH3G
+KLF4	-->	Aggrecanase-1
+c-Jun	-->	HTR1B
+Ikaros	-->	LDLR
+XBP1	-->	DT3UO
+PER1	--|	WNK1
+RXRA	-->	ACADVL
+PKM2	-->	STAT3
+JAZ	-->	p21
+IMP2	-->	FLJ11151
+NANOG	-->	DDX28
+Beta-arrestin1	-->	CDC18L (CDC6)
+Atrophin-1	--|	CBP
+IKK-alpha	--|	NF-kB1 (p50)
+Esrra	-->	CUGBP1
+STAT3	--|	DT3UO
+GSK3 beta	-->	Sirtuin6
+ATAD2	-->	Cyclin D1
+RelA (p65 NF-kB subunit)	-->	PTP-1B
+c-Jun	-->	MAT2A
+JMJD6	--|	TCOF1
+EGR1	-->	ATF-3
+KCTD10	--|	PDIP1
+Tau (MAPT)	--|	PSMD12
+ATF-4	-->	Stanniocalcin 2
+JARID2	--|	Cyclin D2
+TBKBP1(SINTBAD)	-->	TBK1
+SMAD4	-->	Par-4
+ATF-4	-->	SLC38A1
+Cyclin D1	--|	FKHR
+hASH1	--|	Zfp469
+BAF200	-->	NEDD4L
+PELP1	-->	Androgen receptor
+p53	--|	MCM7
+HBP1	-->	CBP
+KLF4	-->	MKK7 (MAP2K7)
+STAT3	-->	ICRF
+NF-kB1 (p50)	-->	Androgen receptor
+Elk-4	-->	HIPK1
+NCOA2 (GRIP1/TIF2)	-->	Esrra
+RelA (p65 NF-kB subunit)	--|	Nav1.6
+XBP1	-->	GASC1
+SFRS3	--|	p21
+FKHR	-->	LIG-1
+CUGBP1	-->	p21
+UTX	-->	Rb protein
+CXXC6	--|	Reelin
+SOX2	-->	RBP-J kappa (CBF1)
+GCR	-->	Bim
+BRD2	-->	ENO2
+SH3BP4	--|	RagD
+FKHR	--|	RAP-2A
+VEGF-A	--|	PDGF-R-alpha
+RelA (p65 NF-kB subunit)	--|	OTUD7A
+MafF	-->	EP400
+Filamin B (TABP)	-->	S1P1 receptor
+Ephrin-A receptor 7	-->	TNF-R1
+IKK-alpha	--|	ADAM12
+RBP-J kappa (CBF1)	-->	TGF-beta receptor type III (betaglycan)
+XTP3B	--|	SEL1L
+c-Fos	-->	TY3H
+C/EBPbeta	-->	RBB2
+SMYD4	-->	FUS
+FUS	-->	XIAP
+YY1	--|	Cyclin D1
+SAFB	--|	C/EBPdelta
+TNF-R1	--|	IKK-gamma
+STAT1	-->	Pim-1
+SRF	-->	LATS1
+G9a	-->	PR (membrane)
+FBX22	-->	Serine racemase
+RARalpha	-->	TSLC1
+ITF2	-->	Securin
+hASH1	-->	UBE2J1
+NF-kB1 (p105)	-->	BTF
+RPS19	--|	MIF
+PCGF2 (Mel-18)	-->	RING1
+TIA-1	--|	PABPC1
+ErbB4	-->	NDRG1
+DOT1	-->	TAPT1
+Amyloid beta 42	-->	LONP
+RelA (p65 NF-kB subunit)	-->	ADAM12
+MEF2A	-->	KLF5
+ATF-4	-->	p21
+YTHDF2	--|	Fra-1
+C/EBPdelta	-->	Keratin 16
+RelA (p65 NF-kB subunit)	-->	RASGRF1
+IGF-2 receptor	-->	DPP4
+NUR77	--|	Rictor
+Bcl-6	-->	TCF8
+CUGBP1	--|	p27KIP1
+PBX1	-->	BMI-1
+LXR-beta	-->	NUR77
+DDX5	--|	IKK-gamma
+p53	-->	ZNF365
+SUMO-3	--|	NUR77
+E2F5	--|	p21
+MSX-2	-->	NANOG
+YY1	--|	TMEM17
+NUP98	-->	DSCAM
+PBX1	--|	GABA-A receptor gamma-3 subunit
+Sestrin 2	--|	FKHR
+c-Jun	-->	Versican
+SERTAD1	-->	SMAD1
+MeCP2	--|	PCDHB14
+c-Myb	-->	Menin
+STAT3	-->	Cyclin D3
+p21	--|	SHPS-1
+AOF1	-->	ACOX1
+STAT3	-->	Bcl-6
+TIF1-beta	-->	Mi-2 alpha
+TCF8	-->	PREX1
+C/EBP zeta	-->	EGR1
+INO80	-->	Ephrin-A receptor 2
+NMT1	-->	p53
+RUNX3	-->	NAB1
+REV-ERBalpha	--|	c-Fos
+JunB	-->	JMJD3
+AML1 (RUNX1)	-->	Pyk2(FAK2)
+FKHR	-->	Sestrin 1
+NANOG	-->	SIP1 (ZFHX1B)
+SIP1 (ZFHX1B)	--|	CIITA
+NDPK A	--|	PR (nuclear)
+Ikaros	--|	Dynamin-2
+XBP1	-->	GAD2
+Ephrin-B1	-->	ZHX2
+Androgen receptor	-->	TBC1D22B
+Androgen receptor	--|	GBR1
+SIN1	-->	Rictor
+Esrra	-->	Bassoon
+SMRT	--|	TR-beta
+PKM2	--|	p53
+Androgen receptor	--|	GCR
+RBP-J kappa (CBF1)	--|	c-Fos
+eIF4G2	-->	ANCO-1
+STAT1	-->	IFI27
+ARPP- 21	--|	CD81
+CBP	-->	CDCA1
+GABP alpha	-->	GABPB2
+BMI-1	--|	RASSF3
+RelA (p65 NF-kB subunit)	-->	FBXO17
+RelA (p65 NF-kB subunit)	--|	C/EBP zeta
+CBP	-->	PR (nuclear)
+SKIP (Ski-interacting protein)	-->	Androgen receptor
+14-3-3 epsilon	--|	RGS4
+TET2	-->	Bim
+TCF7L2 (TCF4)	-->	Follistatin
+SMAD1	-->	SMAD4
+FKHR	-->	APG16L1
+UBC	--|	APP
+ITF2	-->	ENC1
+PER1	--|	Androgen receptor
+SOX2	--|	SASH1
+RelB (NF-kB subunit)	--|	Stanniocalcin 1
+YY1	--|	G3P2
+FosB	-->	JMJD3
+Esrra	-->	IDH3A
+MAZ	-->	TSG101
+TCF8	-->	PDGF-B
+PHLDA1	-->	Mcl-1
+eIF4E	-->	U2AF35
+TRAF3	--|	Csk
+KLF5	-->	NFE2L1
+C/EBPbeta	--|	GSK3 beta
+HIC1	--|	CIITA
+HDAC2	-->	C/EBPalpha
+TCF7L2 (TCF4)	-->	ALPL
+RARalpha	-->	Mcl-1
+SON	--|	GADD45 alpha
+Insulin receptor	--|	Csk
+RGS19	-->	NDPK A
+RelA (p65 NF-kB subunit)	-->	JMJD3
+JunD	-->	Bim
+SRF	-->	GRP78
+SOX2	--|	C1orf21
+FANCE	-->	FANCC
+SKIP	-->	SMAD2
+Androgen receptor	-->	Tubulin beta 3
+USP38	--|	TBK1
+Ski	--|	SMAD1
+Androgen receptor	-->	EPAS1
+UNC84B	-->	Nesprin 1
+TIF1-beta	--|	GADD45 alpha
+TRAP150	-->	CRY2
+Androgen receptor	-->	KLF5
+STAT1	--|	SMAD2
+Dystroglycan	-->	Emerin
+FOXK1	--|	OGT (GlcNAc transferase)
+KLF4	-->	NDRG2
+Plakophilin 3	--|	p38alpha (MAPK14)
+C/EBPbeta	-->	S100B
+FKHR	-->	NOXA
+JMJD1B	-->	LMO2
+NUP98	-->	IGF-1 receptor
+ATBF1	-->	RUNX3
+SAP102	-->	Semaphorin 4C
+RelA (p65 NF-kB subunit)	-->	Semaphorin 6B
+c-Fos	-->	SV2C
+Bcl-6	-->	SMRT
+YY1	-->	HDAC5
+SETDB2	-->	GCR
+PYGO2	-->	RCC1
+BMI-1	--|	IGF-1 receptor
+YY1	--|	SCMH1
+GASC1	-->	Cyclin D1
+FBXO11	--|	DTL (hCdt2)
+TLE4	--|	TCF7L2 (TCF4)
+STAT5B	-->	Bcl-XL
+HDAC2	-->	IL10RA
+APCL	--|	MDM2
+DDX3X	-->	NANOG
+Ebp1	-->	TIF1-beta
+hASH1	-->	Neuralized-2
+CTCF	-->	XBP1
+FOXO3A	-->	Sestrin 3
+STAT3	-->	Hemopexin
+Androgen receptor	--|	MRPS6
+HBP1	--|	MYH10
+TEF-1	--|	NOR1
+URM1	-->	Connexin 43
+C/EBPalpha	-->	FAM98A
+TR4	-->	FATP1
+KLF4	-->	NCK2
+SIP1 (ZFHX1B)	--|	Ephrin-B2
+SRF	-->	IRF8
+Neurabin-1	-->	ARHGEF2
+TNRC6A	--|	KCC2
+SOX2	-->	PPAPDC1A
+SAP97 (DLG1)	-->	p38alpha (MAPK14)
+FKHR	--|	KLF11 (TIEG2)
+Kendrin	--|	Nek2A
+NF-kB1 (p105)	-->	NPTX1
+EGR2 (Krox20)	-->	GFOD1
+RRP1B (KIAA0179)	--|	DIPA
+Androgen receptor	-->	VEGF-A
